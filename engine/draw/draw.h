@@ -2,6 +2,7 @@
 #define DRAW_H
 
 #include "../init/init.h"
+#include "../inputs/input.h"
 #include "../definitions.h"
 #include "../structs.h"
 

@@ -3,8 +3,6 @@
 
 #include "../init/init.h"
 
-static int pressed;
-
 void doInput(void);
 
 void doKeyDown(SDL_KeyboardEvent* event);

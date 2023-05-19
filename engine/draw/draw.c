@@ -3,6 +3,7 @@
 void prepareScene(void) {
     SDL_SetRenderDrawColor(app.renderer, 255, 0, 0, 255);
     SDL_RenderClear(app.renderer);
+    doInput();
 }
 
 void presentScene(void) {

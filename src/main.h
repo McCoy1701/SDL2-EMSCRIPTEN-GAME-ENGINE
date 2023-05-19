@@ -11,6 +11,8 @@
 #include "../engine/text/text.h"
 #include "../engine/inputs/input.h"
 
+void tick(void);
+
 void mainloop(void);
 
 #endif

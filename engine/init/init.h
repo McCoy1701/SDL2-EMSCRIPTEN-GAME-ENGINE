@@ -9,6 +9,7 @@
 #include "../common.h"
 
 #include "../sounds/sound.h"
+#include "../text/text.h"
 
 extern App app;
 
