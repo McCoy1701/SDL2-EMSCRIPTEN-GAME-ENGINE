@@ -1,14 +1,9 @@
 #include "main.h"
 
-void tick(void) {
-    mainloop();
-    // app.delegate.logic();
-    // app.delegate.draw();
-}
-
 void mainloop(void) {
-    presentScene();
     prepareScene();
+    drawText(510, 480, 255, 255, 255, TEXT_CENTER, 1, "TESTING");
+    presentScene();
 }
 
 int main(int argc, char** argv) {
@@ -16,15 +11,17 @@ int main(int argc, char** argv) {
     
     initSounds();
 
-    playSound(&playerSnd);
+    initFont();
 
+    playSound(&playerSnd);
+      
     #ifdef __EMSCRIPTEN__
-        emscripten_set_main_loop(tick, -1, 1);
+        emscripten_set_main_loop(mainloop, -1, 1);
     #endif
 
     #ifndef __EMSCRIPTEN__
         while(1) {
-            tick();
+            mainloop();
         }
     #endif
 

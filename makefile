@@ -53,9 +53,9 @@ $(OBJ_DIR)/main.o: $(SRC_DIR)/main.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 
-$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/main.o
+$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/main.o
 	mkdir -p $(INDEX_DIR)
-	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
+	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
 
 clean:
 	rm -rf $(INDEX_DIR) $(OBJ_DIR)

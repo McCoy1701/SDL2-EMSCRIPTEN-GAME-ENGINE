@@ -7,6 +7,7 @@
 
 #define MAX_KEYBOARD_KEYS 350
 #define MAX_NAME_LENGTH 100
+#define MAX_LINE_LENGTH 1024
 
 #define SCREEN_WIDTH 1280
 #define SCREEN_HEIGHT 720
@@ -18,5 +19,11 @@
 #define MIN(x, y) (((x) < (y)) ? (x) : (y))
 
 #define STRNCPY(dest, src, n) strncpy(dest, src, n); dest[n - 1] = '\0'
+
+enum {
+    TEXT_LEFT,
+    TEXT_CENTER,
+    TEXT_RIGHT
+};
 
 #endif

@@ -8,8 +8,7 @@
 #include "../engine/init/init.h"
 #include "../engine/draw/draw.h"
 #include "../engine/sounds/sound.h"
-
-void tick(void);
+#include "../engine/text/text.h"
 
 void mainloop(void);
 
