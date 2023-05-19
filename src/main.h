@@ -9,6 +9,7 @@
 #include "../engine/draw/draw.h"
 #include "../engine/sounds/sound.h"
 #include "../engine/text/text.h"
+#include "../engine/inputs/input.h"
 
 void mainloop(void);
 

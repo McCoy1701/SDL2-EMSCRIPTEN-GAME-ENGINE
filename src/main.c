@@ -2,8 +2,20 @@
 
 void mainloop(void) {
     prepareScene();
+    
+    doInput();
+    
     drawText(510, 480, 255, 255, 255, TEXT_CENTER, 1, "TESTING");
+    
+    if (app.keyboard[SDL_SCANCODE_LCTRL]) {
+        playSound(&playerSnd);
+    }
+    
     presentScene();
+}
+
+void tick(void) {
+    mainloop();
 }
 
 int main(int argc, char** argv) {
@@ -12,8 +24,6 @@ int main(int argc, char** argv) {
     initSounds();
 
     initFont();
-
-    playSound(&playerSnd);
       
     #ifdef __EMSCRIPTEN__
         emscripten_set_main_loop(mainloop, -1, 1);

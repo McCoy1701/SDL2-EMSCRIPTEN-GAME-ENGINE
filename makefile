@@ -46,16 +46,16 @@ $(OBJ_DIR)/title.o: $(TITLE_DIR)/title.c
 $(OBJ_DIR)/player.o: $(ENTITIES_DIR)/player/player.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
-$(OBJ_DIR)/inputs.o: $(INPUT_DIR)/inputs.c
+$(OBJ_DIR)/input.o: $(INPUT_DIR)/input.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 $(OBJ_DIR)/main.o: $(SRC_DIR)/main.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 
-$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/main.o
+$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/input.o $(OBJ_DIR)/main.o
 	mkdir -p $(INDEX_DIR)
-	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
+	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/input.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
 
 clean:
 	rm -rf $(INDEX_DIR) $(OBJ_DIR)
