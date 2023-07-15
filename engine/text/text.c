@@ -63,7 +63,7 @@ void drawText(int x, int y, int r, int g, int b, int align, int scale, char *for
             rect.x = (c - ' ') * GLYPH_WIDTH;
             if (!scale) {
                 SDL_RenderCopy(app.renderer, fontTexture, &rect, &dest);
-                x += GLYPH_WIDTH;
+                dest.x += GLYPH_WIDTH;
             } 
             
             else {
