@@ -3,9 +3,6 @@
 Cell** MAP;
 Character* player;
 
-int currentIndex = 0;
-float accmulatedTime = 0;
-
 void gameLoop(void) {
     doLoop();
     renderLoop();
@@ -18,12 +15,7 @@ void doLoop(void) {
 
 void renderLoop(void) {
     displayWorld(MAP);
-    drawSurfaces(player, currentIndex);
-    accmulatedTime += getDeltaTime();
-    if (accmulatedTime >= 0.1f) {
-        currentIndex = (currentIndex + 1) % player->surfaceCount;
-        accmulatedTime = 0;
-    }
+    drawSurfaces(player);
 }
 
 void initGame(void) {

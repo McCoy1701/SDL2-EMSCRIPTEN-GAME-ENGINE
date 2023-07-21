@@ -5,11 +5,20 @@
 #include <SDL2/SDL_image.h>
 
 #include "../structs.h"
+#include "../sprites/spriteSlicer.h"
 
-Animation* createAnimation(int numFrames, uint32_t msPerFrame);
+Animation* animationConstructor(const char* filename, int numFrames, uint32_t msPerFrame);
 
-void destroyAnimation(Animation* animation);
+void playAnimation(Animation* animation);
 
-int loadFrames(Animation* animation, SDL_Renderer* renderer, char* filename);
+void animationDeconstructor(Animation* animation);
+
+AnimationNode* animationNodeConstructor(const char* name, Animation* animation);
+
+void apendAnimationNode(AnimationNode** head, const char* name, Animation* animation);
+
+Animation* findAnimation(AnimationNode** head, const char* name);
+
+void animationNodeQuit(AnimationNode* head);
 
 #endif

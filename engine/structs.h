@@ -9,13 +9,6 @@
 
 typedef void (*voidFunctionPointer)(void);
 
-typedef struct _character {
-    vec2* position;
-    vec2* velocity;
-    int surfaceCount;
-    SDL_Surface** surfaces;
-} Character;
-
 typedef struct _delegate {
     void (*logic)(void);
     void (*draw)(void);
@@ -24,9 +17,22 @@ typedef struct _delegate {
 typedef struct _animation {
     int frameCount;
     int frame;
+    float accumulated;
     uint32_t msPerFrame;
     SDL_Surface** animationFrames;
 } Animation;
+
+typedef struct _animationNode {
+    char* name;
+    Animation* animation;
+    struct _animationNode* next;
+} AnimationNode;
+
+typedef struct _character {
+    vec2* position;
+    vec2* velocity;
+    AnimationNode* animations;
+} Character;
 
 typedef struct _surface {
     char name[MAX_NAME_LENGTH];

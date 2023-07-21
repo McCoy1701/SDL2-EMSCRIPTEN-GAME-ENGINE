@@ -1,16 +1,25 @@
 #include "animation.h"
 
-Animation* createAnimation(int numFrames, uint32_t msPerFrame) {
+Animation* animationConstructor(const char* filename, int numFrames, uint32_t msPerFrame) {
     Animation* animation = (Animation*)malloc(sizeof(Animation));
     animation->frameCount = numFrames;
     animation->msPerFrame = msPerFrame;
     animation->frame = 0;
-    animation->animationFrames = (SDL_Surface**)malloc(numFrames * sizeof(SDL_Surface*));
+    animation->accumulated = 0;
+    animation->animationFrames = sliceSpriteSheet(filename, vec2Constructor(16, 48), animation->frameCount);
 
     return animation;
 }
 
-void destroyAnimation(Animation* animation) {
+void playAnimation(Animation* animation) {
+    animation->accumulated += getDeltaTime();
+    if (animation->accumulated >= animation->msPerFrame) {
+        animation->frame = (animation->frame + 1) % animation->frameCount;
+        animation->accumulated -= animation->msPerFrame;
+    }
+}
+
+void animationDeconstructor(Animation* animation) {
     for (int i = 0; i < animation->frameCount; i++) {
         SDL_FreeSurface(animation->animationFrames[i]);
     }
@@ -19,21 +28,56 @@ void destroyAnimation(Animation* animation) {
     free(animation);
 }
 
-int loadFrame(Animation* animation, SDL_Renderer* renderer, char* filename) {
-    char* tempName;
-    for (int i = 0; i < animation->frameCount; i++) {
-        sprintf("%s%d%s", filename, i, ".png");
-        SDL_Surface* surf = IMG_Load(tempName);
-        if (!surf) {
-            printf("Error loading file: %s%s\n", tempName, SDL_GetError());
-            return 0;
+AnimationNode* animationNodeConstructor(const char* name, Animation* animation) {
+    AnimationNode* newNode = (AnimationNode*)malloc(sizeof(AnimationNode));
+    if (newNode != NULL){
+        newNode->name = name;
+        newNode->animation = animation;
+        newNode->next = NULL;
+    }
+    return newNode;
+}
+
+void apendAnimationNode(AnimationNode** head, const char* name, Animation* animation) {
+    AnimationNode* newNode = animationNodeConstructor(name, animation);
+    if (newNode == NULL) {
+        printf("[Error] could not allocate memory\n");
+        return;
+    }
+
+    if (*head == NULL) {
+        *head = newNode;
+    }
+    
+    else{
+        AnimationNode* current = *head;
+        while(current != NULL) {
+            current = current->next;
         }
         
-        animation->animationFrames[i] = surf;
-        if (!animation->animationFrames[i]) {
-            printf("Error loading file: %s%s\n", tempName, SDL_GetError());
-            return 0;
-        }
+        current->next = newNode;
     }
-    return 1;
+}
+
+Animation* findAnimation(AnimationNode** head, const char* name) {
+    char* temp;
+    AnimationNode* tempNode = *head;
+    STRNCPY(temp, tempNode->name, MAX_NAME_LENGTH);
+    
+    while (tempNode != NULL) {
+        if (strcmp(temp, name)) {
+            return tempNode->animation;
+        }
+
+        tempNode = tempNode->next;
+    }
+}
+
+void animationNodeQuit(AnimationNode* head) {
+    while(head->next != NULL) {
+        AnimationNode* temp = head;
+        head = head->next;
+        free(temp->animation->animationFrames);
+        free(temp);
+    }
 }
