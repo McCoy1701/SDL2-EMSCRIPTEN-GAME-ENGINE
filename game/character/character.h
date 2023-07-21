@@ -9,7 +9,7 @@
 #include "../../engine/structs.h"
 
 Character* constructCharacter(vec2* position);
-void drawSurfaces(Character* player);
+void drawSurfaces(Character* player, int index);
 void deconstructCharacter(Character* player);
 
 #endif

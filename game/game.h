@@ -8,6 +8,7 @@
 #include "../engine/sounds/sound.h"
 #include "../engine/text/text.h"
 #include "../engine/inputs/input.h"
+#include "../engine/utils/deltaTime.h"
 
 #include "character/character.h"
 

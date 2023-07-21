@@ -12,6 +12,9 @@ void init(void) {
 
 	initFont();
 	
+	app.deltaTime.lastTime = 0;
+	app.deltaTime.currentTime = 0;
+
 	srand(time(NULL));
 }
 

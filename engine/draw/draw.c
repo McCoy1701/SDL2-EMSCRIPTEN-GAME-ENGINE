@@ -80,8 +80,6 @@ void blit(SDL_Surface* surf, int x, int y) {
     dest.y = y;
 
     img = SDL_CreateTextureFromSurface(app.renderer, surf);
-
-    SDL_FreeSurface(surf);
     
     int success = SDL_QueryTexture(img, NULL, NULL, &dest.w, &dest.h);
 
@@ -90,6 +88,8 @@ void blit(SDL_Surface* surf, int x, int y) {
     }
 
     SDL_RenderCopy(app.renderer, img, NULL, &dest);
+
+    SDL_DestroyTexture(img);
 }
 
 void blitRect(SDL_Surface* surf, SDL_Rect src, int x, int y) {

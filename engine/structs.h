@@ -39,6 +39,11 @@ typedef struct _mouse {
     int y;
 } Mouse;
 
+typedef struct _deltaTime {
+    Uint32 lastTime;
+    Uint32 currentTime;
+} DeltaTime;
+
 typedef struct _audioClip {
     char filename[MAX_NAME_LENGTH];
     SDL_AudioSpec spec;
@@ -52,6 +57,7 @@ typedef struct _app {
     SDL_AudioDeviceID deviceID;
     Delegate delegate;
     int keyboard[MAX_KEYBOARD_KEYS];
+    DeltaTime deltaTime;
     Surface surfaceHead, *surfaceTail;
 } App;
 

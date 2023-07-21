@@ -8,16 +8,13 @@ Character* constructCharacter (vec2* position) {
     player->surfaceCount = 8;
     
     player->surfaces = sliceSpriteSheet("assets/playerSheet.png",
-    vec2Constructor(16, 16), player->surfaceCount);
+    vec2Constructor(16, 48), player->surfaceCount);
     
     return player;
 }
 
-void drawSurfaces(Character* player) {
-    for (int i = 0; i < player->surfaceCount; i++) {
-        blit(player->surfaces[i], player->position->x, player->position->y);
-        sleep(1);
-    }
+void drawSurfaces(Character* player, int index) {
+    blit(player->surfaces[index], player->position->x, player->position->y);
 }
 
 void deconstructCharacter(Character* player) {
