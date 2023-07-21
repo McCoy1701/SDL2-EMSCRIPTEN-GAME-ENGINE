@@ -9,9 +9,12 @@
 #include "../engine/text/text.h"
 #include "../engine/inputs/input.h"
 
+#include "character/character.h"
+
 #include "world/world.h"
 
 extern Cell** MAP;
+extern Character* player;
 
 void gameLoop(void);
 

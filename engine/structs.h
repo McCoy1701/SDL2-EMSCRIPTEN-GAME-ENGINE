@@ -5,8 +5,16 @@
 #include <SDL2/SDL_audio.h>
 
 #include "definitions.h"
+#include "draw/2d.h"
 
 typedef void (*voidFunctionPointer)(void);
+
+typedef struct _character {
+    vec2* position;
+    vec2* velocity;
+    int surfaceCount;
+    SDL_Surface** surfaces;
+} Character;
 
 typedef struct _delegate {
     void (*logic)(void);

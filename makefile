@@ -9,7 +9,7 @@ DRAW_DIR = engine/draw
 EFFECTS_DIR = engine/effects
 TEXT_DIR = engine/text
 SOUNDS_DIR = engine/sounds
-ENTITIES_DIR = game/entities
+SPRITES_DIR = engine/sprites
 INPUT_DIR = engine/inputs
 TITLE_DIR = game/title
 INDEX_DIR=index
@@ -37,7 +37,7 @@ $(OBJ_DIR)/text.o: $(TEXT_DIR)/text.c
 $(OBJ_DIR)/sounds.o: $(SOUNDS_DIR)/sound.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
-$(OBJ_DIR)/effects.o: $(EFFECTS_DIR)/effects.c
+$(OBJ_DIR)/spriteSlicer.o: $(SPRITES_DIR)/spriteSlicer.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 $(OBJ_DIR)/stage.o: $(STAGE_DIR)/stage.c
@@ -46,7 +46,7 @@ $(OBJ_DIR)/stage.o: $(STAGE_DIR)/stage.c
 $(OBJ_DIR)/title.o: $(TITLE_DIR)/title.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
-$(OBJ_DIR)/player.o: $(ENTITIES_DIR)/player/player.c
+$(OBJ_DIR)/character.o: $(GAME_DIR)/character/character.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 $(OBJ_DIR)/input.o: $(INPUT_DIR)/input.c
@@ -62,9 +62,9 @@ $(OBJ_DIR)/main.o: $(SRC_DIR)/main.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 
-$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
+$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
 	mkdir -p $(INDEX_DIR)
-	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
+	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
 
 clean:
 	rm -rf $(INDEX_DIR) $(OBJ_DIR)
