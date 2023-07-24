@@ -21,7 +21,7 @@ void renderLoop(void) {
 void initGame(void) {
     MAP = allocateWorldMemory();
     generateWorld(MAP);
-    player = constructCharacter(vec2Constructor(SCREEN_WIDTH/2, SCREEN_HEIGHT/2));
+    player = constructCharacter(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2));
 }
 
 void quitGame(void) {
