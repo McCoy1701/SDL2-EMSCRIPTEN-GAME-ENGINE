@@ -28,22 +28,11 @@ typedef struct _animationNode {
     struct _animationNode* next;
 } AnimationNode;
 
-typedef struct _character {
-    vec2* position;
-    vec2* velocity;
-    AnimationNode* animations;
-} Character;
-
 typedef struct _surface {
     char name[MAX_NAME_LENGTH];
     SDL_Surface* surface;
-    struct _surface *next;
+    struct _surface* next;
 } Surface;
-
-typedef struct _mouse {
-    int x;
-    int y;
-} Mouse;
 
 typedef struct _deltaTime {
     Uint32 lastTime;

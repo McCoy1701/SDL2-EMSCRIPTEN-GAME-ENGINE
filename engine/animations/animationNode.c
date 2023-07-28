@@ -40,4 +40,21 @@ void apendAnimationNode(AnimationNode** head, const char* name, Animation* anima
     }
 }
 
+AnimationNode* loadAnimationsFromFile(const char* filename) {
+    DIR* dir;
+    struct dirent* ent;
+    AnimationNode* head;
+    
+    if ((dir = opendir(filename)) != NULL) {
+        while ((ent = readdir(dir)) != NULL) {
+            printf("%s\n", ent->d_name);
+        }
 
+        closedir(dir);
+    } else {
+        printf("Error opening directory %s\n", filename);
+        return NULL;
+    }
+    
+    return NULL;
+}

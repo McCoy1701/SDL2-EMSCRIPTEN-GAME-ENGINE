@@ -3,6 +3,7 @@
 
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
+#include <dirent.h>
 
 #include "../structs.h"
 #include "../sprites/spriteSlicer.h"
@@ -20,5 +21,7 @@ void playAnimation(Animation* animation);
 void apendAnimationNode(AnimationNode** head, const char* name, Animation* animation);
 
 Animation* findAnimation(AnimationNode** head, const char* name);
+
+AnimationNode* loadAnimationsFromFile(const char* filename);
 
 #endif
