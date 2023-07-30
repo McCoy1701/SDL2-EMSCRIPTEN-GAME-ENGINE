@@ -6,11 +6,12 @@
 #include <dirent.h>
 
 #include "../structs.h"
+#include "../utils/deltaTime.h"
 #include "../sprites/spriteSlicer.h"
 
 Animation* animationConstructor(const char* filename, int numFrames, uint32_t msPerFrame);
 
-AnimationNode* animationNodeConstructor(const char* name, Animation* animation);
+AnimationNode* animationNodeConstructor(char* name, Animation* animation);
 
 void animationDeconstructor(Animation* animation);
 
@@ -18,9 +19,9 @@ void animationNodeDeconstructor(AnimationNode* head);
 
 void playAnimation(Animation* animation);
 
-void apendAnimationNode(AnimationNode** head, const char* name, Animation* animation);
+void apendAnimationNode(AnimationNode** head, char* name, Animation* animation);
 
-Animation* findAnimation(AnimationNode** head, const char* name);
+Animation* findAnimation(AnimationNode** head, char* name);
 
 AnimationNode* loadAnimationsFromFile(const char* filename);
 

@@ -9,6 +9,7 @@
 #include "../engine/text/text.h"
 #include "../engine/inputs/input.h"
 #include "../engine/utils/deltaTime.h"
+#include "../engine/animations/animation.h"
 
 #include "character/character.h"
 

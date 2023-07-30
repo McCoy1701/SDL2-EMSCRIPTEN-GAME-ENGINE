@@ -39,6 +39,11 @@ typedef struct _deltaTime {
     Uint32 currentTime;
 } DeltaTime;
 
+typedef struct _mouse {
+    int x;
+    int y;
+} Mouse;
+
 typedef struct _audioClip {
     char filename[MAX_NAME_LENGTH];
     SDL_AudioSpec spec;

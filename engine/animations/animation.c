@@ -28,16 +28,18 @@ void playAnimation(Animation* animation) {
     }
 }
 
-Animation* findAnimation(AnimationNode** head, const char* name) {
+Animation* findAnimation(AnimationNode** head, char* name) {
     char* temp;
     AnimationNode* tempNode = *head;
+    Animation* animation;
     STRNCPY(temp, tempNode->name, MAX_NAME_LENGTH);
     
     while (tempNode != NULL) {
         if (strcmp(temp, name)) {
-            return tempNode->animation;
+            animation = tempNode->animation;
         }
 
         tempNode = tempNode->next;
     }
+    return animation;
 }

@@ -21,6 +21,8 @@ void renderLoop(void) {
 void initGame(void) {
     MAP = allocateWorldMemory();
     generateWorld(MAP);
+    AnimationNode* testNode = (AnimationNode*)malloc(sizeof(AnimationNode));
+    testNode = loadAnimationsFromFile("assets/player");
     player = constructCharacter(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2));
 }
 

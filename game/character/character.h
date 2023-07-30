@@ -6,6 +6,7 @@
 
 #include "../../engine/draw/2d.h"
 #include "../../engine/sprites/spriteSlicer.h"
+#include "../../engine/animations/animation.h"
 #include "../../engine/structs.h"
 
 typedef struct _character {

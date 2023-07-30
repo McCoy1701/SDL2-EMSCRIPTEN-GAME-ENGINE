@@ -1,6 +1,6 @@
 #include "animation.h"
 
-AnimationNode* animationNodeConstructor(const char* name, Animation* animation) {
+AnimationNode* animationNodeConstructor(char* name, Animation* animation) {
     AnimationNode* newNode = (AnimationNode*)malloc(sizeof(AnimationNode));
     if (newNode != NULL){
         newNode->name = name;
@@ -19,7 +19,7 @@ void animationNodeDeconstructor(AnimationNode* head) {
     }
 }
 
-void apendAnimationNode(AnimationNode** head, const char* name, Animation* animation) {
+void apendAnimationNode(AnimationNode** head, char* name, Animation* animation) {
     AnimationNode* newNode = animationNodeConstructor(name, animation);
     if (newNode == NULL) {
         printf("[Error] could not allocate memory\n");

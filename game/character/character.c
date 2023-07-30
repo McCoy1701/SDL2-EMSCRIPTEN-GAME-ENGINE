@@ -19,7 +19,7 @@ void deconstructCharacter(Character* player) {
     free(player->position);
     free(player->velocity);
 
-    animationNodeQuit(player->animations);
+    animationNodeDeconstructor(player->animations);
 
     free(player);
 }
