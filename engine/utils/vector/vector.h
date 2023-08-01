@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "../definitions.h"
+#include "../../definitions.h"
 
 typedef struct _vec2 {
     float x;

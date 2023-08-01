@@ -4,7 +4,7 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 
-#include "../../engine/draw/2d.h"
+#include "../../engine/utils/vector/vector.h"
 #include "../../engine/sprites/spriteSlicer.h"
 #include "../../engine/animations/animation.h"
 #include "../../engine/structs.h"

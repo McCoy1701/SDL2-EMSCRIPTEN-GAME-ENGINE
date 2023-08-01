@@ -6,8 +6,8 @@
 
 #include "../init/init.h"
 #include "../inputs/input.h"
-#include "../definitions.h"
-#include "../structs.h"
+// #include "../definitions.h"
+// #include "../structs.h"
 
 void prepareScene(void);
 

@@ -8,7 +8,7 @@
 #include <stdlib.h>
 
 #include "../structs.h"
-#include "../utils/deltaTime.h"
+#include "../utils/deltaTime/deltaTime.h"
 #include "../sprites/spriteSlicer.h"
 #include "../utils/utils.h"
 

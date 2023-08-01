@@ -7,7 +7,7 @@
 
 #include "../definitions.h"
 #include "../structs.h"
-#include "../draw/2d.h"
+#include "../utils/vector/vector.h"
 
 #include "../sounds/sound.h"
 #include "../text/text.h"

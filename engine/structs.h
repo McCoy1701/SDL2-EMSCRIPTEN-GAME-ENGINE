@@ -5,7 +5,7 @@
 #include <SDL2/SDL_audio.h>
 
 #include "definitions.h"
-#include "draw/2d.h"
+#include "utils/vector/vector.h"
 
 typedef void (*voidFunctionPointer)(void);
 

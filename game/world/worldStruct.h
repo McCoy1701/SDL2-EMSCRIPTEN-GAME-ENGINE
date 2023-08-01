@@ -1,7 +1,7 @@
 #ifndef worldStruct_H
 #define worldStruct_H
 
-#include "../../engine/draw/2d.h"
+#include "../../engine/utils/vector/vector.h"
 
 typedef struct _cell {
     int x;
