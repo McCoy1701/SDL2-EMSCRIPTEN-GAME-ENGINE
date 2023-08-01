@@ -1,6 +1,7 @@
 #include "init.h"
 
 App app;
+Stage stage;
 
 void init(void) {
 	SDL_Init(SDL_INIT_VIDEO | SDL_INIT_AUDIO | SDL_INIT_TIMER);

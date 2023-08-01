@@ -1,25 +1,25 @@
 #include "character.h"
 
-Character* constructCharacter (vec2* position) {
-    Character* player = malloc(sizeof(Character));
+Entity* constructEntity (vec2* position) {
+    Entity* player = malloc(sizeof(Entity));
+    memset(player, 0, sizeof(Entity));
     
-    player->position = position;
-    player->velocity = vec2Zero();
-    
-    player->animations = malloc(sizeof(AnimationNode));
+    stage.entityTail->next = player;
+    stage.entityTail = player;
     
     return player;
 }
 
-void drawSurfaces(Character* player) {
+void drawSurfaces(Entity* player) {
     
 }
 
-void deconstructCharacter(Character* player) {
+void deconstructCharacter(Entity* player) {
     free(player->position);
     free(player->velocity);
 
-    animationNodeDeconstructor(player->animations);
+    animationNodeDeconstructor(&player->animationsHead);
+    animationNodeDeconstructor(player->animationsTail);
 
     free(player);
 }

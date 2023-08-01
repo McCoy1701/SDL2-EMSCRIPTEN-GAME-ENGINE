@@ -2,6 +2,7 @@
 
 Cell** MAP;
 Character* player;
+AnimationNode* testNode;
 
 void gameLoop(void) {
     doLoop();
@@ -21,12 +22,12 @@ void renderLoop(void) {
 void initGame(void) {
     MAP = allocateWorldMemory();
     generateWorld(MAP);
-    AnimationNode* testNode = (AnimationNode*)malloc(sizeof(AnimationNode));
     testNode = loadAnimationsFromFile("assets/player");
     player = constructCharacter(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2));
 }
 
 void quitGame(void) {
     deconstructCharacter(player);
+    animationNodeDeconstructor(testNode);
     quitWorld(MAP);
 }

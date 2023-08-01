@@ -24,8 +24,11 @@ $(OBJ_DIR)/init.o: $(INIT_DIR)/init.c
 	mkdir -p $(OBJ_DIR)
 	$(CC) $(CFLAGS) $< -c -o $@
 
-$(OBJ_DIR)/deltaTime.o: $(UTILS_DIR)/deltaTime.c
+$(OBJ_DIR)/utils.o: $(UTILS_DIR)/utils.c
 	$(CC) $(CFLAGS) $< -c -o $@
+
+$(OBJ_DIR)/deltaTime.o: $(UTILS_DIR)/deltaTime.c
+	$(CC) $(CFLAGS) $< -c -o $@	
 
 $(OBJ_DIR)/draw.o: $(DRAW_DIR)/draw.c
 	$(CC) $(CFLAGS) $< -c -o $@
@@ -70,9 +73,9 @@ $(OBJ_DIR)/main.o: $(SRC_DIR)/main.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 
-$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
+$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
 	mkdir -p $(INDEX_DIR)
-	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
+	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
 
 clean:
 	rm -rf $(INDEX_DIR) $(OBJ_DIR)

@@ -13,6 +13,7 @@
 #include "../text/text.h"
 
 extern App app;
+extern Stage stage;
 
 extern AudioClip playerSnd;
 

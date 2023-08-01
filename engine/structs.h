@@ -44,6 +44,19 @@ typedef struct _mouse {
     int y;
 } Mouse;
 
+typedef struct _entity {
+    vec2* position;
+    vec2* screenPosition;
+    vec2* velocity;
+    vec2* size;
+    AnimationNode animationsHead, *animationsTail;
+    struct _entity *next;
+} Entity;
+
+typedef struct _stage {
+    Entity entityHead, *entityTail;
+} Stage;
+
 typedef struct _audioClip {
     char filename[MAX_NAME_LENGTH];
     SDL_AudioSpec spec;

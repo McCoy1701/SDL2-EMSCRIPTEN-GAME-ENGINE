@@ -1,12 +1,12 @@
 #include "animation.h"
 
-Animation* animationConstructor(const char* filename, int numFrames, uint32_t msPerFrame) {
+Animation* animationConstructor(const char* filename, vec2* cellSize, int numFrames, uint32_t msPerFrame) {
     Animation* animation = (Animation*)malloc(sizeof(Animation));
     animation->frameCount = numFrames;
     animation->msPerFrame = msPerFrame;
     animation->frame = 0;
     animation->accumulated = 0;
-    animation->animationFrames = sliceSpriteSheet(filename, vec2Constructor(16, 48), animation->frameCount);
+    animation->animationFrames = sliceSpriteSheet(filename, cellSize, animation->frameCount);
 
     return animation;
 }
