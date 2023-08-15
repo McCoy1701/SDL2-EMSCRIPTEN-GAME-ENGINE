@@ -23,9 +23,10 @@ typedef struct _animation {
 } Animation;
 
 typedef struct _animationNode {
-    char* name;
+    const char* name;
     Animation* animation;
     struct _animationNode* next;
+    struct _animationNode* prev;
 } AnimationNode;
 
 typedef struct _surface {
@@ -49,8 +50,8 @@ typedef struct _entity {
     vec2* screenPosition;
     vec2* velocity;
     vec2* size;
-    AnimationNode animationsHead, *animationsTail;
-    struct _entity *next;
+    AnimationNode* animationsHead;
+    struct _entity* next;
 } Entity;
 
 typedef struct _stage {

@@ -4,7 +4,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include <dirent.h>
 
-char** tokenizeString(const char* str, const char* delimiter);
+char** tokenizeString(const char* str, const char* delimiter, const char* filename);
 
 #endif

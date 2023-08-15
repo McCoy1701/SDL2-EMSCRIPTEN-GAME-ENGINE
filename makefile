@@ -27,7 +27,7 @@ $(OBJ_DIR)/init.o: $(INIT_DIR)/init.c
 $(OBJ_DIR)/utils.o: $(UTILS_DIR)/utils.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
-$(OBJ_DIR)/deltaTime.o: $(UTILS_DIR)/deltaTime.c
+$(OBJ_DIR)/deltaTime.o: $(UTILS_DIR)/deltaTime/deltaTime.c
 	$(CC) $(CFLAGS) $< -c -o $@	
 
 $(OBJ_DIR)/draw.o: $(DRAW_DIR)/draw.c
@@ -39,7 +39,10 @@ $(OBJ_DIR)/animation.o: $(ANIMATION_DIR)/animation.c
 $(OBJ_DIR)/animationNode.o: $(ANIMATION_DIR)/animationNode.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
-$(OBJ_DIR)/2d.o: $(DRAW_DIR)/2d.c
+$(OBJ_DIR)/vector2.o: $(UTILS_DIR)/vector/vector2.c
+	$(CC) $(CFLAGS) $< -c -o $@
+
+$(OBJ_DIR)/vector3.o: $(UTILS_DIR)/vector/vector3.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 $(OBJ_DIR)/text.o: $(TEXT_DIR)/text.c
@@ -73,9 +76,9 @@ $(OBJ_DIR)/main.o: $(SRC_DIR)/main.c
 	$(CC) $(CFLAGS) $< -c -o $@
 
 
-$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
+$(INDEX_DIR): $(OBJ_DIR)/init.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/vector2.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
 	mkdir -p $(INDEX_DIR)
-	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/2d.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
+	$(CC) $(OBJ_DIR)/init.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/vector2.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/spriteSlicer.o $(OBJ_DIR)/text.o $(OBJ_DIR)/character.o $(OBJ_DIR)/input.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(CFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
 
 clean:
 	rm -rf $(INDEX_DIR) $(OBJ_DIR)

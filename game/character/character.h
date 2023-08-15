@@ -10,7 +10,7 @@
 #include "../../engine/structs.h"
 
 
-Entity* constructEntity(vec2* position);
+Entity* constructEntity(vec2* position, const char* filename);
 AnimationNode* constructEntityAnimations(const char* filename);
 void drawSurfaces(Entity* entity);
 void deconstructEntity(Entity* entity);

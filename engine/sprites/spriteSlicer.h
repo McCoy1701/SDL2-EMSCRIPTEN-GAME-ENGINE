@@ -5,7 +5,8 @@
 #include <SDL2/SDL_image.h>
 #include "../draw/draw.h"
 #include "../utils/vector/vector.h"
+#include "../animations/animation.h"
 
-SDL_Surface** sliceSpriteSheet(const char* filename, vec2* cellSize, int imageCount);
+SDL_Surface** sliceSpriteSheet(const char* filename, int x, int y, int frameCount);
 
 #endif

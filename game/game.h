@@ -8,7 +8,7 @@
 #include "../engine/sounds/sound.h"
 #include "../engine/text/text.h"
 #include "../engine/inputs/input.h"
-#include "../engine/utils/deltaTime.h"
+#include "../engine/utils/deltaTime/deltaTime.h"
 #include "../engine/animations/animation.h"
 
 #include "character/character.h"
@@ -16,7 +16,7 @@
 #include "world/world.h"
 
 extern Cell** MAP;
-extern Character* player;
+extern Entity* player;
 
 void gameLoop(void);
 

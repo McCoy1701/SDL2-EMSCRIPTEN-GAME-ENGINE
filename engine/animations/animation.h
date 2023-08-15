@@ -12,9 +12,9 @@
 #include "../sprites/spriteSlicer.h"
 #include "../utils/utils.h"
 
-Animation* animationConstructor(const char* filename, vec2* cellSize, int numFrames, uint32_t msPerFrame);
+Animation* animationConstructor(SDL_Surface** aniFrames, int numFrames, uint32_t msPerFrame);
 
-AnimationNode* animationNodeConstructor(char* name, Animation* animation);
+AnimationNode* animationNodeConstructor(const char* name, Animation* animation);
 
 void animationDeconstructor(Animation* animation);
 
@@ -22,10 +22,12 @@ void animationNodeDeconstructor(AnimationNode* head);
 
 void playAnimation(Animation* animation);
 
-void appendAnimationNode(AnimationNode** head, char* name, Animation* animation);
+void appendAnimationNode(Entity* list, const char* name, Animation* animation);
 
-Animation* findAnimation(AnimationNode** head, char* name);
+void printAnimationList(Entity* list);
 
-AnimationNode* loadAnimationsFromFile(char* filename);
+Animation* findAnimation(AnimationNode* head, const char* name);
+
+void loadAnimationsFromFile(Entity* entity, const char* filename);
 
 #endif

@@ -1,12 +1,12 @@
 #include "animation.h"
 
-Animation* animationConstructor(const char* filename, vec2* cellSize, int numFrames, uint32_t msPerFrame) {
+Animation* animationConstructor(SDL_Surface** aniFrames, int numFrames, uint32_t msPerFrame) {
     Animation* animation = (Animation*)malloc(sizeof(Animation));
     animation->frameCount = numFrames;
     animation->msPerFrame = msPerFrame;
+    animation->animationFrames = aniFrames;
     animation->frame = 0;
     animation->accumulated = 0;
-    animation->animationFrames = sliceSpriteSheet(filename, cellSize, animation->frameCount);
 
     return animation;
 }
@@ -28,9 +28,18 @@ void playAnimation(Animation* animation) {
     }
 }
 
-Animation* findAnimation(AnimationNode** head, char* name) {
+void printAnimationList(Entity* list) {
+    AnimationNode* temp = list->animationsHead;
+
+    while(temp != NULL) {
+        printf("%s\n", temp->name);
+        temp = temp->next;
+    }
+}
+
+Animation* findAnimation(AnimationNode* head, const char* name) {
     char* temp;
-    AnimationNode* tempNode = *head;
+    AnimationNode* tempNode = head;
     Animation* animation;
     STRNCPY(temp, tempNode->name, MAX_NAME_LENGTH);
     

@@ -1,6 +1,6 @@
 #include "animation.h"
 
-AnimationNode* animationNodeConstructor(char* name, Animation* animation) {
+AnimationNode* animationNodeConstructor(const char* name, Animation* animation) {
     AnimationNode* newNode = (AnimationNode*)malloc(sizeof(AnimationNode));
     if (newNode != NULL){
         newNode->name = name;
@@ -19,56 +19,50 @@ void animationNodeDeconstructor(AnimationNode* head) {
     }
 }
 
-void appendAnimationNode(AnimationNode** head, char* name, Animation* animation) {
+void appendAnimationNode(Entity* list, const char* name, Animation* animation) {
     AnimationNode* newNode = animationNodeConstructor(name, animation);
-    if (newNode == NULL) {
-        printf("[Error] could not allocate memory\n");
-        return;
-    }
+    newNode->name = name;
+    newNode->animation = animation;
+    newNode->next = list->animationsHead;
+    newNode->prev = NULL;
 
-    if (*head == NULL) {
-        *head = newNode;
+    if (list->animationsHead == NULL) {
+        list->animationsHead = newNode;
     }
     
-    else{
-        AnimationNode* current = *head;
-        while(current != NULL) {
-            current = current->next;
-        }
-        
-        current->next = newNode;
-    }
+    list->animationsHead = newNode;
 }
 
-void loadAnimationsFromFile(Entity* entity, char* filename) {
+void loadAnimationsFromFile(Entity* entity, const char* filename) {
     DIR* dir;
     struct dirent* ent;
-    
+
     if ((dir = opendir(filename)) != NULL) {
-        while ((ent = readdir(dir)) != NULL) {
-            char** tokens = tokenizeString(ent->d_name, "-x.");
-            
-            char* imagePath = malloc(strlen(filename) + strlen(ent->d_name) + 1);
+        while ((ent = readdir(dir)) != NULL) {                                                              //Loop through all the directories
+            if(strcmp(ent->d_name, ".") == 0 || strcmp(ent->d_name, "..") == 0) {                           //skip the current directory "." and parent directory ".."
+                continue;
+            }
+            char** tokens = tokenizeString(ent->d_name, "-x.", filename);
+
+            char* imagePath = (char*)malloc(strlen(filename) + strlen(ent->d_name) + 1);
+            memset(imagePath, 0, strlen(filename) + strlen(ent->d_name) + 1);
+
             strcpy(imagePath, filename);
             strcat(imagePath, "/");
             strcat(imagePath, ent->d_name);
 
-            printf("%d\n", sizeof(tokens));
+            char* name = tokens[0];
+            int x = atoi(tokens[1]);
+            int y = atoi(tokens[2]);
+            int frameCount = atoi(tokens[3]);
+            int msPerFrame = atoi(tokens[4]);
             
-            if (tokens[0] != NULL) {
-                char* name = tokens[0];
-                int x = atoi(tokens[1]);
-                int y = atoi(tokens[2]);
-                int frameCount = atoi(tokens[3]);
-                int msPerFrame = atoi(tokens[4]);
+            Animation* animation = animationConstructor(sliceSpriteSheet(imagePath, x, y, frameCount), frameCount, msPerFrame);
+            appendAnimationNode(entity, name, animation);
 
-                Animation* animation = animationConstructor(imagePath, vec2Constructor(x, y), frameCount, msPerFrame);
-            }
-            
-            for (int i = 0; tokens[i] != NULL; i++) {
+            for (int i = 0; i < 5; i++) {
                 free(tokens[i]);
             }
-
             free(tokens);
             free(imagePath);
         }
@@ -76,8 +70,5 @@ void loadAnimationsFromFile(Entity* entity, char* filename) {
         closedir(dir);
     } else {
         printf("Error opening directory %s\n", filename);
-        return NULL;
     }
-    
-    return NULL;
 }

@@ -1,8 +1,7 @@
 #include "game.h"
 
 Cell** MAP;
-Character* player;
-AnimationNode* testNode;
+Entity* player;
 
 void gameLoop(void) {
     doLoop();
@@ -22,12 +21,11 @@ void renderLoop(void) {
 void initGame(void) {
     MAP = allocateWorldMemory();
     generateWorld(MAP);
-    testNode = loadAnimationsFromFile("assets/player");
-    player = constructCharacter(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2));
+    player = constructEntity(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2), "assets/player");
 }
 
 void quitGame(void) {
-    deconstructCharacter(player);
-    animationNodeDeconstructor(testNode);
+    // deconstructEntity(player);
+    // animationNodeDeconstructor(testNode);
     quitWorld(MAP);
 }
