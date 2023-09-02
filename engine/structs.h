@@ -9,6 +9,29 @@
 
 typedef void (*voidFunctionPointer)(void);
 
+typedef struct _image {
+    char* filename;
+    SDL_Surface* surface;
+} Image;
+
+typedef struct _node {
+    int x;
+    int y;
+    int w;
+    int h;
+    int used;
+    
+    struct _node* child;
+} Node;
+
+typedef struct _atlasImage {
+    char filename[MAX_FILENAME_LENGTH];
+    SDL_Rect rect;
+    int rotated;
+    SDL_Texture* texture;
+    struct _atlasImage *next;
+} AtlasImage;
+
 typedef struct _delegate {
     void (*logic)(void);
     void (*draw)(void);

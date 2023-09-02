@@ -22,7 +22,7 @@ void renderLoop(void) {
 void initGame(void) {
     MAP = allocateWorldMemory();
     generateWorld(MAP);
-    player = constructEntity(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2), "assets/player");
+    player = entityConstructor(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2), "assets/player");
 }
 
 void quitGame(void) {

@@ -25,13 +25,17 @@ void drawCircle(int x, int y, int radius);
 
 void drawRect(SDL_Rect* src, int value);
 
-void drawIsoRect(SDL_Rect* src, int value);
-
 SDL_Rect createRect(int x, int y, int w, int h);
 
 void blit(SDL_Surface* surf, int x, int y);
 
 void blitRect(SDL_Surface* surf, SDL_Rect src, int x, int y);
+
+void blitAtlasImage(AtlasImage* atlasImage, int x, int y, int center);
+
+void blitAtlasImageRotated(AtlasImage* atlasImage, int x, int y, int angle);
+
+void blitAtlasImageScaled(AtlasImage* atlasImage, int x, int y, int w, int h);
 
 SDL_Surface* loadImage(char* filename);
 

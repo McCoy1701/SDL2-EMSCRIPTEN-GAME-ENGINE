@@ -11,67 +11,6 @@ void presentScene(void) {
     SDL_RenderPresent(app.renderer);
 }
 
-void drawPoint(int x, int y) {
-    SDL_RenderDrawPoint(app.renderer, x, y);
-}
-
-void drawLine(int x1, int y1, int x2, int y2) {
-    SDL_RenderDrawLine(app.renderer, x1, y1, x2, y2);
-}
-
-void drawHoriLine(int x1, int x2, int y) {
-    SDL_RenderDrawLine(app.renderer, x1, y, x2, y);
-}
-
-void drawVertLine(int y1, int y2, int x) {
-    SDL_RenderDrawLine(app.renderer, x, y1, x, y2);
-}
-
-void drawRect(SDL_Rect* src, int value) {
-    if (!value) {
-        SDL_RenderDrawRect(app.renderer, src);
-    }
-
-    else {
-        SDL_RenderFillRect(app.renderer, src);
-    }
-}
-
-void drawIsoRect(SDL_Rect* src, int value) {
-    SDL_RenderDrawLine(app.renderer, src->x, src->y, (src->x + src->w), (src->y - src->h));
-    SDL_RenderDrawLine(app.renderer, (src->x + src->w), (src->y - src->h), (src->x + (src->w * 2)), src->y);
-    SDL_RenderDrawLine(app.renderer, (src->x + (src->w * 2)), src->y, (src->x + src->w), (src->y + src->h));
-    SDL_RenderDrawLine(app.renderer, (src->x + src->w), (src->y + src->h), src->x, src->y);    
-    
-    if (value) {
-        for (int i = src->y + 1; i < (src->y + (src->h / 2)); i++){
-            for (int j = src->x + 1; i < (src->x + (src->w / 2)); j++) {
-                SDL_RenderDrawLine(app.renderer, i, j, i + src->w / 2, j);
-            }
-        }
-    }
-}
-
-void drawCircle(int x, int y, int radius) {
-   int centerX;
-   int centerY;
-
-   for (int i = 0; i < 360; i++)  {
-    centerX = x + radius * cos(i);
-    centerY = y + radius * sin(i);
-    SDL_RenderDrawPoint(app.renderer, centerX, centerY);
-   }
-}
-
-SDL_Rect createRect(int x, int y, int w, int h) {
-    SDL_Rect temp;
-    temp.x = x;
-    temp.y = y;
-    temp.w = w;
-    temp.h = h;
-    return temp;
-}
-
 void blit(SDL_Surface* surf, int x, int y) {
     SDL_Rect dest;
     SDL_Texture* img;
@@ -114,47 +53,83 @@ void blitRect(SDL_Surface* surf, SDL_Rect src, int x, int y) {
     SDL_RenderCopy(app.renderer, img, &src, &dest);
 }
 
-SDL_Surface* loadImage(char* filename) {
-    SDL_Surface* surface;
+void blitAtlasImage(AtlasImage* atlasImage, int x, int y, int center) {
+    SDL_Rect dest;
+    SDL_Point p;
 
-    surface = getSurface(filename);
+    dest.x = x;
+    dest.y = y;
+    dest.w = atlasImage->rect.w;
+    dest.h = atlasImage->rect.h;
+
+    if (!atlasImage->rotated) {
+        if (center) {
+            dest.x -= (dest.w / 2);
+            dest.y -= (dest.h / 2);
+        }
+
+        SDL_RenderCopy(app.renderer, atlasImage->texture, &atlasImage->rect, &dest);
+    } 
     
-    if (surface == NULL) {
-        SDL_LogMessage(SDL_LOG_CATEGORY_APPLICATION, SDL_LOG_PRIORITY_INFO, "Loading %s", filename);
-        surface = IMG_Load(filename);
-        if (surface == NULL) {
-            printf("Error loading %s , %s", filename, SDL_GetError());
+    else {
+        if (center) {
+            dest.x -= (dest.w / 2);
+            dest.y -= (dest.h / 2);
         }
-        addSurfaceToCache(filename, surface);
-    }
 
-    return surface;
+        p.x = 0;
+        p.y = 0;
+
+        dest.y += atlasImage->rect.w;
+
+        SDL_RenderCopyEx(app.renderer, atlasImage->texture, &atlasImage->rect, &dest, -90, &p, SDL_FLIP_NONE);
+    }
 }
 
-SDL_Surface* getSurface(char* name) {
-   Surface* surf;
+void blitAtlasImageRotated(AtlasImage* atlasImage, int x, int y, int angle) {
+    SDL_Rect dest;
 
-    for (surf = app.surfaceHead.next; surf != NULL; surf = surf->next) {
-        if (strcmp(surf->name, name) == 0) {
-        return surf->surface;
-        printf("%s", surf->name);
-        }
+    dest.x = x;
+    dest.y = y;
+    dest.w = atlasImage->rect.w;
+    dest.h = atlasImage->rect.h;
+
+    if (!atlasImage->rotated) {
+        dest.x -= (atlasImage->rect.h / 2);
+        dest.y -= (atlasImage->rect.w / 2);
+        
+    } else {
+        dest.x -= (atlasImage->rect.h / 2);
+        dest.y -= (atlasImage->rect.w / 2);
+
+        angle -= 90;
+
     }
-
-    return NULL;
+  
+    SDL_RenderCopyEx(app.renderer, atlasImage->texture, &atlasImage->rect, &dest, angle, NULL, SDL_FLIP_NONE);
 }
 
-void addSurfaceToCache(char* name, SDL_Surface* sdlSurface) {
-    Surface* surface;
+void blitAtlasImageScaled(AtlasImage* atlasImage, int x, int y, int w, int h) {
+    SDL_Rect dest;
+    SDL_Point p;
 
-    surface = malloc(sizeof(Surface));
-    memset(surface, 0, sizeof(Surface));
+    dest.x = x;
+    dest.y = y;
+    dest.w = w;
+    dest.h = h;
 
-    app.surfaceTail = surface;
-    app.surfaceTail->next = surface;
+    if (atlasImage->rotated) {
+        p.x = 0;
+        p.y = 0;
 
-    STRNCPY(surface->name, name, MAX_NAME_LENGTH);
-    surface->surface = sdlSurface;
+        dest.y += w;
+
+        SDL_RenderCopyEx(app.renderer, atlasImage->texture, &atlasImage->rect, &dest, -90, &p, SDL_FLIP_NONE);
+    } 
+    
+    else {
+        SDL_RenderCopy(app.renderer, atlasImage->texture, &atlasImage->rect, &dest);
+    }
 }
 
 void cartesianToIsometric(int* isoX, int* isoY, int cartX, int cartY) {

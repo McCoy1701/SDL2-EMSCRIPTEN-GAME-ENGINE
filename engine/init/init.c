@@ -8,7 +8,9 @@ void init(void) {
 	IMG_Init(IMG_INIT_PNG);
 	SDL_SetWindowTitle(app.window, "Shitter");
 	SDL_CreateWindowAndRenderer(SCREEN_WIDTH, SCREEN_HEIGHT, 0, &app.window, &app.renderer);
-	
+
+	initAtlas();
+
 	initSounds();
 
 	initFont();

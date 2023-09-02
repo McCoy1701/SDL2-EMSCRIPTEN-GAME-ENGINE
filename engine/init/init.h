@@ -12,6 +12,8 @@
 #include "../sounds/sound.h"
 #include "../text/text.h"
 
+#include "../atlas/atlas.h"
+
 extern App app;
 extern Stage stage;
 
