@@ -42,29 +42,8 @@ void loadAnimationsFromFile(Entity* entity, const char* filename) {
             if(strcmp(ent->d_name, ".") == 0 || strcmp(ent->d_name, "..") == 0) {                           //skip the current directory "." and parent directory ".."
                 continue;
             }
-            char** tokens = tokenizeString(ent->d_name, "-x.", filename);
 
-            char* imagePath = (char*)malloc(strlen(filename) + strlen(ent->d_name) + 1);
-            memset(imagePath, 0, strlen(filename) + strlen(ent->d_name) + 1);
-
-            strcpy(imagePath, filename);
-            strcat(imagePath, "/");
-            strcat(imagePath, ent->d_name);
-
-            char* name = tokens[0];
-            int x = atoi(tokens[1]);
-            int y = atoi(tokens[2]);
-            int frameCount = atoi(tokens[3]);
-            int msPerFrame = atoi(tokens[4]);
-            
-            Animation* animation = animationConstructor(sliceSpriteSheet(imagePath, x, y, frameCount), frameCount, msPerFrame);
-            appendAnimationNode(entity, name, animation);
-
-            for (int i = 0; i < 5; i++) {
-                free(tokens[i]);
-            }
-            free(tokens);
-            free(imagePath);
+            printf("file name: %s\n", ent->d_name);
         }
 
         closedir(dir);

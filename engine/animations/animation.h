@@ -9,7 +9,6 @@
 
 #include "../structs.h"
 #include "../utils/deltaTime/deltaTime.h"
-#include "../sprites/spriteSlicer.h"
 #include "../utils/utils.h"
 
 Animation* animationConstructor(SDL_Surface** aniFrames, int numFrames, uint32_t msPerFrame);

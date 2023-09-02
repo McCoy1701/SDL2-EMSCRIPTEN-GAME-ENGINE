@@ -10,8 +10,8 @@
 #include "../engine/inputs/input.h"
 #include "../engine/utils/deltaTime/deltaTime.h"
 #include "../engine/animations/animation.h"
+#include "../engine/entities/entities.h"
 
-#include "character/character.h"
 
 #include "world/world.h"
 

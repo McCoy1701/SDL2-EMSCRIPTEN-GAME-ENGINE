@@ -15,7 +15,6 @@ void doLoop(void) {
 
 void renderLoop(void) {
     displayWorld(MAP);
-    drawSurfaces(player);
     drawText(100, 100, 255, 255, 255, TEXT_LEFT, 1, "BIG FAT BITCHES");
 }
 
@@ -26,7 +25,7 @@ void initGame(void) {
 }
 
 void quitGame(void) {
-    // deconstructEntity(player);
+    entityDeconstructor(player);
     // animationNodeDeconstructor(testNode);
     quitWorld(MAP);
 }
