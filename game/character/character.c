@@ -1,6 +1,6 @@
 #include "character.h"
 
-Entity* constructEntity (vec2* position, const char* filename) {
+Entity* entityConstructor (vec2* position, const char* filename) {
     Entity* player = malloc(sizeof(Entity));
     memset(player, 0, sizeof(Entity));
 
@@ -16,7 +16,7 @@ void drawSurfaces(Entity* player) {
     
 }
 
-void deconstructEntity(Entity* player) {
+void entityDeconstructor(Entity* player) {
     free(player->position);
     free(player->velocity);
 

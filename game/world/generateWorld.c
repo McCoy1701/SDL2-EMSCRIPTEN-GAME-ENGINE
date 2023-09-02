@@ -65,7 +65,7 @@ void displayWorld(Cell** grid) {
             temp.h = grid[i][j].h;
 
             // temp.y = (temp.y - (temp.h / 2));
-            drawIsoRect(&temp, grid[i][j].hovering);
+            drawRect(&temp, grid[i][j].hovering);
         }
     }
 }
