@@ -4,6 +4,7 @@ static Image* images;
 static int atlasSize;
 static int padding;
 static char* rootDir;
+static char* atlasName;
 
 int main(int argc, char* argv[]) {
     int w, h, rotated, fails, rotations, i, numOfImages;
@@ -12,6 +13,8 @@ int main(int argc, char* argv[]) {
     SDL_Rect dest;
     cJSON *rootJson, *entryJson;
     char* out;
+    char filename[FILENAME_MAX];
+    char imagename[FILENAME_MAX];
     FILE *fp;
 
     fails = 0;
@@ -89,12 +92,24 @@ int main(int argc, char* argv[]) {
     }
 
     out = cJSON_Print(rootJson);
+    
+    strcpy(filename, "assets/");
+    strcat(filename, atlasName);
+    strcat(filename, ".json");
 
-    fp = fopen("atlas.json", "wb");
+    printf("filename: %s\n", filename);
+    
+    fp = fopen(filename, "wb");
     fprintf(fp, "%s", out);
     fclose(fp);
 
-    IMG_SavePNG(atlas, "atlas.png");
+    strcpy(imagename, "assets/");
+    strcat(imagename, atlasName);
+    strcat(imagename, ".png");
+
+    printf("imagename: %s\n", imagename);
+
+    IMG_SavePNG(atlas, imagename);
     
     free(images);
 
@@ -114,7 +129,8 @@ int main(int argc, char* argv[]) {
 static void handleCommandLine(int argc, char* argv[]) {
     int i;
     atlasSize = 256;
-    rootDir = "gfx";
+    rootDir = "assets";
+    atlasName = "atlas";
     padding = 1;
 
     for (i = 0; i < argc; i++) {
@@ -123,6 +139,10 @@ static void handleCommandLine(int argc, char* argv[]) {
         
         } else if (strcmp(argv[i], "-dir") == 0) {
             rootDir = argv[i + 1];
+
+        } else if (strcmp(argv[i], "-name") == 0) {
+            atlasName = argv[i + 1];
+            printf("name: %s\n", atlasName);
 
         } else if (strcmp(argv[i], "-padding") == 0) {
 

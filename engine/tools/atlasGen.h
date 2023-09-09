@@ -9,6 +9,7 @@
 #include <math.h>
 #include <png.h>
 #include <sys/stat.h>
+#include <string.h>
 
 #include "../structs.h"
 #include "../json/cJSON.h"
