@@ -1,7 +1,8 @@
 #include "atlasGen.h"
 
 static Image* images;
-static int atlasSize;
+static int atlasWidth;
+static int atlasHeight;
 static int padding;
 static char* rootDir;
 static char* atlasName;
@@ -28,11 +29,11 @@ int main(int argc, char* argv[]) {
 
     root->x = 0;
     root->y = 0;
-    root->w = atlasSize;
-    root->h = atlasSize;
+    root->w = atlasWidth;
+    root->h = atlasHeight;
     root->used = 0;
 
-    atlas = SDL_CreateRGBSurface(0, atlasSize, atlasSize, 32, 0x000000ff, 0x0000ff00, 0x00ff0000, 0xff000000);
+    atlas = SDL_CreateRGBSurface(0, atlasWidth, atlasHeight, 32, 0x000000ff, 0x0000ff00, 0x00ff0000, 0xff000000);
 
     numOfImages = initImages();
 
@@ -128,14 +129,16 @@ int main(int argc, char* argv[]) {
 
 static void handleCommandLine(int argc, char* argv[]) {
     int i;
-    atlasSize = 256;
-    rootDir = "assets";
-    atlasName = "atlas";
-    padding = 1;
+    atlasWidth  = 512;
+    atlasHeight = 512;
+    rootDir     = "assets";
+    atlasName   = "atlas";
+    padding     = 0;
 
     for (i = 0; i < argc; i++) {
         if (strcmp(argv[i], "-size") == 0) {
-            atlasSize = atoi(argv[i + 1]);
+            atlasWidth = atoi(argv[i + 1]);
+            atlasHeight = atoi(argv[i + 2]);
         
         } else if (strcmp(argv[i], "-dir") == 0) {
             rootDir = argv[i + 1];

@@ -4,7 +4,7 @@ SDL_Texture* fontTexture;
 
 void initFont()
 {
-    SDL_Surface* surface = loadImage("assets/font.png");
+    SDL_Surface* surface = loadImage("assets/font/font.png");
 
     fontTexture = SDL_CreateTextureFromSurface(app.renderer, surface);
     

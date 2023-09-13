@@ -14,4 +14,16 @@ typedef struct _button {
     SDL_Surface* surf;
 } Button;
 
+typedef struct _buttons {
+    char* name;
+    int id;
+    Button* button;
+    struct _buttons* next;
+    struct _buttons* prev;
+} Buttons;
+
+typedef struct _ui {
+    Buttons* buttonHead;
+} Ui;
+
 #endif
