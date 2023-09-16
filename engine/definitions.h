@@ -28,7 +28,7 @@
 #define GLYPH_HEIGHT 9
 
 #define NUM_ATLAS_BUCKETS 64
-#define NUM_OF_BLOCKS 2048
+#define NUM_OF_BLOCKS 128
 
 #define MAX(x, y) (((x) > (y)) ? (x) : (y))
 #define MIN(x, y) (((x) < (y)) ? (x) : (y))

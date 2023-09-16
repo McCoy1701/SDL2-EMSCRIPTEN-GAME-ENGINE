@@ -4927,1728 +4927,1728 @@
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_SE.png",
-		"typeName":	"sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_oak_S.png",
+		"typeName":	"stairs",
 		"x":	256,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_W.png",
-		"typeName":	"sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_prismarine_brick_S.png",
+		"typeName":	"stairs",
 		"x":	288,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_corner.png",
-		"typeName":	"sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_prismarine_E.png",
+		"typeName":	"stairs",
 		"x":	320,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_E.png",
-		"typeName":	"sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_nether_brick_corner.png",
+		"typeName":	"stairs",
 		"x":	352,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_S.png",
-		"typeName":	"sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_dark_prismarine_corner.png",
+		"typeName":	"stairs",
 		"x":	384,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_N.png",
-		"typeName":	"sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_diorite_E.png",
+		"typeName":	"stairs",
 		"x":	416,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_SE.png",
-		"typeName":	"blackstone",
+		"filename":	"assets/tiles/stairs/stair_mossy_stonebricks_N.png",
+		"typeName":	"stairs",
 		"x":	448,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_N.png",
-		"typeName":	"blackstone",
+		"filename":	"assets/tiles/stairs/stair_polished_granite_E.png",
+		"typeName":	"stairs",
 		"x":	480,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_E.png",
-		"typeName":	"blackstone",
+		"filename":	"assets/tiles/stairs/stair_diorite_W.png",
+		"typeName":	"stairs",
 		"x":	512,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_S.png",
-		"typeName":	"blackstone",
+		"filename":	"assets/tiles/stairs/stair_dark_oak_W.png",
+		"typeName":	"stairs",
 		"x":	544,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_W.png",
-		"typeName":	"blackstone",
+		"filename":	"assets/tiles/stairs/stair_sandstone_cut_SE.png",
+		"typeName":	"stairs",
 		"x":	576,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_corner.png",
-		"typeName":	"blackstone",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_cut_S.png",
+		"typeName":	"stairs",
 		"x":	608,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_W.png",
-		"typeName":	"dark_oak",
+		"filename":	"assets/tiles/stairs/stair_mossy_cobblestone_S.png",
+		"typeName":	"stairs",
 		"x":	640,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_S.png",
-		"typeName":	"dark_oak",
+		"filename":	"assets/tiles/stairs/stair_prismarine_brick_W.png",
+		"typeName":	"stairs",
 		"x":	672,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_corner.png",
-		"typeName":	"dark_oak",
+		"filename":	"assets/tiles/stairs/stair_jungle_N.png",
+		"typeName":	"stairs",
 		"x":	704,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_N.png",
-		"typeName":	"dark_oak",
+		"filename":	"assets/tiles/stairs/stair_smooth_quartz_S.png",
+		"typeName":	"stairs",
 		"x":	736,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_E.png",
-		"typeName":	"dark_oak",
+		"filename":	"assets/tiles/stairs/stair_smooth_quartz_W.png",
+		"typeName":	"stairs",
 		"x":	768,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_SE.png",
-		"typeName":	"dark_oak",
+		"filename":	"assets/tiles/stairs/stair_acacia_SE.png",
+		"typeName":	"stairs",
 		"x":	800,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/purpur/stair_purpur_N.png",
-		"typeName":	"purpur",
+		"filename":	"assets/tiles/stairs/stair_crimson_SE.png",
+		"typeName":	"stairs",
 		"x":	832,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/purpur/stair_purpur_corner.png",
-		"typeName":	"purpur",
+		"filename":	"assets/tiles/stairs/stair_diorite_SE.png",
+		"typeName":	"stairs",
 		"x":	864,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/purpur/stair_purpur_S.png",
-		"typeName":	"purpur",
+		"filename":	"assets/tiles/stairs/stair_quartz_E.png",
+		"typeName":	"stairs",
 		"x":	896,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/purpur/stair_purpur_W.png",
-		"typeName":	"purpur",
+		"filename":	"assets/tiles/stairs/stair_sandstone_smooth_N.png",
+		"typeName":	"stairs",
 		"x":	928,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/purpur/stair_purpur_SE.png",
-		"typeName":	"purpur",
+		"filename":	"assets/tiles/stairs/stair_quartz_S.png",
+		"typeName":	"stairs",
 		"x":	960,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/purpur/stair_purpur_E.png",
-		"typeName":	"purpur",
+		"filename":	"assets/tiles/stairs/stair_andesite_SE.png",
+		"typeName":	"stairs",
 		"x":	992,
 		"y":	608,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_E.png",
-		"typeName":	"polished_granite",
+		"filename":	"assets/tiles/stairs/stair_quartz_corner.png",
+		"typeName":	"stairs",
 		"x":	0,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_corner.png",
-		"typeName":	"polished_granite",
+		"filename":	"assets/tiles/stairs/stair_bricks_W.png",
+		"typeName":	"stairs",
 		"x":	32,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_SE.png",
-		"typeName":	"polished_granite",
+		"filename":	"assets/tiles/stairs/stair_warped_W.png",
+		"typeName":	"stairs",
 		"x":	64,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_W.png",
-		"typeName":	"polished_granite",
+		"filename":	"assets/tiles/stairs/stair_andestie_W.png",
+		"typeName":	"stairs",
 		"x":	96,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_N.png",
-		"typeName":	"polished_granite",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_cut_E.png",
+		"typeName":	"stairs",
 		"x":	128,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_S.png",
-		"typeName":	"polished_granite",
+		"filename":	"assets/tiles/stairs/stair_blackstone_SE.png",
+		"typeName":	"stairs",
 		"x":	160,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/acacia/stair_acacia_SE.png",
-		"typeName":	"acacia",
+		"filename":	"assets/tiles/stairs/stair_dark_prismarine_S.png",
+		"typeName":	"stairs",
 		"x":	192,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/acacia/stair_acacia_W.png",
-		"typeName":	"acacia",
+		"filename":	"assets/tiles/stairs/stair_bricks_N.png",
+		"typeName":	"stairs",
 		"x":	224,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/acacia/stair_acacia_corner.png",
-		"typeName":	"acacia",
+		"filename":	"assets/tiles/stairs/stair_prismarine_S.png",
+		"typeName":	"stairs",
 		"x":	256,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/acacia/stair_acacia_N.png",
-		"typeName":	"acacia",
+		"filename":	"assets/tiles/stairs/stair_diorite_S.png",
+		"typeName":	"stairs",
 		"x":	288,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/acacia/stair_acacia_S.png",
-		"typeName":	"acacia",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_smooth_N.png",
+		"typeName":	"stairs",
 		"x":	320,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/acacia/stair_acacia_E.png",
-		"typeName":	"acacia",
+		"filename":	"assets/tiles/stairs/stair_granite_S.png",
+		"typeName":	"stairs",
 		"x":	352,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_N.png",
-		"typeName":	"red_sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_cobblestone_E.png",
+		"typeName":	"stairs",
 		"x":	384,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_SE.png",
-		"typeName":	"red_sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_dark_prismarine_W.png",
+		"typeName":	"stairs",
 		"x":	416,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_corner.png",
-		"typeName":	"red_sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_mossy_stonebricks_S.png",
+		"typeName":	"stairs",
 		"x":	448,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_E.png",
-		"typeName":	"red_sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_prismarine_N.png",
+		"typeName":	"stairs",
 		"x":	480,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_S.png",
-		"typeName":	"red_sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_stone_S.png",
+		"typeName":	"stairs",
 		"x":	512,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_W.png",
-		"typeName":	"red_sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_cobblestone_N.png",
+		"typeName":	"stairs",
 		"x":	544,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_W.png",
-		"typeName":	"polished_blackstone",
+		"filename":	"assets/tiles/stairs/stair_spruce_W.png",
+		"typeName":	"stairs",
 		"x":	576,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_SE.png",
-		"typeName":	"polished_blackstone",
+		"filename":	"assets/tiles/stairs/stair_sandstone_cut_W.png",
+		"typeName":	"stairs",
 		"x":	608,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_E.png",
-		"typeName":	"polished_blackstone",
+		"filename":	"assets/tiles/stairs/stair_cobblestone_S.png",
+		"typeName":	"stairs",
 		"x":	640,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_corner.png",
-		"typeName":	"polished_blackstone",
+		"filename":	"assets/tiles/stairs/stair_acacia_W.png",
+		"typeName":	"stairs",
 		"x":	672,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_N.png",
-		"typeName":	"polished_blackstone",
+		"filename":	"assets/tiles/stairs/stair_oak_W.png",
+		"typeName":	"stairs",
 		"x":	704,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_S.png",
-		"typeName":	"polished_blackstone",
+		"filename":	"assets/tiles/stairs/stair_endstone_SE.png",
+		"typeName":	"stairs",
 		"x":	736,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_E.png",
-		"typeName":	"stonebricks",
+		"filename":	"assets/tiles/stairs/stair_birch_N.png",
+		"typeName":	"stairs",
 		"x":	768,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_N.png",
-		"typeName":	"stonebricks",
+		"filename":	"assets/tiles/stairs/stair_sandstone_smooth_E.png",
+		"typeName":	"stairs",
 		"x":	800,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_W.png",
-		"typeName":	"stonebricks",
+		"filename":	"assets/tiles/stairs/stair_jungle_SE.png",
+		"typeName":	"stairs",
 		"x":	832,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_S.png",
-		"typeName":	"stonebricks",
+		"filename":	"assets/tiles/stairs/stair_andesite_S.png",
+		"typeName":	"stairs",
 		"x":	864,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_corner.png",
-		"typeName":	"stonebricks",
+		"filename":	"assets/tiles/stairs/stair_endstone_W.png",
+		"typeName":	"stairs",
 		"x":	896,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_SE.png",
-		"typeName":	"stonebricks",
+		"filename":	"assets/tiles/stairs/stair_oak_SE.png",
+		"typeName":	"stairs",
 		"x":	928,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_S.png",
-		"typeName":	"red_nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_birch_SE.png",
+		"typeName":	"stairs",
 		"x":	960,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_corner.png",
-		"typeName":	"red_nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_nether_brick_N.png",
+		"typeName":	"stairs",
 		"x":	992,
 		"y":	640,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_E.png",
-		"typeName":	"red_nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_nether_brick_W.png",
+		"typeName":	"stairs",
 		"x":	0,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_W.png",
-		"typeName":	"red_nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_acacia_corner.png",
+		"typeName":	"stairs",
 		"x":	32,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_N.png",
-		"typeName":	"red_nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_smooth_quartz_E.png",
+		"typeName":	"stairs",
 		"x":	64,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_SE.png",
-		"typeName":	"red_nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_polished_granite_corner.png",
+		"typeName":	"stairs",
 		"x":	96,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_corner.png",
-		"typeName":	"nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_smooth_SE.png",
+		"typeName":	"stairs",
 		"x":	128,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_N.png",
-		"typeName":	"nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_sandstone_cut_corner.png",
+		"typeName":	"stairs",
 		"x":	160,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_W.png",
-		"typeName":	"nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_stone_E.png",
+		"typeName":	"stairs",
 		"x":	192,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_E.png",
-		"typeName":	"nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_endstone_N.png",
+		"typeName":	"stairs",
 		"x":	224,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_SE.png",
-		"typeName":	"nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_smooth_corner.png",
+		"typeName":	"stairs",
 		"x":	256,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_S.png",
-		"typeName":	"nether_bricks",
+		"filename":	"assets/tiles/stairs/stair_stone_corner.png",
+		"typeName":	"stairs",
 		"x":	288,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_N.png",
-		"typeName":	"sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_jungle_corner.png",
+		"typeName":	"stairs",
 		"x":	320,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_E.png",
-		"typeName":	"sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_stonebricks_E.png",
+		"typeName":	"stairs",
 		"x":	352,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_SE.png",
-		"typeName":	"sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_jungle_E.png",
+		"typeName":	"stairs",
 		"x":	384,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_S.png",
-		"typeName":	"sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_polished_diorite_E.png",
+		"typeName":	"stairs",
 		"x":	416,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_corner.png",
-		"typeName":	"sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_dark_prismarine_SE.png",
+		"typeName":	"stairs",
 		"x":	448,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_W.png",
-		"typeName":	"sandstone_smooth",
+		"filename":	"assets/tiles/stairs/stair_blackstone_N.png",
+		"typeName":	"stairs",
 		"x":	480,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_W.png",
-		"typeName":	"polished_andesite",
+		"filename":	"assets/tiles/stairs/stair_oak_corner.png",
+		"typeName":	"stairs",
 		"x":	512,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_S.png",
-		"typeName":	"polished_andesite",
+		"filename":	"assets/tiles/stairs/stair_dark_prismarine_E.png",
+		"typeName":	"stairs",
 		"x":	544,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_E.png",
-		"typeName":	"polished_andesite",
+		"filename":	"assets/tiles/stairs/stair_blackstone_brick_E.png",
+		"typeName":	"stairs",
 		"x":	576,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_SE.png",
-		"typeName":	"polished_andesite",
+		"filename":	"assets/tiles/stairs/stair_blackstone_brick_corner.png",
+		"typeName":	"stairs",
 		"x":	608,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_N.png",
-		"typeName":	"polished_andesite",
+		"filename":	"assets/tiles/stairs/stair_birch_W.png",
+		"typeName":	"stairs",
 		"x":	640,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_corner.png",
-		"typeName":	"polished_andesite",
+		"filename":	"assets/tiles/stairs/stair_mossy_cobblestone_corner.png",
+		"typeName":	"stairs",
 		"x":	672,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_E.png",
-		"typeName":	"prismarine",
+		"filename":	"assets/tiles/stairs/stair_quartz_W.png",
+		"typeName":	"stairs",
 		"x":	704,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_S.png",
-		"typeName":	"prismarine",
+		"filename":	"assets/tiles/stairs/stair_quartz_N.png",
+		"typeName":	"stairs",
 		"x":	736,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_N.png",
-		"typeName":	"prismarine",
+		"filename":	"assets/tiles/stairs/stair_polished_blackstone_W.png",
+		"typeName":	"stairs",
 		"x":	768,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_W.png",
-		"typeName":	"prismarine",
+		"filename":	"assets/tiles/stairs/stair_mossy_stonebricks_W.png",
+		"typeName":	"stairs",
 		"x":	800,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_corner.png",
-		"typeName":	"prismarine",
+		"filename":	"assets/tiles/stairs/stair_mossy_stonebricks_SE.png",
+		"typeName":	"stairs",
 		"x":	832,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_SE.png",
-		"typeName":	"prismarine",
+		"filename":	"assets/tiles/stairs/stair_oak_N.png",
+		"typeName":	"stairs",
 		"x":	864,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stone/stair_stone_S.png",
-		"typeName":	"stone",
+		"filename":	"assets/tiles/stairs/stair_polished_diorite_S.png",
+		"typeName":	"stairs",
 		"x":	896,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stone/stair_stone_E.png",
-		"typeName":	"stone",
+		"filename":	"assets/tiles/stairs/stair_polished_diorite_corner.png",
+		"typeName":	"stairs",
 		"x":	928,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stone/stair_stone_corner.png",
-		"typeName":	"stone",
+		"filename":	"assets/tiles/stairs/stair_sandstone_cut_E.png",
+		"typeName":	"stairs",
 		"x":	960,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stone/stair_stone_W.png",
-		"typeName":	"stone",
+		"filename":	"assets/tiles/stairs/stair_polished_granite_SE.png",
+		"typeName":	"stairs",
 		"x":	992,
 		"y":	672,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stone/stair_stone_N.png",
-		"typeName":	"stone",
+		"filename":	"assets/tiles/stairs/stair_endstone_corner.png",
+		"typeName":	"stairs",
 		"x":	0,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/stone/stair_stone_SE.png",
-		"typeName":	"stone",
+		"filename":	"assets/tiles/stairs/stair_diorite_N.png",
+		"typeName":	"stairs",
 		"x":	32,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/spruce/stair_spruce_W.png",
-		"typeName":	"spruce",
+		"filename":	"assets/tiles/stairs/stair_jungle_W.png",
+		"typeName":	"stairs",
 		"x":	64,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/spruce/stair_spruce_corner.png",
-		"typeName":	"spruce",
+		"filename":	"assets/tiles/stairs/stair_sandstone_cut_S.png",
+		"typeName":	"stairs",
 		"x":	96,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/spruce/stair_spruce_S.png",
-		"typeName":	"spruce",
+		"filename":	"assets/tiles/stairs/stair_sandstone_smooth_SE.png",
+		"typeName":	"stairs",
 		"x":	128,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/spruce/stair_spruce_N.png",
-		"typeName":	"spruce",
+		"filename":	"assets/tiles/stairs/stair_nether_brick_E.png",
+		"typeName":	"stairs",
 		"x":	160,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/spruce/stair_spruce_SE.png",
-		"typeName":	"spruce",
+		"filename":	"assets/tiles/stairs/stair_mossy_cobblestone_N.png",
+		"typeName":	"stairs",
 		"x":	192,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/spruce/stair_spruce_E.png",
-		"typeName":	"spruce",
+		"filename":	"assets/tiles/stairs/stair_polished_andesite_W.png",
+		"typeName":	"stairs",
 		"x":	224,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/birch/stair_birch_N.png",
-		"typeName":	"birch",
+		"filename":	"assets/tiles/stairs/stair_cobblestone_corner.png",
+		"typeName":	"stairs",
 		"x":	256,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/birch/stair_birch_SE.png",
-		"typeName":	"birch",
+		"filename":	"assets/tiles/stairs/stair_polished_andesite_S.png",
+		"typeName":	"stairs",
 		"x":	288,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/birch/stair_birch_W.png",
-		"typeName":	"birch",
+		"filename":	"assets/tiles/stairs/stair_purpur_N.png",
+		"typeName":	"stairs",
 		"x":	320,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/birch/stair_birch_E.png",
-		"typeName":	"birch",
+		"filename":	"assets/tiles/stairs/stair_prismarine_W.png",
+		"typeName":	"stairs",
 		"x":	352,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/birch/stair_birch_S.png",
-		"typeName":	"birch",
+		"filename":	"assets/tiles/stairs/stair_polished_diorite_W.png",
+		"typeName":	"stairs",
 		"x":	384,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/birch/stair_birch_corner.png",
-		"typeName":	"birch",
+		"filename":	"assets/tiles/stairs/stair_diorite_corner.png",
+		"typeName":	"stairs",
 		"x":	416,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_S.png",
-		"typeName":	"mossy_cobblestone",
+		"filename":	"assets/tiles/stairs/stair_blackstone_E.png",
+		"typeName":	"stairs",
 		"x":	448,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_corner.png",
-		"typeName":	"mossy_cobblestone",
+		"filename":	"assets/tiles/stairs/stair_prismarine_brick_N.png",
+		"typeName":	"stairs",
 		"x":	480,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_N.png",
-		"typeName":	"mossy_cobblestone",
+		"filename":	"assets/tiles/stairs/stair_polished_andesite_E.png",
+		"typeName":	"stairs",
 		"x":	512,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_W.png",
-		"typeName":	"mossy_cobblestone",
+		"filename":	"assets/tiles/stairs/stair_spruce_corner.png",
+		"typeName":	"stairs",
 		"x":	544,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_E.png",
-		"typeName":	"mossy_cobblestone",
+		"filename":	"assets/tiles/stairs/stair_smooth_quartz_corner.png",
+		"typeName":	"stairs",
 		"x":	576,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_SE.png",
-		"typeName":	"mossy_cobblestone",
+		"filename":	"assets/tiles/stairs/stair_birch_E.png",
+		"typeName":	"stairs",
 		"x":	608,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/bricks/stair_bricks_W.png",
-		"typeName":	"bricks",
+		"filename":	"assets/tiles/stairs/stair_blackstone_brick_S.png",
+		"typeName":	"stairs",
 		"x":	640,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/bricks/stair_bricks_N.png",
-		"typeName":	"bricks",
+		"filename":	"assets/tiles/stairs/stair_spruce_S.png",
+		"typeName":	"stairs",
 		"x":	672,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/bricks/stair_bricks_S.png",
-		"typeName":	"bricks",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_cut_N.png",
+		"typeName":	"stairs",
 		"x":	704,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/bricks/stair_bricks_SE.png",
-		"typeName":	"bricks",
+		"filename":	"assets/tiles/stairs/stair_red_nether_bricks_S.png",
+		"typeName":	"stairs",
 		"x":	736,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/bricks/stair_bricks_E.png",
-		"typeName":	"bricks",
+		"filename":	"assets/tiles/stairs/stair_red_nether_bricks_corner.png",
+		"typeName":	"stairs",
 		"x":	768,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/bricks/stair_bricks_corner.png",
-		"typeName":	"bricks",
+		"filename":	"assets/tiles/stairs/stair_warped_corner.png",
+		"typeName":	"stairs",
 		"x":	800,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/oak/stair_oak_S.png",
-		"typeName":	"oak",
+		"filename":	"assets/tiles/stairs/stair_purpur_corner.png",
+		"typeName":	"stairs",
 		"x":	832,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/oak/stair_oak_W.png",
-		"typeName":	"oak",
+		"filename":	"assets/tiles/stairs/stair_bricks_S.png",
+		"typeName":	"stairs",
 		"x":	864,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/oak/stair_oak_SE.png",
-		"typeName":	"oak",
+		"filename":	"assets/tiles/stairs/stair_polished_blackstone_SE.png",
+		"typeName":	"stairs",
 		"x":	896,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/oak/stair_oak_corner.png",
-		"typeName":	"oak",
+		"filename":	"assets/tiles/stairs/stair_andesite_N.png",
+		"typeName":	"stairs",
 		"x":	928,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/oak/stair_oak_N.png",
-		"typeName":	"oak",
+		"filename":	"assets/tiles/stairs/stair_blackstone_brick_W.png",
+		"typeName":	"stairs",
 		"x":	960,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/oak/stair_oak_E.png",
-		"typeName":	"oak",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_smooth_E.png",
+		"typeName":	"stairs",
 		"x":	992,
 		"y":	704,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/crimson/stair_crimson_SE.png",
-		"typeName":	"crimson",
+		"filename":	"assets/tiles/stairs/stair_stonebricks_N.png",
+		"typeName":	"stairs",
 		"x":	0,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/crimson/stair_crimson_S.png",
-		"typeName":	"crimson",
+		"filename":	"assets/tiles/stairs/stair_polished_blackstone_E.png",
+		"typeName":	"stairs",
 		"x":	32,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/crimson/stair_crimson_corner.png",
-		"typeName":	"crimson",
+		"filename":	"assets/tiles/stairs/stair_blackstone_S.png",
+		"typeName":	"stairs",
 		"x":	64,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/crimson/stair_crimson_N.png",
-		"typeName":	"crimson",
+		"filename":	"assets/tiles/stairs/stair_crimson_S.png",
+		"typeName":	"stairs",
 		"x":	96,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/crimson/stair_crimson_E.png",
-		"typeName":	"crimson",
+		"filename":	"assets/tiles/stairs/stair_warped_E.png",
+		"typeName":	"stairs",
 		"x":	128,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/crimson/stair_crimson_W.png",
-		"typeName":	"crimson",
+		"filename":	"assets/tiles/stairs/stair_andesite_E.png",
+		"typeName":	"stairs",
 		"x":	160,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_S.png",
-		"typeName":	"red_sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_crimson_corner.png",
+		"typeName":	"stairs",
 		"x":	192,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_E.png",
-		"typeName":	"red_sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_polished_granite_W.png",
+		"typeName":	"stairs",
 		"x":	224,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_N.png",
-		"typeName":	"red_sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_red_nether_bricks_E.png",
+		"typeName":	"stairs",
 		"x":	256,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_corner.png",
-		"typeName":	"red_sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_crimson_N.png",
+		"typeName":	"stairs",
 		"x":	288,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_SE.png",
-		"typeName":	"red_sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_acacia_N.png",
+		"typeName":	"stairs",
 		"x":	320,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_W.png",
-		"typeName":	"red_sandstone_cut",
+		"filename":	"assets/tiles/stairs/stair_crimson_E.png",
+		"typeName":	"stairs",
 		"x":	352,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_N.png",
-		"typeName":	"mossy_stonebricks",
+		"filename":	"assets/tiles/stairs/stair_spruce_N.png",
+		"typeName":	"stairs",
 		"x":	384,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_S.png",
-		"typeName":	"mossy_stonebricks",
+		"filename":	"assets/tiles/stairs/stair_prismarine_corner.png",
+		"typeName":	"stairs",
 		"x":	416,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_W.png",
-		"typeName":	"mossy_stonebricks",
+		"filename":	"assets/tiles/stairs/stair_granite_corner.png",
+		"typeName":	"stairs",
 		"x":	448,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_SE.png",
-		"typeName":	"mossy_stonebricks",
+		"filename":	"assets/tiles/stairs/stair_purpur_S.png",
+		"typeName":	"stairs",
 		"x":	480,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_corner.png",
-		"typeName":	"mossy_stonebricks",
+		"filename":	"assets/tiles/stairs/stair_prismarine_brick_E.png",
+		"typeName":	"stairs",
 		"x":	512,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_E.png",
-		"typeName":	"mossy_stonebricks",
+		"filename":	"assets/tiles/stairs/stair_stonebricks_W.png",
+		"typeName":	"stairs",
 		"x":	544,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/andesite/stair_andesite_SE.png",
-		"typeName":	"andesite",
+		"filename":	"assets/tiles/stairs/stair_crimson_W.png",
+		"typeName":	"stairs",
 		"x":	576,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/andesite/stair_andestie_W.png",
-		"typeName":	"andesite",
+		"filename":	"assets/tiles/stairs/stair_stone_W.png",
+		"typeName":	"stairs",
 		"x":	608,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/andesite/stair_andesite_S.png",
-		"typeName":	"andesite",
+		"filename":	"assets/tiles/stairs/stair_polished_andesite_SE.png",
+		"typeName":	"stairs",
 		"x":	640,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/andesite/stair_andesite_N.png",
-		"typeName":	"andesite",
+		"filename":	"assets/tiles/stairs/stair_warped_SE.png",
+		"typeName":	"stairs",
 		"x":	672,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/andesite/stair_andesite_E.png",
-		"typeName":	"andesite",
+		"filename":	"assets/tiles/stairs/stair_acacia_S.png",
+		"typeName":	"stairs",
 		"x":	704,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/andesite/stair_andesite_corner.png",
-		"typeName":	"andesite",
+		"filename":	"assets/tiles/stairs/stair_blackstone_W.png",
+		"typeName":	"stairs",
 		"x":	736,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/diorite/stair_diorite_E.png",
-		"typeName":	"diorite",
+		"filename":	"assets/tiles/stairs/stair_birch_S.png",
+		"typeName":	"stairs",
 		"x":	768,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/diorite/stair_diorite_W.png",
-		"typeName":	"diorite",
+		"filename":	"assets/tiles/stairs/stair_red_nether_bricks_W.png",
+		"typeName":	"stairs",
 		"x":	800,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/diorite/stair_diorite_SE.png",
-		"typeName":	"diorite",
+		"filename":	"assets/tiles/stairs/stair_stone_N.png",
+		"typeName":	"stairs",
 		"x":	832,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/diorite/stair_diorite_S.png",
-		"typeName":	"diorite",
+		"filename":	"assets/tiles/stairs/stair_smooth_quartz_SE.png",
+		"typeName":	"stairs",
 		"x":	864,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/diorite/stair_diorite_N.png",
-		"typeName":	"diorite",
+		"filename":	"assets/tiles/stairs/stair_birch_corner.png",
+		"typeName":	"stairs",
 		"x":	896,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/diorite/stair_diorite_corner.png",
-		"typeName":	"diorite",
+		"filename":	"assets/tiles/stairs/stair_smooth_quartz_N.png",
+		"typeName":	"stairs",
 		"x":	928,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_S.png",
-		"typeName":	"smooth_quartz",
+		"filename":	"assets/tiles/stairs/stair_mossy_cobblestone_W.png",
+		"typeName":	"stairs",
 		"x":	960,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_W.png",
-		"typeName":	"smooth_quartz",
+		"filename":	"assets/tiles/stairs/stair_red_nether_bricks_N.png",
+		"typeName":	"stairs",
 		"x":	992,
 		"y":	736,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_E.png",
-		"typeName":	"smooth_quartz",
+		"filename":	"assets/tiles/stairs/stair_dark_oak_S.png",
+		"typeName":	"stairs",
 		"x":	0,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_corner.png",
-		"typeName":	"smooth_quartz",
+		"filename":	"assets/tiles/stairs/stair_spruce_SE.png",
+		"typeName":	"stairs",
 		"x":	32,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_SE.png",
-		"typeName":	"smooth_quartz",
+		"filename":	"assets/tiles/stairs/stair_stonebricks_S.png",
+		"typeName":	"stairs",
 		"x":	64,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_N.png",
-		"typeName":	"smooth_quartz",
+		"filename":	"assets/tiles/stairs/stair_blackstone_brick_SE.png",
+		"typeName":	"stairs",
 		"x":	96,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/jungle/stair_jungle_N.png",
-		"typeName":	"jungle",
+		"filename":	"assets/tiles/stairs/stair_purpur_W.png",
+		"typeName":	"stairs",
 		"x":	128,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/jungle/stair_jungle_SE.png",
-		"typeName":	"jungle",
+		"filename":	"assets/tiles/stairs/stair_warped_S.png",
+		"typeName":	"stairs",
 		"x":	160,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/jungle/stair_jungle_corner.png",
-		"typeName":	"jungle",
+		"filename":	"assets/tiles/stairs/stair_bricks_SE.png",
+		"typeName":	"stairs",
 		"x":	192,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/jungle/stair_jungle_E.png",
-		"typeName":	"jungle",
+		"filename":	"assets/tiles/stairs/stair_mossy_cobblestone_E.png",
+		"typeName":	"stairs",
 		"x":	224,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/jungle/stair_jungle_W.png",
-		"typeName":	"jungle",
+		"filename":	"assets/tiles/stairs/stair_granite_SE.png",
+		"typeName":	"stairs",
 		"x":	256,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/jungle/stair_jungle_S.png",
-		"typeName":	"jungle",
+		"filename":	"assets/tiles/stairs/stair_sandstone_smooth_S.png",
+		"typeName":	"stairs",
 		"x":	288,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_corner.png",
-		"typeName":	"dark_prismarine",
+		"filename":	"assets/tiles/stairs/stair_endstone_S.png",
+		"typeName":	"stairs",
 		"x":	320,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_S.png",
-		"typeName":	"dark_prismarine",
+		"filename":	"assets/tiles/stairs/stair_mossy_cobblestone_SE.png",
+		"typeName":	"stairs",
 		"x":	352,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_W.png",
-		"typeName":	"dark_prismarine",
+		"filename":	"assets/tiles/stairs/stair_purpur_SE.png",
+		"typeName":	"stairs",
 		"x":	384,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_SE.png",
-		"typeName":	"dark_prismarine",
+		"filename":	"assets/tiles/stairs/stair_dark_oak_corner.png",
+		"typeName":	"stairs",
 		"x":	416,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_E.png",
-		"typeName":	"dark_prismarine",
+		"filename":	"assets/tiles/stairs/stair_polished_blackstone_corner.png",
+		"typeName":	"stairs",
 		"x":	448,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_N.png",
-		"typeName":	"dark_prismarine",
+		"filename":	"assets/tiles/stairs/stair_stonebricks_corner.png",
+		"typeName":	"stairs",
 		"x":	480,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/warped/stair_warped_W.png",
-		"typeName":	"warped",
+		"filename":	"assets/tiles/stairs/stair_sandstone_smooth_corner.png",
+		"typeName":	"stairs",
 		"x":	512,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/warped/stair_warped_corner.png",
-		"typeName":	"warped",
+		"filename":	"assets/tiles/stairs/stair_polished_diorite_N.png",
+		"typeName":	"stairs",
 		"x":	544,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/warped/stair_warped_E.png",
-		"typeName":	"warped",
+		"filename":	"assets/tiles/stairs/stair_granite_W.png",
+		"typeName":	"stairs",
 		"x":	576,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/warped/stair_warped_SE.png",
-		"typeName":	"warped",
+		"filename":	"assets/tiles/stairs/stair_cobblestone_W.png",
+		"typeName":	"stairs",
 		"x":	608,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/warped/stair_warped_S.png",
-		"typeName":	"warped",
+		"filename":	"assets/tiles/stairs/stair_andesite_corner.png",
+		"typeName":	"stairs",
 		"x":	640,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/warped/stair_warped_N.png",
-		"typeName":	"warped",
+		"filename":	"assets/tiles/stairs/stair_prismarine_SE.png",
+		"typeName":	"stairs",
 		"x":	672,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_E.png",
-		"typeName":	"polished_diorite",
+		"filename":	"assets/tiles/stairs/stair_jungle_S.png",
+		"typeName":	"stairs",
 		"x":	704,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_S.png",
-		"typeName":	"polished_diorite",
+		"filename":	"assets/tiles/stairs/stair_prismarine_brick_SE.png",
+		"typeName":	"stairs",
 		"x":	736,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_corner.png",
-		"typeName":	"polished_diorite",
+		"filename":	"assets/tiles/stairs/stair_mossy_stonebricks_corner.png",
+		"typeName":	"stairs",
 		"x":	768,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_W.png",
-		"typeName":	"polished_diorite",
+		"filename":	"assets/tiles/stairs/stair_quartz_SE.png",
+		"typeName":	"stairs",
 		"x":	800,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_N.png",
-		"typeName":	"polished_diorite",
+		"filename":	"assets/tiles/stairs/stair_spruce_E.png",
+		"typeName":	"stairs",
 		"x":	832,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_SE.png",
-		"typeName":	"polished_diorite",
+		"filename":	"assets/tiles/stairs/stair_bricks_E.png",
+		"typeName":	"stairs",
 		"x":	864,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_E.png",
-		"typeName":	"blackstone_brick",
+		"filename":	"assets/tiles/stairs/stair_nether_brick_SE.png",
+		"typeName":	"stairs",
 		"x":	896,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_corner.png",
-		"typeName":	"blackstone_brick",
+		"filename":	"assets/tiles/stairs/stair_bricks_corner.png",
+		"typeName":	"stairs",
 		"x":	928,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_S.png",
-		"typeName":	"blackstone_brick",
+		"filename":	"assets/tiles/stairs/stair_dark_oak_N.png",
+		"typeName":	"stairs",
 		"x":	960,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_W.png",
-		"typeName":	"blackstone_brick",
+		"filename":	"assets/tiles/stairs/stair_polished_andesite_N.png",
+		"typeName":	"stairs",
 		"x":	992,
 		"y":	768,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_SE.png",
-		"typeName":	"blackstone_brick",
+		"filename":	"assets/tiles/stairs/stair_polished_blackstone_N.png",
+		"typeName":	"stairs",
 		"x":	0,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_N.png",
-		"typeName":	"blackstone_brick",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_cut_corner.png",
+		"typeName":	"stairs",
 		"x":	32,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_E.png",
-		"typeName":	"cobblestone",
+		"filename":	"assets/tiles/stairs/stair_purpur_E.png",
+		"typeName":	"stairs",
 		"x":	64,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_N.png",
-		"typeName":	"cobblestone",
+		"filename":	"assets/tiles/stairs/stair_acacia_E.png",
+		"typeName":	"stairs",
 		"x":	96,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_S.png",
-		"typeName":	"cobblestone",
+		"filename":	"assets/tiles/stairs/stair_endstone_E.png",
+		"typeName":	"stairs",
 		"x":	128,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_corner.png",
-		"typeName":	"cobblestone",
+		"filename":	"assets/tiles/stairs/stair_polished_granite_N.png",
+		"typeName":	"stairs",
 		"x":	160,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_W.png",
-		"typeName":	"cobblestone",
+		"filename":	"assets/tiles/stairs/stair_granite_N.png",
+		"typeName":	"stairs",
 		"x":	192,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_SE.png",
-		"typeName":	"cobblestone",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_smooth_S.png",
+		"typeName":	"stairs",
 		"x":	224,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/quartz/stair_quartz_E.png",
-		"typeName":	"quartz",
+		"filename":	"assets/tiles/stairs/stair_mossy_stonebricks_E.png",
+		"typeName":	"stairs",
 		"x":	256,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/quartz/stair_quartz_S.png",
-		"typeName":	"quartz",
+		"filename":	"assets/tiles/stairs/stair_polished_diorite_SE.png",
+		"typeName":	"stairs",
 		"x":	288,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/quartz/stair_quartz_corner.png",
-		"typeName":	"quartz",
+		"filename":	"assets/tiles/stairs/stair_blackstone_brick_N.png",
+		"typeName":	"stairs",
 		"x":	320,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/quartz/stair_quartz_W.png",
-		"typeName":	"quartz",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_cut_SE.png",
+		"typeName":	"stairs",
 		"x":	352,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/quartz/stair_quartz_N.png",
-		"typeName":	"quartz",
+		"filename":	"assets/tiles/stairs/stair_cobblestone_SE.png",
+		"typeName":	"stairs",
 		"x":	384,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/quartz/stair_quartz_SE.png",
-		"typeName":	"quartz",
+		"filename":	"assets/tiles/stairs/stair_polished_granite_S.png",
+		"typeName":	"stairs",
 		"x":	416,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_SE.png",
-		"typeName":	"endstone_brick",
+		"filename":	"assets/tiles/stairs/stair_oak_E.png",
+		"typeName":	"stairs",
 		"x":	448,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_W.png",
-		"typeName":	"endstone_brick",
+		"filename":	"assets/tiles/stairs/stair_dark_prismarine_N.png",
+		"typeName":	"stairs",
 		"x":	480,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_N.png",
-		"typeName":	"endstone_brick",
+		"filename":	"assets/tiles/stairs/stair_blackstone_corner.png",
+		"typeName":	"stairs",
 		"x":	512,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_corner.png",
-		"typeName":	"endstone_brick",
+		"filename":	"assets/tiles/stairs/stair_granite_E.png",
+		"typeName":	"stairs",
 		"x":	544,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_S.png",
-		"typeName":	"endstone_brick",
+		"filename":	"assets/tiles/stairs/stair_polished_andesite_corner.png",
+		"typeName":	"stairs",
 		"x":	576,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_E.png",
-		"typeName":	"endstone_brick",
+		"filename":	"assets/tiles/stairs/stair_stone_SE.png",
+		"typeName":	"stairs",
 		"x":	608,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_S.png",
-		"typeName":	"prismarine_brick",
+		"filename":	"assets/tiles/stairs/stair_nether_brick_S.png",
+		"typeName":	"stairs",
 		"x":	640,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_W.png",
-		"typeName":	"prismarine_brick",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_cut_W.png",
+		"typeName":	"stairs",
 		"x":	672,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_N.png",
-		"typeName":	"prismarine_brick",
+		"filename":	"assets/tiles/stairs/stair_polished_blackstone_S.png",
+		"typeName":	"stairs",
 		"x":	704,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_E.png",
-		"typeName":	"prismarine_brick",
+		"filename":	"assets/tiles/stairs/stair_dark_oak_E.png",
+		"typeName":	"stairs",
 		"x":	736,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_SE.png",
-		"typeName":	"prismarine_brick",
+		"filename":	"assets/tiles/stairs/stair_red_sandstone_smooth_W.png",
+		"typeName":	"stairs",
 		"x":	768,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_corner.png",
-		"typeName":	"prismarine_brick",
+		"filename":	"assets/tiles/stairs/stair_red_nether_bricks_SE.png",
+		"typeName":	"stairs",
 		"x":	800,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/granite/stair_granite_S.png",
-		"typeName":	"granite",
+		"filename":	"assets/tiles/stairs/stair_warped_N.png",
+		"typeName":	"stairs",
 		"x":	832,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/granite/stair_granite_corner.png",
-		"typeName":	"granite",
+		"filename":	"assets/tiles/stairs/stair_sandstone_cut_N.png",
+		"typeName":	"stairs",
 		"x":	864,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/granite/stair_granite_SE.png",
-		"typeName":	"granite",
+		"filename":	"assets/tiles/stairs/stair_sandstone_smooth_W.png",
+		"typeName":	"stairs",
 		"x":	896,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/granite/stair_granite_W.png",
-		"typeName":	"granite",
+		"filename":	"assets/tiles/stairs/stair_dark_oak_SE.png",
+		"typeName":	"stairs",
 		"x":	928,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/granite/stair_granite_N.png",
-		"typeName":	"granite",
+		"filename":	"assets/tiles/stairs/stair_stonebricks_SE.png",
+		"typeName":	"stairs",
 		"x":	960,
 		"y":	800,
 		"w":	32,
 		"h":	32,
 		"rotated":	0
 	}, {
-		"filename":	"assets/tiles/stairs/granite/stair_granite_E.png",
-		"typeName":	"granite",
+		"filename":	"assets/tiles/stairs/stair_prismarine_brick_corner.png",
+		"typeName":	"stairs",
 		"x":	992,
 		"y":	800,
 		"w":	32,

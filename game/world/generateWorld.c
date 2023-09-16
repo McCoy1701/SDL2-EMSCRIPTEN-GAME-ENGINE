@@ -7,9 +7,9 @@ void generateWorld(void) {
     
     for (int x = 0; x < MAP_WIDTH; x++) {
         for (int y = 0; y < MAP_HEIGHT; y++) {
-            // printf("count: %d\n", tileCount);
-            MAP[x][y].id = (rand() % tileCount);
+            MAP[x][y].type = (Types)(rand() % TYPE_COUNT);
             MAP[x][y].hovering = 0;
+            // printf("type: %d\n", MAP[x][y].type);
         }
     }
 
@@ -50,7 +50,80 @@ void displayWorld(Cell grid[MAP_WIDTH][MAP_HEIGHT]) {
         for (int y = 0; y < MAP_HEIGHT; y++) {
             toISO(x, y, &sx, &sy);
             // printf("X,Y: %d, %d\n", sx, sy);
-            blitAtlasImage(blocks[grid[y][x].id], sx, sy, 0);
+
+            switch (grid[x][y].type) {
+            
+            case blocks:
+                blitAtlasImage(blocksArray[0], sx, sy, 0);
+                break;
+            
+            case concrete:
+                blitAtlasImage(concreteArray[0], sx, sy, 0);
+                break;
+            
+            case decorations:
+                blitAtlasImage(decorationsArray[0], sx, sy, 0);
+                break;
+            
+            case entities:
+                blitAtlasImage(entitiesArray[0], sx, sy, 0);
+                break;
+            
+            case fence:
+                blitAtlasImage(fenceArray[0], sx, sy, 0);
+                break;
+            
+            case glass:
+                blitAtlasImage(glassArray[0], sx, sy, 0);
+                break;
+            
+            case grass:
+                blitAtlasImage(grassArray[0], sx, sy, 0);
+                break;
+            
+            case ore:
+                blitAtlasImage(oreArray[0], sx, sy, 0);
+                break;
+            
+            case plants:
+                blitAtlasImage(plantsArray[0], sx, sy, 0);
+                break;
+            
+            case redstone:
+                blitAtlasImage(redstoneArray[0], sx, sy, 0);
+                break;
+            
+            case slabs:
+                blitAtlasImage(slabsArray[0], sx, sy, 0);
+                break;
+            
+            case stairs:
+                blitAtlasImage(stairsArray[0], sx, sy, 0);
+                break;
+            
+            case stone:
+                blitAtlasImage(stoneArray[0], sx, sy, 0);
+                break;
+            
+            case terracotta:
+                blitAtlasImage(terracottaArray[0], sx, sy, 0);
+                break;
+            
+            case wall:
+                blitAtlasImage(wallArray[0], sx, sy, 0);
+                break;
+            
+            case wood:
+                blitAtlasImage(woodArray[0], sx, sy, 0);
+                break;
+            
+            case wool:
+                blitAtlasImage(woolArray[0], sx, sy, 0);
+                break;
+            
+            default:
+                break;
+            }
         }
     }
 }

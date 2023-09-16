@@ -6,4 +6,6 @@
 
 void initTiles(void);
 
+static void loadArrays(int i, char* type, char* filename);
+
 #endif
