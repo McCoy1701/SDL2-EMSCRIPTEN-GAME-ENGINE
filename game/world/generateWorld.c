@@ -1,6 +1,8 @@
 #include "world.h"
 
 
+Cell MAP[MAP_WIDTH][MAP_HEIGHT];
+
 Cell** allocateWorldMemory(void) {
     Cell** grid = malloc(MAP_HEIGHT * sizeof(Cell*));
     for (int y = 0; y < MAP_HEIGHT; y++) {
@@ -10,17 +12,13 @@ Cell** allocateWorldMemory(void) {
     return grid;
 }
 
-void generateWorld(Cell** grid) {
-    for (int i = 0; i < MAP_HEIGHT; i++) {
-        for (int j = 0; j < MAP_WIDTH; j++) {
-            // grid[i][j].x = (j - i) * (CELL_SIZE/2);
-            // grid[i][j].y = (j + i) * (CELL_SIZE/2);
-            // cartesianToIsometric(&grid[i][j].x, &grid[i][j].y, j, i);
-            grid[i][j].x = j;
-            grid[i][j].y = i;
-            grid[i][j].w = CELL_SIZE;
-            grid[i][j].h = CELL_SIZE;
-            grid[i][j].hovering = 0;
+void generateWorld(void) {
+    
+    for (int x = 0; x < MAP_WIDTH; x++) {
+        for (int y = 0; y < MAP_HEIGHT; y++) {
+            // printf("count: %d\n", tileCount);
+            MAP[x][x].id = (rand() % tileCount);
+            MAP[y][x].hovering = 0;
         }
     }
 
@@ -56,23 +54,13 @@ void updateWorld(Cell** grid) {
 }
 
 void displayWorld(Cell** grid) {
-    SDL_Rect temp;
-    for (int i = 0; i < MAP_HEIGHT; i++) {
-        for (int j = 0; j < MAP_WIDTH; j++) {
-            temp.x = grid[i][j].x * CELL_SIZE;
-            temp.y = grid[i][j].y * CELL_SIZE;
-            temp.w = grid[i][j].w;
-            temp.h = grid[i][j].h;
-
-            // temp.y = (temp.y - (temp.h / 2));
-            drawRect(&temp, grid[i][j].hovering);
+    int sx, sy;
+    for (int x = MAP_WIDTH; x > 0; x--) {
+        for (int y = 0; y < MAP_HEIGHT; y++) {
+            toISO(x, y, &sx, &sy);
+            // printf("X,Y: %d, %d\n", sx, sy);
+            blitAtlasImage(blocks[grid[y][x].id], sx, sy, 0);
         }
     }
 }
 
-void quitWorld(Cell** grid) {
-    for (int i = 0; i < (MAP_HEIGHT); i++) {
-        free(grid[i]);
-    }
-    free(grid);
-}

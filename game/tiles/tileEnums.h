@@ -20,7 +20,6 @@ typedef enum _resourceType {
 } ResourceType;
 
 typedef enum _gemType {
-    none,
     diamond,
     emerald,
     ruby,
@@ -29,7 +28,6 @@ typedef enum _gemType {
 } GemType;
 
 typedef enum _economicType {
-    none,
     jet,
     grabbo,
     microline,
@@ -39,7 +37,6 @@ typedef enum _economicType {
 } EconomicType;
 
 typedef enum _metalType {
-    none,
     magnetite,
     hematite,
     malachite,
@@ -58,7 +55,6 @@ typedef enum _metalType {
 } MetalType;
 
 typedef enum _woodType {
-    none,
     oak,
     ash,
     maple,
@@ -69,7 +65,6 @@ typedef enum _woodType {
 } WoodType;
 
 typedef enum _otherType {
-    none,
     clay,
 } OtherType;
 

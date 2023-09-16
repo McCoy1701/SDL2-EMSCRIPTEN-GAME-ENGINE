@@ -145,7 +145,6 @@ static void handleCommandLine(int argc, char* argv[]) {
 
         } else if (strcmp(argv[i], "-name") == 0) {
             atlasName = argv[i + 1];
-            printf("name: %s\n", atlasName);
 
         } else if (strcmp(argv[i], "-padding") == 0) {
 
@@ -155,12 +154,15 @@ static void handleCommandLine(int argc, char* argv[]) {
 }
 
 static int initImages(void) {
-    int numOfImages, i;
-    i = 0;
-    numOfImages = countImages(rootDir);
+    int i;
     
-    images = malloc(sizeof(Image) * numOfImages);
-    memset(images, 0, sizeof(Image) * numOfImages);
+    i = countImages(rootDir);
+    
+    images = malloc(sizeof(Image) * i);
+    
+    memset(images, 0, sizeof(Image) * i);
+    
+    i = 0;
 
     loadImageData(&i, rootDir);
 

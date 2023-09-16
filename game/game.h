@@ -6,8 +6,8 @@
 #include "globals/global.h"
 
 #include "world/world.h"
+#include "tiles/tiles.h"
 
-extern Cell** MAP;
 extern Entity* player;
 
 void gameLoop(void);

@@ -7,7 +7,7 @@ static SDL_Texture* atlasTexture;
 
 void initAtlas(void) {
     memset(&atlases, 0, sizeof(AtlasImage) * NUM_ATLAS_BUCKETS);
-    atlasTexture = IMG_LoadTexture(app.renderer, "atlas.png");
+    atlasTexture = IMG_LoadTexture(app.renderer, "assets/data/tiles.png");
     loadAtlasData();
 }
 
@@ -36,7 +36,7 @@ void loadAtlasData(void) {
     char *text, *filename;
     unsigned long i;
 
-    text = readFile("atlas.json");
+    text = readFile("assets/data/tiles.json");
 
     root = cJSON_Parse(text);
 

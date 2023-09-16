@@ -9,6 +9,7 @@ typedef struct _cell {
     int w;
     int h;
     int hovering;
+    int id;
 } Cell;
 
 #endif

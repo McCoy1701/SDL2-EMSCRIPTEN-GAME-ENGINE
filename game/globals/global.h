@@ -7,10 +7,14 @@
 #include "../../engine/sounds/sound.h"
 #include "../../engine/text/text.h"
 #include "../../engine/inputs/input.h"
+#include "../../engine/utils/utils.h"
 #include "../../engine/utils/deltaTime/deltaTime.h"
 #include "../../engine/animations/animation.h"
 #include "../../engine/entities/entities.h"
 
+
 extern AtlasImage* blocks[NUM_OF_BLOCKS];
+
+extern int tileCount;
 
 #endif

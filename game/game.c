@@ -1,6 +1,5 @@
 #include "game.h"
 
-Cell** MAP;
 Entity* player;
 
 void gameLoop(void) {
@@ -10,7 +9,7 @@ void gameLoop(void) {
 
 void doLoop(void) {
     doInput();
-    updateWorld(MAP);
+    // updateWorld(MAP);
 }
 
 void renderLoop(void) {
@@ -19,13 +18,14 @@ void renderLoop(void) {
 }
 
 void initGame(void) {
-    MAP = allocateWorldMemory();
-    generateWorld(MAP);
-    player = entityConstructor(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2), "assets/player");
+    // printf("shitter\n");
+    initTiles();
+    generateWorld();
+    // player = entityConstructor(vec2Constructor(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2), "assets/player");
 }
 
 void quitGame(void) {
-    entityDeconstructor(player);
+    // entityDeconstructor(player);
     // animationNodeDeconstructor(testNode);
-    quitWorld(MAP);
+    // quitWorld(MAP);
 }
