@@ -19,6 +19,6 @@ void generateWorld(void);
 
 void updateWorld(Cell** grid);
 
-void displayWorld(Cell** grid);
+void displayWorld(Cell grid[MAP_WIDTH][MAP_HEIGHT]);
 
 #endif

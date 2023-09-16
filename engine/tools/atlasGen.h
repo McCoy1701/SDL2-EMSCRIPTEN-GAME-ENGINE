@@ -25,5 +25,6 @@ static void splitNode(Node* node, int w, int h);
 static void blitRotated(SDL_Surface* src, SDL_Surface* dest, int destx, int desty);
 static int getPixel(SDL_Surface* surface, int x, int y);
 static void putPixel(int x, int y, Uint32 pixel, SDL_Surface* dest);
+static char* getSplitName(const char* name);
 
 #endif

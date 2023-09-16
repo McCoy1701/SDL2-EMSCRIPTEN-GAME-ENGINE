@@ -1,5 +1,6 @@
 [{
 		"filename":	"assets/tiles/decorations/ice_packed.png",
+		"typeName":	"decorations",
 		"x":	0,
 		"y":	0,
 		"w":	32,
@@ -7,6 +8,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_torch_unlit_E.png",
+		"typeName":	"decorations",
 		"x":	32,
 		"y":	0,
 		"w":	32,
@@ -14,6 +16,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/flower_pot.png",
+		"typeName":	"decorations",
 		"x":	64,
 		"y":	0,
 		"w":	32,
@@ -21,6 +24,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/sponge_wet.png",
+		"typeName":	"decorations",
 		"x":	96,
 		"y":	0,
 		"w":	32,
@@ -28,6 +32,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/water_1.png",
+		"typeName":	"decorations",
 		"x":	128,
 		"y":	0,
 		"w":	32,
@@ -35,6 +40,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/block_purpur_pillar.png",
+		"typeName":	"decorations",
 		"x":	160,
 		"y":	0,
 		"w":	32,
@@ -42,6 +48,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/campsoulfire_lit_1.png",
+		"typeName":	"decorations",
 		"x":	192,
 		"y":	0,
 		"w":	32,
@@ -49,6 +56,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/block_snow.png",
+		"typeName":	"decorations",
 		"x":	224,
 		"y":	0,
 		"w":	32,
@@ -56,6 +64,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/portal.png",
+		"typeName":	"decorations",
 		"x":	256,
 		"y":	0,
 		"w":	32,
@@ -63,6 +72,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/iron_bar_WE.png",
+		"typeName":	"decorations",
 		"x":	288,
 		"y":	0,
 		"w":	32,
@@ -70,6 +80,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/sea_cucumber_2.png",
+		"typeName":	"decorations",
 		"x":	320,
 		"y":	0,
 		"w":	32,
@@ -77,6 +88,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/campsoulfire_lit_0.png",
+		"typeName":	"decorations",
 		"x":	352,
 		"y":	0,
 		"w":	32,
@@ -84,6 +96,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/torch_lit_E.png",
+		"typeName":	"decorations",
 		"x":	384,
 		"y":	0,
 		"w":	32,
@@ -91,6 +104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/campfire_unlit_0.png",
+		"typeName":	"decorations",
 		"x":	416,
 		"y":	0,
 		"w":	32,
@@ -98,6 +112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/block_purpur.png",
+		"typeName":	"decorations",
 		"x":	448,
 		"y":	0,
 		"w":	32,
@@ -105,6 +120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_torch_unlit_W.png",
+		"typeName":	"decorations",
 		"x":	480,
 		"y":	0,
 		"w":	32,
@@ -112,6 +128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/torch_unlit.png",
+		"typeName":	"decorations",
 		"x":	512,
 		"y":	0,
 		"w":	32,
@@ -119,6 +136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/lantern_lit.png",
+		"typeName":	"decorations",
 		"x":	544,
 		"y":	0,
 		"w":	32,
@@ -126,6 +144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/sea_cucumber_0.png",
+		"typeName":	"decorations",
 		"x":	576,
 		"y":	0,
 		"w":	32,
@@ -133,6 +152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/iron_bar_NS.png",
+		"typeName":	"decorations",
 		"x":	608,
 		"y":	0,
 		"w":	32,
@@ -140,6 +160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/bookshelf.png",
+		"typeName":	"decorations",
 		"x":	640,
 		"y":	0,
 		"w":	32,
@@ -147,6 +168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/sea_cucumber_1.png",
+		"typeName":	"decorations",
 		"x":	672,
 		"y":	0,
 		"w":	32,
@@ -154,6 +176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/water_0.png",
+		"typeName":	"decorations",
 		"x":	704,
 		"y":	0,
 		"w":	32,
@@ -161,6 +184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_torch_lit_W.png",
+		"typeName":	"decorations",
 		"x":	736,
 		"y":	0,
 		"w":	32,
@@ -168,6 +192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/ice_blue.png",
+		"typeName":	"decorations",
 		"x":	768,
 		"y":	0,
 		"w":	32,
@@ -175,6 +200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_fire_0.png",
+		"typeName":	"decorations",
 		"x":	800,
 		"y":	0,
 		"w":	32,
@@ -182,6 +208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_lantern_lit.png",
+		"typeName":	"decorations",
 		"x":	832,
 		"y":	0,
 		"w":	32,
@@ -189,6 +216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/turtle_egg_2.png",
+		"typeName":	"decorations",
 		"x":	864,
 		"y":	0,
 		"w":	32,
@@ -196,6 +224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/snow.png",
+		"typeName":	"decorations",
 		"x":	896,
 		"y":	0,
 		"w":	32,
@@ -203,6 +232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/clay.png",
+		"typeName":	"decorations",
 		"x":	928,
 		"y":	0,
 		"w":	32,
@@ -210,6 +240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/bricks.png",
+		"typeName":	"decorations",
 		"x":	960,
 		"y":	0,
 		"w":	32,
@@ -217,6 +248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/water_2.png",
+		"typeName":	"decorations",
 		"x":	992,
 		"y":	0,
 		"w":	32,
@@ -224,6 +256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/torch_lit.png",
+		"typeName":	"decorations",
 		"x":	0,
 		"y":	32,
 		"w":	32,
@@ -231,6 +264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/glowstone.png",
+		"typeName":	"decorations",
 		"x":	32,
 		"y":	32,
 		"w":	32,
@@ -238,6 +272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/block_bone.png",
+		"typeName":	"decorations",
 		"x":	64,
 		"y":	32,
 		"w":	32,
@@ -245,6 +280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/haybale.png",
+		"typeName":	"decorations",
 		"x":	96,
 		"y":	32,
 		"w":	32,
@@ -252,6 +288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_torch_lit.png",
+		"typeName":	"decorations",
 		"x":	128,
 		"y":	32,
 		"w":	32,
@@ -259,6 +296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_sand.png",
+		"typeName":	"decorations",
 		"x":	160,
 		"y":	32,
 		"w":	32,
@@ -266,6 +304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/sponge_dry.png",
+		"typeName":	"decorations",
 		"x":	192,
 		"y":	32,
 		"w":	32,
@@ -273,6 +312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/turtle_egg_1.png",
+		"typeName":	"decorations",
 		"x":	224,
 		"y":	32,
 		"w":	32,
@@ -280,6 +320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/shroomlight.png",
+		"typeName":	"decorations",
 		"x":	256,
 		"y":	32,
 		"w":	32,
@@ -287,6 +328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/water_3.png",
+		"typeName":	"decorations",
 		"x":	288,
 		"y":	32,
 		"w":	32,
@@ -294,6 +336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/torch_unlit_W.png",
+		"typeName":	"decorations",
 		"x":	320,
 		"y":	32,
 		"w":	32,
@@ -301,6 +344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_torch_lit_E.png",
+		"typeName":	"decorations",
 		"x":	352,
 		"y":	32,
 		"w":	32,
@@ -308,6 +352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/fire_1.png",
+		"typeName":	"decorations",
 		"x":	384,
 		"y":	32,
 		"w":	32,
@@ -315,6 +360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/sea_lantern.png",
+		"typeName":	"decorations",
 		"x":	416,
 		"y":	32,
 		"w":	32,
@@ -322,6 +368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_soil.png",
+		"typeName":	"decorations",
 		"x":	448,
 		"y":	32,
 		"w":	32,
@@ -329,6 +376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/campfire_lit_1.png",
+		"typeName":	"decorations",
 		"x":	480,
 		"y":	32,
 		"w":	32,
@@ -336,6 +384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/prismarine.png",
+		"typeName":	"decorations",
 		"x":	512,
 		"y":	32,
 		"w":	32,
@@ -343,6 +392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/honeycomb.png",
+		"typeName":	"decorations",
 		"x":	544,
 		"y":	32,
 		"w":	32,
@@ -350,6 +400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_fire_1.png",
+		"typeName":	"decorations",
 		"x":	576,
 		"y":	32,
 		"w":	32,
@@ -357,6 +408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/torch_lit_W.png",
+		"typeName":	"decorations",
 		"x":	608,
 		"y":	32,
 		"w":	32,
@@ -364,6 +416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/campfire_unlit_1.png",
+		"typeName":	"decorations",
 		"x":	640,
 		"y":	32,
 		"w":	32,
@@ -371,6 +424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/jack_o_lantern.png",
+		"typeName":	"decorations",
 		"x":	672,
 		"y":	32,
 		"w":	32,
@@ -378,6 +432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/campfire_lit_0.png",
+		"typeName":	"decorations",
 		"x":	704,
 		"y":	32,
 		"w":	32,
@@ -385,6 +440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/ice.png",
+		"typeName":	"decorations",
 		"x":	736,
 		"y":	32,
 		"w":	32,
@@ -392,6 +448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/chain.png",
+		"typeName":	"decorations",
 		"x":	768,
 		"y":	32,
 		"w":	32,
@@ -399,6 +456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/crying_obsidian.png",
+		"typeName":	"decorations",
 		"x":	800,
 		"y":	32,
 		"w":	32,
@@ -406,6 +464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_torch_unlit.png",
+		"typeName":	"decorations",
 		"x":	832,
 		"y":	32,
 		"w":	32,
@@ -413,6 +472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/soul_lantern_unlit.png",
+		"typeName":	"decorations",
 		"x":	864,
 		"y":	32,
 		"w":	32,
@@ -420,6 +480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/prismarine_dark.png",
+		"typeName":	"decorations",
 		"x":	896,
 		"y":	32,
 		"w":	32,
@@ -427,6 +488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/lava_0.png",
+		"typeName":	"decorations",
 		"x":	928,
 		"y":	32,
 		"w":	32,
@@ -434,6 +496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/fire_0.png",
+		"typeName":	"decorations",
 		"x":	960,
 		"y":	32,
 		"w":	32,
@@ -441,6 +504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/lava_1.png",
+		"typeName":	"decorations",
 		"x":	992,
 		"y":	32,
 		"w":	32,
@@ -448,6 +512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/torch_unlit_E.png",
+		"typeName":	"decorations",
 		"x":	0,
 		"y":	64,
 		"w":	32,
@@ -455,6 +520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/turtle_egg_0.png",
+		"typeName":	"decorations",
 		"x":	32,
 		"y":	64,
 		"w":	32,
@@ -462,6 +528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/prismarine_brick.png",
+		"typeName":	"decorations",
 		"x":	64,
 		"y":	64,
 		"w":	32,
@@ -469,6 +536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/decorations/lantern_unlit.png",
+		"typeName":	"decorations",
 		"x":	96,
 		"y":	64,
 		"w":	32,
@@ -476,6 +544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/plants/mushroom_brown.png",
+		"typeName":	"plants",
 		"x":	128,
 		"y":	64,
 		"w":	32,
@@ -483,6 +552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/plants/cactus.png",
+		"typeName":	"plants",
 		"x":	160,
 		"y":	64,
 		"w":	32,
@@ -490,6 +560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/plants/pumkin_carved.png",
+		"typeName":	"plants",
 		"x":	192,
 		"y":	64,
 		"w":	32,
@@ -497,6 +568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/plants/pumpkin.png",
+		"typeName":	"plants",
 		"x":	224,
 		"y":	64,
 		"w":	32,
@@ -504,6 +576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/plants/melon.png",
+		"typeName":	"plants",
 		"x":	256,
 		"y":	64,
 		"w":	32,
@@ -511,6 +584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/plants/mushroom_red.png",
+		"typeName":	"plants",
 		"x":	288,
 		"y":	64,
 		"w":	32,
@@ -518,6 +592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/plants/mushroom_stem.png",
+		"typeName":	"plants",
 		"x":	320,
 		"y":	64,
 		"w":	32,
@@ -525,6 +600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_orange.png",
+		"typeName":	"concrete",
 		"x":	352,
 		"y":	64,
 		"w":	32,
@@ -532,6 +608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_light_blue.png",
+		"typeName":	"concrete",
 		"x":	384,
 		"y":	64,
 		"w":	32,
@@ -539,6 +616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_light_gray.png",
+		"typeName":	"concrete",
 		"x":	416,
 		"y":	64,
 		"w":	32,
@@ -546,6 +624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_lime.png",
+		"typeName":	"concrete",
 		"x":	448,
 		"y":	64,
 		"w":	32,
@@ -553,6 +632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_black.png",
+		"typeName":	"concrete",
 		"x":	480,
 		"y":	64,
 		"w":	32,
@@ -560,6 +640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_blue.png",
+		"typeName":	"concrete",
 		"x":	512,
 		"y":	64,
 		"w":	32,
@@ -567,6 +648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_brown.png",
+		"typeName":	"concrete",
 		"x":	544,
 		"y":	64,
 		"w":	32,
@@ -574,6 +656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_cyan.png",
+		"typeName":	"concrete",
 		"x":	576,
 		"y":	64,
 		"w":	32,
@@ -581,6 +664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_yellow.png",
+		"typeName":	"concrete",
 		"x":	608,
 		"y":	64,
 		"w":	32,
@@ -588,6 +672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_cyan.png",
+		"typeName":	"concrete",
 		"x":	640,
 		"y":	64,
 		"w":	32,
@@ -595,6 +680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_pink.png",
+		"typeName":	"concrete",
 		"x":	672,
 		"y":	64,
 		"w":	32,
@@ -602,6 +688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_light_gray.png",
+		"typeName":	"concrete",
 		"x":	704,
 		"y":	64,
 		"w":	32,
@@ -609,6 +696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_blue.png",
+		"typeName":	"concrete",
 		"x":	736,
 		"y":	64,
 		"w":	32,
@@ -616,6 +704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_magenta.png",
+		"typeName":	"concrete",
 		"x":	768,
 		"y":	64,
 		"w":	32,
@@ -623,6 +712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_green.png",
+		"typeName":	"concrete",
 		"x":	800,
 		"y":	64,
 		"w":	32,
@@ -630,6 +720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_lime.png",
+		"typeName":	"concrete",
 		"x":	832,
 		"y":	64,
 		"w":	32,
@@ -637,6 +728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_orange.png",
+		"typeName":	"concrete",
 		"x":	864,
 		"y":	64,
 		"w":	32,
@@ -644,6 +736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_pink.png",
+		"typeName":	"concrete",
 		"x":	896,
 		"y":	64,
 		"w":	32,
@@ -651,6 +744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_white.png",
+		"typeName":	"concrete",
 		"x":	928,
 		"y":	64,
 		"w":	32,
@@ -658,6 +752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_gray.png",
+		"typeName":	"concrete",
 		"x":	960,
 		"y":	64,
 		"w":	32,
@@ -665,6 +760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_gray.png",
+		"typeName":	"concrete",
 		"x":	992,
 		"y":	64,
 		"w":	32,
@@ -672,6 +768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_magenta.png",
+		"typeName":	"concrete",
 		"x":	0,
 		"y":	96,
 		"w":	32,
@@ -679,6 +776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_black.png",
+		"typeName":	"concrete",
 		"x":	32,
 		"y":	96,
 		"w":	32,
@@ -686,6 +784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_light_blue.png",
+		"typeName":	"concrete",
 		"x":	64,
 		"y":	96,
 		"w":	32,
@@ -693,6 +792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_brown.png",
+		"typeName":	"concrete",
 		"x":	96,
 		"y":	96,
 		"w":	32,
@@ -700,6 +800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_green.png",
+		"typeName":	"concrete",
 		"x":	128,
 		"y":	96,
 		"w":	32,
@@ -707,6 +808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_yellow.png",
+		"typeName":	"concrete",
 		"x":	160,
 		"y":	96,
 		"w":	32,
@@ -714,6 +816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_red.png",
+		"typeName":	"concrete",
 		"x":	192,
 		"y":	96,
 		"w":	32,
@@ -721,6 +824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concerte_powder_purple.png",
+		"typeName":	"concrete",
 		"x":	224,
 		"y":	96,
 		"w":	32,
@@ -728,6 +832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_purple.png",
+		"typeName":	"concrete",
 		"x":	256,
 		"y":	96,
 		"w":	32,
@@ -735,6 +840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_red.png",
+		"typeName":	"concrete",
 		"x":	288,
 		"y":	96,
 		"w":	32,
@@ -742,6 +848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/concrete/concrete_white.png",
+		"typeName":	"concrete",
 		"x":	320,
 		"y":	96,
 		"w":	32,
@@ -749,6 +856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/farmland.png",
+		"typeName":	"grass",
 		"x":	352,
 		"y":	96,
 		"w":	32,
@@ -756,6 +864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/mycelium.png",
+		"typeName":	"grass",
 		"x":	384,
 		"y":	96,
 		"w":	32,
@@ -763,6 +872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/podzol.png",
+		"typeName":	"grass",
 		"x":	416,
 		"y":	96,
 		"w":	32,
@@ -770,6 +880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/grass.png",
+		"typeName":	"grass",
 		"x":	448,
 		"y":	96,
 		"w":	32,
@@ -777,6 +888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/grass_snow.png",
+		"typeName":	"grass",
 		"x":	480,
 		"y":	96,
 		"w":	32,
@@ -784,6 +896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/dirt_corse.png",
+		"typeName":	"grass",
 		"x":	512,
 		"y":	96,
 		"w":	32,
@@ -791,6 +904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/grass_savanna.png",
+		"typeName":	"grass",
 		"x":	544,
 		"y":	96,
 		"w":	32,
@@ -798,6 +912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/grass/dirt.png",
+		"typeName":	"grass",
 		"x":	576,
 		"y":	96,
 		"w":	32,
@@ -805,6 +920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/jukebox.png",
+		"typeName":	"entities",
 		"x":	608,
 		"y":	96,
 		"w":	32,
@@ -812,6 +928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/cauldron.png",
+		"typeName":	"entities",
 		"x":	640,
 		"y":	96,
 		"w":	32,
@@ -819,6 +936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/beacon.png",
+		"typeName":	"entities",
 		"x":	672,
 		"y":	96,
 		"w":	32,
@@ -826,6 +944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/furnace.png",
+		"typeName":	"entities",
 		"x":	704,
 		"y":	96,
 		"w":	32,
@@ -833,6 +952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/stonecutter.png",
+		"typeName":	"entities",
 		"x":	736,
 		"y":	96,
 		"w":	32,
@@ -840,6 +960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/barrel.png",
+		"typeName":	"entities",
 		"x":	768,
 		"y":	96,
 		"w":	32,
@@ -847,6 +968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/anvil_slightly_damaged.png",
+		"typeName":	"entities",
 		"x":	800,
 		"y":	96,
 		"w":	32,
@@ -854,6 +976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/scaffolding.png",
+		"typeName":	"entities",
 		"x":	832,
 		"y":	96,
 		"w":	32,
@@ -861,6 +984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/end_portal_frame.png",
+		"typeName":	"entities",
 		"x":	864,
 		"y":	96,
 		"w":	32,
@@ -868,6 +992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/grindstone.png",
+		"typeName":	"entities",
 		"x":	896,
 		"y":	96,
 		"w":	32,
@@ -875,6 +1000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/end_rod.png",
+		"typeName":	"entities",
 		"x":	928,
 		"y":	96,
 		"w":	32,
@@ -882,6 +1008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/end_portal.png",
+		"typeName":	"entities",
 		"x":	960,
 		"y":	96,
 		"w":	32,
@@ -889,6 +1016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/spawner.png",
+		"typeName":	"entities",
 		"x":	992,
 		"y":	96,
 		"w":	32,
@@ -896,6 +1024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/cartography_table",
+		"typeName":	"entities",
 		"x":	0,
 		"y":	128,
 		"w":	32,
@@ -903,6 +1032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/smithing_table.png",
+		"typeName":	"entities",
 		"x":	32,
 		"y":	128,
 		"w":	32,
@@ -910,6 +1040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/anvil.png",
+		"typeName":	"entities",
 		"x":	64,
 		"y":	128,
 		"w":	32,
@@ -917,6 +1048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/ender_chest.png",
+		"typeName":	"entities",
 		"x":	96,
 		"y":	128,
 		"w":	32,
@@ -924,6 +1056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/cake.png",
+		"typeName":	"entities",
 		"x":	128,
 		"y":	128,
 		"w":	32,
@@ -931,6 +1064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/brewing_stand.png",
+		"typeName":	"entities",
 		"x":	160,
 		"y":	128,
 		"w":	32,
@@ -938,6 +1072,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/enchantment_table.png",
+		"typeName":	"entities",
 		"x":	192,
 		"y":	128,
 		"w":	32,
@@ -945,6 +1080,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/apiary.png",
+		"typeName":	"entities",
 		"x":	224,
 		"y":	128,
 		"w":	32,
@@ -952,6 +1088,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/loom.png",
+		"typeName":	"entities",
 		"x":	256,
 		"y":	128,
 		"w":	32,
@@ -959,6 +1096,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/chest.png",
+		"typeName":	"entities",
 		"x":	288,
 		"y":	128,
 		"w":	32,
@@ -966,6 +1104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/lectern_book.png",
+		"typeName":	"entities",
 		"x":	320,
 		"y":	128,
 		"w":	32,
@@ -973,6 +1112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/fletching_table.png",
+		"typeName":	"entities",
 		"x":	352,
 		"y":	128,
 		"w":	32,
@@ -980,6 +1120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/anvil_severely_damaged.png",
+		"typeName":	"entities",
 		"x":	384,
 		"y":	128,
 		"w":	32,
@@ -987,6 +1128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/hive.png",
+		"typeName":	"entities",
 		"x":	416,
 		"y":	128,
 		"w":	32,
@@ -994,6 +1136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/compost_bin.png",
+		"typeName":	"entities",
 		"x":	448,
 		"y":	128,
 		"w":	32,
@@ -1001,6 +1144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/barrel_flat.png",
+		"typeName":	"entities",
 		"x":	480,
 		"y":	128,
 		"w":	32,
@@ -1008,6 +1152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/craftingtable.png",
+		"typeName":	"entities",
 		"x":	512,
 		"y":	128,
 		"w":	32,
@@ -1015,6 +1160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/blast_furnace.png",
+		"typeName":	"entities",
 		"x":	544,
 		"y":	128,
 		"w":	32,
@@ -1022,6 +1168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/lectern.png",
+		"typeName":	"entities",
 		"x":	576,
 		"y":	128,
 		"w":	32,
@@ -1029,6 +1176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/smoker.png",
+		"typeName":	"entities",
 		"x":	608,
 		"y":	128,
 		"w":	32,
@@ -1036,6 +1184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/bell.png",
+		"typeName":	"entities",
 		"x":	640,
 		"y":	128,
 		"w":	32,
@@ -1043,6 +1192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/entities/end_portal_starfield.png",
+		"typeName":	"entities",
 		"x":	672,
 		"y":	128,
 		"w":	32,
@@ -1050,6 +1200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	704,
 		"y":	128,
 		"w":	32,
@@ -1057,6 +1208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_W.png",
+		"typeName":	"wall",
 		"x":	736,
 		"y":	128,
 		"w":	32,
@@ -1064,6 +1216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_part_1.png",
+		"typeName":	"wall",
 		"x":	768,
 		"y":	128,
 		"w":	32,
@@ -1071,6 +1224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_W.png",
+		"typeName":	"wall",
 		"x":	800,
 		"y":	128,
 		"w":	32,
@@ -1078,6 +1232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_NW.png",
+		"typeName":	"wall",
 		"x":	832,
 		"y":	128,
 		"w":	32,
@@ -1085,6 +1240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	864,
 		"y":	128,
 		"w":	32,
@@ -1092,6 +1248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_SE.png",
+		"typeName":	"wall",
 		"x":	896,
 		"y":	128,
 		"w":	32,
@@ -1099,6 +1256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_S.png",
+		"typeName":	"wall",
 		"x":	928,
 		"y":	128,
 		"w":	32,
@@ -1106,6 +1264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_N.png",
+		"typeName":	"wall",
 		"x":	960,
 		"y":	128,
 		"w":	32,
@@ -1113,6 +1272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_part_0.png",
+		"typeName":	"wall",
 		"x":	992,
 		"y":	128,
 		"w":	32,
@@ -1120,6 +1280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall.png",
+		"typeName":	"wall",
 		"x":	0,
 		"y":	160,
 		"w":	32,
@@ -1127,6 +1288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_N.png",
+		"typeName":	"wall",
 		"x":	32,
 		"y":	160,
 		"w":	32,
@@ -1134,6 +1296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_W.png",
+		"typeName":	"wall",
 		"x":	64,
 		"y":	160,
 		"w":	32,
@@ -1141,6 +1304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_N.png",
+		"typeName":	"wall",
 		"x":	96,
 		"y":	160,
 		"w":	32,
@@ -1148,6 +1312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	128,
 		"y":	160,
 		"w":	32,
@@ -1155,6 +1320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_N.png",
+		"typeName":	"wall",
 		"x":	160,
 		"y":	160,
 		"w":	32,
@@ -1162,6 +1328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_W.png",
+		"typeName":	"wall",
 		"x":	192,
 		"y":	160,
 		"w":	32,
@@ -1169,6 +1336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	224,
 		"y":	160,
 		"w":	32,
@@ -1176,6 +1344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_NW.png",
+		"typeName":	"wall",
 		"x":	256,
 		"y":	160,
 		"w":	32,
@@ -1183,6 +1352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	288,
 		"y":	160,
 		"w":	32,
@@ -1190,6 +1360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_NE.png",
+		"typeName":	"wall",
 		"x":	320,
 		"y":	160,
 		"w":	32,
@@ -1197,6 +1368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_SW.png",
+		"typeName":	"wall",
 		"x":	352,
 		"y":	160,
 		"w":	32,
@@ -1204,6 +1376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_S.png",
+		"typeName":	"wall",
 		"x":	384,
 		"y":	160,
 		"w":	32,
@@ -1211,6 +1384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	416,
 		"y":	160,
 		"w":	32,
@@ -1218,6 +1392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_SE.png",
+		"typeName":	"wall",
 		"x":	448,
 		"y":	160,
 		"w":	32,
@@ -1225,6 +1400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_W.png",
+		"typeName":	"wall",
 		"x":	480,
 		"y":	160,
 		"w":	32,
@@ -1232,6 +1408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_SE.png",
+		"typeName":	"wall",
 		"x":	512,
 		"y":	160,
 		"w":	32,
@@ -1239,6 +1416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall.png",
+		"typeName":	"wall",
 		"x":	544,
 		"y":	160,
 		"w":	32,
@@ -1246,6 +1424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall.png",
+		"typeName":	"wall",
 		"x":	576,
 		"y":	160,
 		"w":	32,
@@ -1253,6 +1432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_N.png",
+		"typeName":	"wall",
 		"x":	608,
 		"y":	160,
 		"w":	32,
@@ -1260,6 +1440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_S.png",
+		"typeName":	"wall",
 		"x":	640,
 		"y":	160,
 		"w":	32,
@@ -1267,6 +1448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_SW.png",
+		"typeName":	"wall",
 		"x":	672,
 		"y":	160,
 		"w":	32,
@@ -1274,6 +1456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_W.png",
+		"typeName":	"wall",
 		"x":	704,
 		"y":	160,
 		"w":	32,
@@ -1281,6 +1464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_N.png",
+		"typeName":	"wall",
 		"x":	736,
 		"y":	160,
 		"w":	32,
@@ -1288,6 +1472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	768,
 		"y":	160,
 		"w":	32,
@@ -1295,6 +1480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_SW.png",
+		"typeName":	"wall",
 		"x":	800,
 		"y":	160,
 		"w":	32,
@@ -1302,6 +1488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	832,
 		"y":	160,
 		"w":	32,
@@ -1309,6 +1496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_E.png",
+		"typeName":	"wall",
 		"x":	864,
 		"y":	160,
 		"w":	32,
@@ -1316,6 +1504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_E.png",
+		"typeName":	"wall",
 		"x":	896,
 		"y":	160,
 		"w":	32,
@@ -1323,6 +1512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	928,
 		"y":	160,
 		"w":	32,
@@ -1330,6 +1520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_SE.png",
+		"typeName":	"wall",
 		"x":	960,
 		"y":	160,
 		"w":	32,
@@ -1337,6 +1528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_part_0.png",
+		"typeName":	"wall",
 		"x":	992,
 		"y":	160,
 		"w":	32,
@@ -1344,6 +1536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_part_0.png",
+		"typeName":	"wall",
 		"x":	0,
 		"y":	192,
 		"w":	32,
@@ -1351,6 +1544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_S.png",
+		"typeName":	"wall",
 		"x":	32,
 		"y":	192,
 		"w":	32,
@@ -1358,6 +1552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_E.png",
+		"typeName":	"wall",
 		"x":	64,
 		"y":	192,
 		"w":	32,
@@ -1365,6 +1560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_W.png",
+		"typeName":	"wall",
 		"x":	96,
 		"y":	192,
 		"w":	32,
@@ -1372,6 +1568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_SE.png",
+		"typeName":	"wall",
 		"x":	128,
 		"y":	192,
 		"w":	32,
@@ -1379,6 +1576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_S.png",
+		"typeName":	"wall",
 		"x":	160,
 		"y":	192,
 		"w":	32,
@@ -1386,6 +1584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_N.png",
+		"typeName":	"wall",
 		"x":	192,
 		"y":	192,
 		"w":	32,
@@ -1393,6 +1592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_W.png",
+		"typeName":	"wall",
 		"x":	224,
 		"y":	192,
 		"w":	32,
@@ -1400,6 +1600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_NW.png",
+		"typeName":	"wall",
 		"x":	256,
 		"y":	192,
 		"w":	32,
@@ -1407,6 +1608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_NE.png",
+		"typeName":	"wall",
 		"x":	288,
 		"y":	192,
 		"w":	32,
@@ -1414,6 +1616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall.png",
+		"typeName":	"wall",
 		"x":	320,
 		"y":	192,
 		"w":	32,
@@ -1421,6 +1624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_NE.png",
+		"typeName":	"wall",
 		"x":	352,
 		"y":	192,
 		"w":	32,
@@ -1428,6 +1632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_NW.png",
+		"typeName":	"wall",
 		"x":	384,
 		"y":	192,
 		"w":	32,
@@ -1435,6 +1640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_SW.png",
+		"typeName":	"wall",
 		"x":	416,
 		"y":	192,
 		"w":	32,
@@ -1442,6 +1648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_NW.png",
+		"typeName":	"wall",
 		"x":	448,
 		"y":	192,
 		"w":	32,
@@ -1449,6 +1656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_W.png",
+		"typeName":	"wall",
 		"x":	480,
 		"y":	192,
 		"w":	32,
@@ -1456,6 +1664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_SE.png",
+		"typeName":	"wall",
 		"x":	512,
 		"y":	192,
 		"w":	32,
@@ -1463,6 +1672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_N.png",
+		"typeName":	"wall",
 		"x":	544,
 		"y":	192,
 		"w":	32,
@@ -1470,6 +1680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_SE.png",
+		"typeName":	"wall",
 		"x":	576,
 		"y":	192,
 		"w":	32,
@@ -1477,6 +1688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_NW.png",
+		"typeName":	"wall",
 		"x":	608,
 		"y":	192,
 		"w":	32,
@@ -1484,6 +1696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_S.png",
+		"typeName":	"wall",
 		"x":	640,
 		"y":	192,
 		"w":	32,
@@ -1491,6 +1704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_E.png",
+		"typeName":	"wall",
 		"x":	672,
 		"y":	192,
 		"w":	32,
@@ -1498,6 +1712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_SE.png",
+		"typeName":	"wall",
 		"x":	704,
 		"y":	192,
 		"w":	32,
@@ -1505,6 +1720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_part_1.png",
+		"typeName":	"wall",
 		"x":	736,
 		"y":	192,
 		"w":	32,
@@ -1512,6 +1728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_S.png",
+		"typeName":	"wall",
 		"x":	768,
 		"y":	192,
 		"w":	32,
@@ -1519,6 +1736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_W.png",
+		"typeName":	"wall",
 		"x":	800,
 		"y":	192,
 		"w":	32,
@@ -1526,6 +1744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_S.png",
+		"typeName":	"wall",
 		"x":	832,
 		"y":	192,
 		"w":	32,
@@ -1533,6 +1752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_NW.png",
+		"typeName":	"wall",
 		"x":	864,
 		"y":	192,
 		"w":	32,
@@ -1540,6 +1760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_SE.png",
+		"typeName":	"wall",
 		"x":	896,
 		"y":	192,
 		"w":	32,
@@ -1547,6 +1768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall.png",
+		"typeName":	"wall",
 		"x":	928,
 		"y":	192,
 		"w":	32,
@@ -1554,6 +1776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_N.png",
+		"typeName":	"wall",
 		"x":	960,
 		"y":	192,
 		"w":	32,
@@ -1561,6 +1784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_S.png",
+		"typeName":	"wall",
 		"x":	992,
 		"y":	192,
 		"w":	32,
@@ -1568,6 +1792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_W.png",
+		"typeName":	"wall",
 		"x":	0,
 		"y":	224,
 		"w":	32,
@@ -1575,6 +1800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	32,
 		"y":	224,
 		"w":	32,
@@ -1582,6 +1808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_SE.png",
+		"typeName":	"wall",
 		"x":	64,
 		"y":	224,
 		"w":	32,
@@ -1589,6 +1816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_SW.png",
+		"typeName":	"wall",
 		"x":	96,
 		"y":	224,
 		"w":	32,
@@ -1596,6 +1824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall.png",
+		"typeName":	"wall",
 		"x":	128,
 		"y":	224,
 		"w":	32,
@@ -1603,6 +1832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_NE.png",
+		"typeName":	"wall",
 		"x":	160,
 		"y":	224,
 		"w":	32,
@@ -1610,6 +1840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_SW.png",
+		"typeName":	"wall",
 		"x":	192,
 		"y":	224,
 		"w":	32,
@@ -1617,6 +1848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_NW.png",
+		"typeName":	"wall",
 		"x":	224,
 		"y":	224,
 		"w":	32,
@@ -1624,6 +1856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_part_1.png",
+		"typeName":	"wall",
 		"x":	256,
 		"y":	224,
 		"w":	32,
@@ -1631,6 +1864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	288,
 		"y":	224,
 		"w":	32,
@@ -1638,6 +1872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_SW.png",
+		"typeName":	"wall",
 		"x":	320,
 		"y":	224,
 		"w":	32,
@@ -1645,6 +1880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	352,
 		"y":	224,
 		"w":	32,
@@ -1652,6 +1888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_N.png",
+		"typeName":	"wall",
 		"x":	384,
 		"y":	224,
 		"w":	32,
@@ -1659,6 +1896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_E.png",
+		"typeName":	"wall",
 		"x":	416,
 		"y":	224,
 		"w":	32,
@@ -1666,6 +1904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_S.png",
+		"typeName":	"wall",
 		"x":	448,
 		"y":	224,
 		"w":	32,
@@ -1673,6 +1912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall.png",
+		"typeName":	"wall",
 		"x":	480,
 		"y":	224,
 		"w":	32,
@@ -1680,6 +1920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_SE.png",
+		"typeName":	"wall",
 		"x":	512,
 		"y":	224,
 		"w":	32,
@@ -1687,6 +1928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_NE.png",
+		"typeName":	"wall",
 		"x":	544,
 		"y":	224,
 		"w":	32,
@@ -1694,6 +1936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_NW.png",
+		"typeName":	"wall",
 		"x":	576,
 		"y":	224,
 		"w":	32,
@@ -1701,6 +1944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_W.png",
+		"typeName":	"wall",
 		"x":	608,
 		"y":	224,
 		"w":	32,
@@ -1708,6 +1952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_NW.png",
+		"typeName":	"wall",
 		"x":	640,
 		"y":	224,
 		"w":	32,
@@ -1715,6 +1960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall.png",
+		"typeName":	"wall",
 		"x":	672,
 		"y":	224,
 		"w":	32,
@@ -1722,6 +1968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	704,
 		"y":	224,
 		"w":	32,
@@ -1729,6 +1976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_NE.png",
+		"typeName":	"wall",
 		"x":	736,
 		"y":	224,
 		"w":	32,
@@ -1736,6 +1984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_W.png",
+		"typeName":	"wall",
 		"x":	768,
 		"y":	224,
 		"w":	32,
@@ -1743,6 +1992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_NE.png",
+		"typeName":	"wall",
 		"x":	800,
 		"y":	224,
 		"w":	32,
@@ -1750,6 +2000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_E.png",
+		"typeName":	"wall",
 		"x":	832,
 		"y":	224,
 		"w":	32,
@@ -1757,6 +2008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	864,
 		"y":	224,
 		"w":	32,
@@ -1764,6 +2016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_N.png",
+		"typeName":	"wall",
 		"x":	896,
 		"y":	224,
 		"w":	32,
@@ -1771,6 +2024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_SW.png",
+		"typeName":	"wall",
 		"x":	928,
 		"y":	224,
 		"w":	32,
@@ -1778,6 +2032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_E.png",
+		"typeName":	"wall",
 		"x":	960,
 		"y":	224,
 		"w":	32,
@@ -1785,6 +2040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	992,
 		"y":	224,
 		"w":	32,
@@ -1792,6 +2048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_E.png",
+		"typeName":	"wall",
 		"x":	0,
 		"y":	256,
 		"w":	32,
@@ -1799,6 +2056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall.png",
+		"typeName":	"wall",
 		"x":	32,
 		"y":	256,
 		"w":	32,
@@ -1806,6 +2064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_S.png",
+		"typeName":	"wall",
 		"x":	64,
 		"y":	256,
 		"w":	32,
@@ -1813,6 +2072,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_NW.png",
+		"typeName":	"wall",
 		"x":	96,
 		"y":	256,
 		"w":	32,
@@ -1820,6 +2080,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_S.png",
+		"typeName":	"wall",
 		"x":	128,
 		"y":	256,
 		"w":	32,
@@ -1827,6 +2088,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_NE.png",
+		"typeName":	"wall",
 		"x":	160,
 		"y":	256,
 		"w":	32,
@@ -1834,6 +2096,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall.png",
+		"typeName":	"wall",
 		"x":	192,
 		"y":	256,
 		"w":	32,
@@ -1841,6 +2104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	224,
 		"y":	256,
 		"w":	32,
@@ -1848,6 +2112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_NE.png",
+		"typeName":	"wall",
 		"x":	256,
 		"y":	256,
 		"w":	32,
@@ -1855,6 +2120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_E.png",
+		"typeName":	"wall",
 		"x":	288,
 		"y":	256,
 		"w":	32,
@@ -1862,6 +2128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall.png",
+		"typeName":	"wall",
 		"x":	320,
 		"y":	256,
 		"w":	32,
@@ -1869,6 +2136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	352,
 		"y":	256,
 		"w":	32,
@@ -1876,6 +2144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_SW.png",
+		"typeName":	"wall",
 		"x":	384,
 		"y":	256,
 		"w":	32,
@@ -1883,6 +2152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_SW.png",
+		"typeName":	"wall",
 		"x":	416,
 		"y":	256,
 		"w":	32,
@@ -1890,6 +2160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_SW.png",
+		"typeName":	"wall",
 		"x":	448,
 		"y":	256,
 		"w":	32,
@@ -1897,6 +2168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_S.png",
+		"typeName":	"wall",
 		"x":	480,
 		"y":	256,
 		"w":	32,
@@ -1904,6 +2176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_SW.png",
+		"typeName":	"wall",
 		"x":	512,
 		"y":	256,
 		"w":	32,
@@ -1911,6 +2184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_part_0.png",
+		"typeName":	"wall",
 		"x":	544,
 		"y":	256,
 		"w":	32,
@@ -1918,6 +2192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	576,
 		"y":	256,
 		"w":	32,
@@ -1925,6 +2200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	608,
 		"y":	256,
 		"w":	32,
@@ -1932,6 +2208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_NE.png",
+		"typeName":	"wall",
 		"x":	640,
 		"y":	256,
 		"w":	32,
@@ -1939,6 +2216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_SW.png",
+		"typeName":	"wall",
 		"x":	672,
 		"y":	256,
 		"w":	32,
@@ -1946,6 +2224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_n.png",
+		"typeName":	"wall",
 		"x":	704,
 		"y":	256,
 		"w":	32,
@@ -1953,6 +2232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall.png",
+		"typeName":	"wall",
 		"x":	736,
 		"y":	256,
 		"w":	32,
@@ -1960,6 +2240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	768,
 		"y":	256,
 		"w":	32,
@@ -1967,6 +2248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red_SW.png",
+		"typeName":	"wall",
 		"x":	800,
 		"y":	256,
 		"w":	32,
@@ -1974,6 +2256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_SW.png",
+		"typeName":	"wall",
 		"x":	832,
 		"y":	256,
 		"w":	32,
@@ -1981,6 +2264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_N.png",
+		"typeName":	"wall",
 		"x":	864,
 		"y":	256,
 		"w":	32,
@@ -1988,6 +2272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_W.png",
+		"typeName":	"wall",
 		"x":	896,
 		"y":	256,
 		"w":	32,
@@ -1995,6 +2280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_NW.png",
+		"typeName":	"wall",
 		"x":	928,
 		"y":	256,
 		"w":	32,
@@ -2002,6 +2288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_NE.png",
+		"typeName":	"wall",
 		"x":	960,
 		"y":	256,
 		"w":	32,
@@ -2009,6 +2296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_W.png",
+		"typeName":	"wall",
 		"x":	992,
 		"y":	256,
 		"w":	32,
@@ -2016,6 +2304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_S.png",
+		"typeName":	"wall",
 		"x":	0,
 		"y":	288,
 		"w":	32,
@@ -2023,6 +2312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_W.png",
+		"typeName":	"wall",
 		"x":	32,
 		"y":	288,
 		"w":	32,
@@ -2030,6 +2320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	64,
 		"y":	288,
 		"w":	32,
@@ -2037,6 +2328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	96,
 		"y":	288,
 		"w":	32,
@@ -2044,6 +2336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	128,
 		"y":	288,
 		"w":	32,
@@ -2051,6 +2344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	160,
 		"y":	288,
 		"w":	32,
@@ -2058,6 +2352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_NE.png",
+		"typeName":	"wall",
 		"x":	192,
 		"y":	288,
 		"w":	32,
@@ -2065,6 +2360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_S.png",
+		"typeName":	"wall",
 		"x":	224,
 		"y":	288,
 		"w":	32,
@@ -2072,6 +2368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_E.png",
+		"typeName":	"wall",
 		"x":	256,
 		"y":	288,
 		"w":	32,
@@ -2079,6 +2376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_part_0.png",
+		"typeName":	"wall",
 		"x":	288,
 		"y":	288,
 		"w":	32,
@@ -2086,6 +2384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_SW.png",
+		"typeName":	"wall",
 		"x":	320,
 		"y":	288,
 		"w":	32,
@@ -2093,6 +2392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_NW.png",
+		"typeName":	"wall",
 		"x":	352,
 		"y":	288,
 		"w":	32,
@@ -2100,6 +2400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy_E.png",
+		"typeName":	"wall",
 		"x":	384,
 		"y":	288,
 		"w":	32,
@@ -2107,6 +2408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_E.png",
+		"typeName":	"wall",
 		"x":	416,
 		"y":	288,
 		"w":	32,
@@ -2114,6 +2416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_NE.png",
+		"typeName":	"wall",
 		"x":	448,
 		"y":	288,
 		"w":	32,
@@ -2121,6 +2424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_NE.png",
+		"typeName":	"wall",
 		"x":	480,
 		"y":	288,
 		"w":	32,
@@ -2128,6 +2432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_SE.png",
+		"typeName":	"wall",
 		"x":	512,
 		"y":	288,
 		"w":	32,
@@ -2135,6 +2440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_red.png",
+		"typeName":	"wall",
 		"x":	544,
 		"y":	288,
 		"w":	32,
@@ -2142,6 +2448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_N.png",
+		"typeName":	"wall",
 		"x":	576,
 		"y":	288,
 		"w":	32,
@@ -2149,6 +2456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/granite_wall_NE.png",
+		"typeName":	"wall",
 		"x":	608,
 		"y":	288,
 		"w":	32,
@@ -2156,6 +2464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/diorite_wall_E.png",
+		"typeName":	"wall",
 		"x":	640,
 		"y":	288,
 		"w":	32,
@@ -2163,6 +2472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_E.png",
+		"typeName":	"wall",
 		"x":	672,
 		"y":	288,
 		"w":	32,
@@ -2170,6 +2480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_SE.png",
+		"typeName":	"wall",
 		"x":	704,
 		"y":	288,
 		"w":	32,
@@ -2177,6 +2488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy.png",
+		"typeName":	"wall",
 		"x":	736,
 		"y":	288,
 		"w":	32,
@@ -2184,6 +2496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall.png",
+		"typeName":	"wall",
 		"x":	768,
 		"y":	288,
 		"w":	32,
@@ -2191,6 +2504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_part_1.png",
+		"typeName":	"wall",
 		"x":	800,
 		"y":	288,
 		"w":	32,
@@ -2198,6 +2512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_SE.png",
+		"typeName":	"wall",
 		"x":	832,
 		"y":	288,
 		"w":	32,
@@ -2205,6 +2520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_mossy.png",
+		"typeName":	"wall",
 		"x":	864,
 		"y":	288,
 		"w":	32,
@@ -2212,6 +2528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_S.png",
+		"typeName":	"wall",
 		"x":	896,
 		"y":	288,
 		"w":	32,
@@ -2219,6 +2536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_NW.png",
+		"typeName":	"wall",
 		"x":	928,
 		"y":	288,
 		"w":	32,
@@ -2226,6 +2544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_NE.png",
+		"typeName":	"wall",
 		"x":	960,
 		"y":	288,
 		"w":	32,
@@ -2233,6 +2552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_polished_wall_NW.png",
+		"typeName":	"wall",
 		"x":	992,
 		"y":	288,
 		"w":	32,
@@ -2240,6 +2560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_brick_wall_NE.png",
+		"typeName":	"wall",
 		"x":	0,
 		"y":	320,
 		"w":	32,
@@ -2247,6 +2568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_N.png",
+		"typeName":	"wall",
 		"x":	32,
 		"y":	320,
 		"w":	32,
@@ -2254,6 +2576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red_NW.png",
+		"typeName":	"wall",
 		"x":	64,
 		"y":	320,
 		"w":	32,
@@ -2261,6 +2584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_SW.png",
+		"typeName":	"wall",
 		"x":	96,
 		"y":	320,
 		"w":	32,
@@ -2268,6 +2592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_S.png",
+		"typeName":	"wall",
 		"x":	128,
 		"y":	320,
 		"w":	32,
@@ -2275,6 +2600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/nether_brick_wall_red.png",
+		"typeName":	"wall",
 		"x":	160,
 		"y":	320,
 		"w":	32,
@@ -2282,6 +2608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/blackstone_wall_E.png",
+		"typeName":	"wall",
 		"x":	192,
 		"y":	320,
 		"w":	32,
@@ -2289,6 +2616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_N.png",
+		"typeName":	"wall",
 		"x":	224,
 		"y":	320,
 		"w":	32,
@@ -2296,6 +2624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_mossy_part_1.png",
+		"typeName":	"wall",
 		"x":	256,
 		"y":	320,
 		"w":	32,
@@ -2303,6 +2632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/prismarine_wall_SE.png",
+		"typeName":	"wall",
 		"x":	288,
 		"y":	320,
 		"w":	32,
@@ -2310,6 +2640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/brick_wall_SE.png",
+		"typeName":	"wall",
 		"x":	320,
 		"y":	320,
 		"w":	32,
@@ -2317,6 +2648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/andesite_wall_NW.png",
+		"typeName":	"wall",
 		"x":	352,
 		"y":	320,
 		"w":	32,
@@ -2324,6 +2656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/cobblestone_wall_W.png",
+		"typeName":	"wall",
 		"x":	384,
 		"y":	320,
 		"w":	32,
@@ -2331,6 +2664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_SE.png",
+		"typeName":	"wall",
 		"x":	416,
 		"y":	320,
 		"w":	32,
@@ -2338,6 +2672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/sandstone_wall_E.png",
+		"typeName":	"wall",
 		"x":	448,
 		"y":	320,
 		"w":	32,
@@ -2345,6 +2680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/stonebrick_wall_E.png",
+		"typeName":	"wall",
 		"x":	480,
 		"y":	320,
 		"w":	32,
@@ -2352,6 +2688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wall/endstone_wall_N.png",
+		"typeName":	"wall",
 		"x":	512,
 		"y":	320,
 		"w":	32,
@@ -2359,6 +2696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_jungle.png",
+		"typeName":	"wood",
 		"x":	544,
 		"y":	320,
 		"w":	32,
@@ -2366,6 +2704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_oak.png",
+		"typeName":	"wood",
 		"x":	576,
 		"y":	320,
 		"w":	32,
@@ -2373,6 +2712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_oak.png",
+		"typeName":	"wood",
 		"x":	608,
 		"y":	320,
 		"w":	32,
@@ -2380,6 +2720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/leaves_jungle.png",
+		"typeName":	"wood",
 		"x":	640,
 		"y":	320,
 		"w":	32,
@@ -2387,6 +2728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/leaves_acacia.png",
+		"typeName":	"wood",
 		"x":	672,
 		"y":	320,
 		"w":	32,
@@ -2394,6 +2736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_birch.png",
+		"typeName":	"wood",
 		"x":	704,
 		"y":	320,
 		"w":	32,
@@ -2401,6 +2744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_dark_oak.png",
+		"typeName":	"wood",
 		"x":	736,
 		"y":	320,
 		"w":	32,
@@ -2408,6 +2752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_crimson.png",
+		"typeName":	"wood",
 		"x":	768,
 		"y":	320,
 		"w":	32,
@@ -2415,6 +2760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_acacia.png",
+		"typeName":	"wood",
 		"x":	800,
 		"y":	320,
 		"w":	32,
@@ -2422,6 +2768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_warped.png",
+		"typeName":	"wood",
 		"x":	832,
 		"y":	320,
 		"w":	32,
@@ -2429,6 +2776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/leaves_dark_oak.png",
+		"typeName":	"wood",
 		"x":	864,
 		"y":	320,
 		"w":	32,
@@ -2436,6 +2784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_warped.png",
+		"typeName":	"wood",
 		"x":	896,
 		"y":	320,
 		"w":	32,
@@ -2443,6 +2792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_dark_oak.png",
+		"typeName":	"wood",
 		"x":	928,
 		"y":	320,
 		"w":	32,
@@ -2450,6 +2800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_jungle.png",
+		"typeName":	"wood",
 		"x":	960,
 		"y":	320,
 		"w":	32,
@@ -2457,6 +2808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_birch.png",
+		"typeName":	"wood",
 		"x":	992,
 		"y":	320,
 		"w":	32,
@@ -2464,6 +2816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_birch.png",
+		"typeName":	"wood",
 		"x":	0,
 		"y":	352,
 		"w":	32,
@@ -2471,6 +2824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_dark_oak.png",
+		"typeName":	"wood",
 		"x":	32,
 		"y":	352,
 		"w":	32,
@@ -2478,6 +2832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_crimson.png",
+		"typeName":	"wood",
 		"x":	64,
 		"y":	352,
 		"w":	32,
@@ -2485,6 +2840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/leaves_spruces.png",
+		"typeName":	"wood",
 		"x":	96,
 		"y":	352,
 		"w":	32,
@@ -2492,6 +2848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_spruce.png",
+		"typeName":	"wood",
 		"x":	128,
 		"y":	352,
 		"w":	32,
@@ -2499,6 +2856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_spruce.png",
+		"typeName":	"wood",
 		"x":	160,
 		"y":	352,
 		"w":	32,
@@ -2506,6 +2864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_acacia.png",
+		"typeName":	"wood",
 		"x":	192,
 		"y":	352,
 		"w":	32,
@@ -2513,6 +2872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/leaves_oak.png",
+		"typeName":	"wood",
 		"x":	224,
 		"y":	352,
 		"w":	32,
@@ -2520,6 +2880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_warped.png",
+		"typeName":	"wood",
 		"x":	256,
 		"y":	352,
 		"w":	32,
@@ -2527,6 +2888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_spruce.png",
+		"typeName":	"wood",
 		"x":	288,
 		"y":	352,
 		"w":	32,
@@ -2534,6 +2896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/leaves_birch.png",
+		"typeName":	"wood",
 		"x":	320,
 		"y":	352,
 		"w":	32,
@@ -2541,6 +2904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_acacia.png",
+		"typeName":	"wood",
 		"x":	352,
 		"y":	352,
 		"w":	32,
@@ -2548,6 +2912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_acacia.png",
+		"typeName":	"wood",
 		"x":	384,
 		"y":	352,
 		"w":	32,
@@ -2555,6 +2920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_oak.png",
+		"typeName":	"wood",
 		"x":	416,
 		"y":	352,
 		"w":	32,
@@ -2562,6 +2928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_spruce.png",
+		"typeName":	"wood",
 		"x":	448,
 		"y":	352,
 		"w":	32,
@@ -2569,6 +2936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/wood_jungle.png",
+		"typeName":	"wood",
 		"x":	480,
 		"y":	352,
 		"w":	32,
@@ -2576,6 +2944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_warped.png",
+		"typeName":	"wood",
 		"x":	512,
 		"y":	352,
 		"w":	32,
@@ -2583,6 +2952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_birch.png",
+		"typeName":	"wood",
 		"x":	544,
 		"y":	352,
 		"w":	32,
@@ -2590,6 +2960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_jungle.png",
+		"typeName":	"wood",
 		"x":	576,
 		"y":	352,
 		"w":	32,
@@ -2597,6 +2968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_crimson.png",
+		"typeName":	"wood",
 		"x":	608,
 		"y":	352,
 		"w":	32,
@@ -2604,6 +2976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/planks_dark_oak.png",
+		"typeName":	"wood",
 		"x":	640,
 		"y":	352,
 		"w":	32,
@@ -2611,6 +2984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_crimson.png",
+		"typeName":	"wood",
 		"x":	672,
 		"y":	352,
 		"w":	32,
@@ -2618,6 +2992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wood/log_stripped_oak.png",
+		"typeName":	"wood",
 		"x":	704,
 		"y":	352,
 		"w":	32,
@@ -2625,6 +3000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_WE.png",
+		"typeName":	"fence",
 		"x":	736,
 		"y":	352,
 		"w":	32,
@@ -2632,6 +3008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_NE.png",
+		"typeName":	"fence",
 		"x":	768,
 		"y":	352,
 		"w":	32,
@@ -2639,6 +3016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_NS.png",
+		"typeName":	"fence",
 		"x":	800,
 		"y":	352,
 		"w":	32,
@@ -2646,6 +3024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_SW.png",
+		"typeName":	"fence",
 		"x":	832,
 		"y":	352,
 		"w":	32,
@@ -2653,6 +3032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_W.png",
+		"typeName":	"fence",
 		"x":	864,
 		"y":	352,
 		"w":	32,
@@ -2660,6 +3040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_NE.png",
+		"typeName":	"fence",
 		"x":	896,
 		"y":	352,
 		"w":	32,
@@ -2667,6 +3048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_SE.png",
+		"typeName":	"fence",
 		"x":	928,
 		"y":	352,
 		"w":	32,
@@ -2674,6 +3056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_S.png",
+		"typeName":	"fence",
 		"x":	960,
 		"y":	352,
 		"w":	32,
@@ -2681,6 +3064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_S.png",
+		"typeName":	"fence",
 		"x":	992,
 		"y":	352,
 		"w":	32,
@@ -2688,6 +3072,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_NS.png",
+		"typeName":	"fence",
 		"x":	0,
 		"y":	384,
 		"w":	32,
@@ -2695,6 +3080,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_SE.png",
+		"typeName":	"fence",
 		"x":	32,
 		"y":	384,
 		"w":	32,
@@ -2702,6 +3088,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_N.png",
+		"typeName":	"fence",
 		"x":	64,
 		"y":	384,
 		"w":	32,
@@ -2709,6 +3096,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_E.png",
+		"typeName":	"fence",
 		"x":	96,
 		"y":	384,
 		"w":	32,
@@ -2716,6 +3104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_W.png",
+		"typeName":	"fence",
 		"x":	128,
 		"y":	384,
 		"w":	32,
@@ -2723,6 +3112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_NE.png",
+		"typeName":	"fence",
 		"x":	160,
 		"y":	384,
 		"w":	32,
@@ -2730,6 +3120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_N.png",
+		"typeName":	"fence",
 		"x":	192,
 		"y":	384,
 		"w":	32,
@@ -2737,6 +3128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_S.png",
+		"typeName":	"fence",
 		"x":	224,
 		"y":	384,
 		"w":	32,
@@ -2744,6 +3136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_E.png",
+		"typeName":	"fence",
 		"x":	256,
 		"y":	384,
 		"w":	32,
@@ -2751,6 +3144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_N.png",
+		"typeName":	"fence",
 		"x":	288,
 		"y":	384,
 		"w":	32,
@@ -2758,6 +3152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_SE.png",
+		"typeName":	"fence",
 		"x":	320,
 		"y":	384,
 		"w":	32,
@@ -2765,6 +3160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_WE.png",
+		"typeName":	"fence",
 		"x":	352,
 		"y":	384,
 		"w":	32,
@@ -2772,6 +3168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_S.png",
+		"typeName":	"fence",
 		"x":	384,
 		"y":	384,
 		"w":	32,
@@ -2779,6 +3176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_S.png",
+		"typeName":	"fence",
 		"x":	416,
 		"y":	384,
 		"w":	32,
@@ -2786,6 +3184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_NS.png",
+		"typeName":	"fence",
 		"x":	448,
 		"y":	384,
 		"w":	32,
@@ -2793,6 +3192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_E.png",
+		"typeName":	"fence",
 		"x":	480,
 		"y":	384,
 		"w":	32,
@@ -2800,6 +3200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_NS.png",
+		"typeName":	"fence",
 		"x":	512,
 		"y":	384,
 		"w":	32,
@@ -2807,6 +3208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_WE.png",
+		"typeName":	"fence",
 		"x":	544,
 		"y":	384,
 		"w":	32,
@@ -2814,6 +3216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_SE.png",
+		"typeName":	"fence",
 		"x":	576,
 		"y":	384,
 		"w":	32,
@@ -2821,6 +3224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_N.png",
+		"typeName":	"fence",
 		"x":	608,
 		"y":	384,
 		"w":	32,
@@ -2828,6 +3232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_W.png",
+		"typeName":	"fence",
 		"x":	640,
 		"y":	384,
 		"w":	32,
@@ -2835,6 +3240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_SE.png",
+		"typeName":	"fence",
 		"x":	672,
 		"y":	384,
 		"w":	32,
@@ -2842,6 +3248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_SW.png",
+		"typeName":	"fence",
 		"x":	704,
 		"y":	384,
 		"w":	32,
@@ -2849,6 +3256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_NS.png",
+		"typeName":	"fence",
 		"x":	736,
 		"y":	384,
 		"w":	32,
@@ -2856,6 +3264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_NE.png",
+		"typeName":	"fence",
 		"x":	768,
 		"y":	384,
 		"w":	32,
@@ -2863,6 +3272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_NE.png",
+		"typeName":	"fence",
 		"x":	800,
 		"y":	384,
 		"w":	32,
@@ -2870,6 +3280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_SE.png",
+		"typeName":	"fence",
 		"x":	832,
 		"y":	384,
 		"w":	32,
@@ -2877,6 +3288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_E.png",
+		"typeName":	"fence",
 		"x":	864,
 		"y":	384,
 		"w":	32,
@@ -2884,6 +3296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_NE.png",
+		"typeName":	"fence",
 		"x":	896,
 		"y":	384,
 		"w":	32,
@@ -2891,6 +3304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_W.png",
+		"typeName":	"fence",
 		"x":	928,
 		"y":	384,
 		"w":	32,
@@ -2898,6 +3312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_SW.png",
+		"typeName":	"fence",
 		"x":	960,
 		"y":	384,
 		"w":	32,
@@ -2905,6 +3320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_NW.png",
+		"typeName":	"fence",
 		"x":	992,
 		"y":	384,
 		"w":	32,
@@ -2912,6 +3328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_SW.png",
+		"typeName":	"fence",
 		"x":	0,
 		"y":	416,
 		"w":	32,
@@ -2919,6 +3336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_WE.png",
+		"typeName":	"fence",
 		"x":	32,
 		"y":	416,
 		"w":	32,
@@ -2926,6 +3344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_SW.png",
+		"typeName":	"fence",
 		"x":	64,
 		"y":	416,
 		"w":	32,
@@ -2933,6 +3352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_NW.png",
+		"typeName":	"fence",
 		"x":	96,
 		"y":	416,
 		"w":	32,
@@ -2940,6 +3360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_WE.png",
+		"typeName":	"fence",
 		"x":	128,
 		"y":	416,
 		"w":	32,
@@ -2947,6 +3368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_S.png",
+		"typeName":	"fence",
 		"x":	160,
 		"y":	416,
 		"w":	32,
@@ -2954,6 +3376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_N.png",
+		"typeName":	"fence",
 		"x":	192,
 		"y":	416,
 		"w":	32,
@@ -2961,6 +3384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_NW.png",
+		"typeName":	"fence",
 		"x":	224,
 		"y":	416,
 		"w":	32,
@@ -2968,6 +3392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_E.png",
+		"typeName":	"fence",
 		"x":	256,
 		"y":	416,
 		"w":	32,
@@ -2975,6 +3400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_NW.png",
+		"typeName":	"fence",
 		"x":	288,
 		"y":	416,
 		"w":	32,
@@ -2982,6 +3408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_NS.png",
+		"typeName":	"fence",
 		"x":	320,
 		"y":	416,
 		"w":	32,
@@ -2989,6 +3416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_E.png",
+		"typeName":	"fence",
 		"x":	352,
 		"y":	416,
 		"w":	32,
@@ -2996,6 +3424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_E.png",
+		"typeName":	"fence",
 		"x":	384,
 		"y":	416,
 		"w":	32,
@@ -3003,6 +3432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_SW.png",
+		"typeName":	"fence",
 		"x":	416,
 		"y":	416,
 		"w":	32,
@@ -3010,6 +3440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_W.png",
+		"typeName":	"fence",
 		"x":	448,
 		"y":	416,
 		"w":	32,
@@ -3017,6 +3448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_NS.png",
+		"typeName":	"fence",
 		"x":	480,
 		"y":	416,
 		"w":	32,
@@ -3024,6 +3456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_W.png",
+		"typeName":	"fence",
 		"x":	512,
 		"y":	416,
 		"w":	32,
@@ -3031,6 +3464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_SW.png",
+		"typeName":	"fence",
 		"x":	544,
 		"y":	416,
 		"w":	32,
@@ -3038,6 +3472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_WE.png",
+		"typeName":	"fence",
 		"x":	576,
 		"y":	416,
 		"w":	32,
@@ -3045,6 +3480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_W.png",
+		"typeName":	"fence",
 		"x":	608,
 		"y":	416,
 		"w":	32,
@@ -3052,6 +3488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_E.png",
+		"typeName":	"fence",
 		"x":	640,
 		"y":	416,
 		"w":	32,
@@ -3059,6 +3496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_jungle_SE.png",
+		"typeName":	"fence",
 		"x":	672,
 		"y":	416,
 		"w":	32,
@@ -3066,6 +3504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_N.png",
+		"typeName":	"fence",
 		"x":	704,
 		"y":	416,
 		"w":	32,
@@ -3073,6 +3512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_NS.png",
+		"typeName":	"fence",
 		"x":	736,
 		"y":	416,
 		"w":	32,
@@ -3080,6 +3520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_NS.png",
+		"typeName":	"fence",
 		"x":	768,
 		"y":	416,
 		"w":	32,
@@ -3087,6 +3528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_NW.png",
+		"typeName":	"fence",
 		"x":	800,
 		"y":	416,
 		"w":	32,
@@ -3094,6 +3536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_N.png",
+		"typeName":	"fence",
 		"x":	832,
 		"y":	416,
 		"w":	32,
@@ -3101,6 +3544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_SE.png",
+		"typeName":	"fence",
 		"x":	864,
 		"y":	416,
 		"w":	32,
@@ -3108,6 +3552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_SW.png",
+		"typeName":	"fence",
 		"x":	896,
 		"y":	416,
 		"w":	32,
@@ -3115,6 +3560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_NW.png",
+		"typeName":	"fence",
 		"x":	928,
 		"y":	416,
 		"w":	32,
@@ -3122,6 +3568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_NW.png",
+		"typeName":	"fence",
 		"x":	960,
 		"y":	416,
 		"w":	32,
@@ -3129,6 +3576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_N.png",
+		"typeName":	"fence",
 		"x":	992,
 		"y":	416,
 		"w":	32,
@@ -3136,6 +3584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_oak_N.png",
+		"typeName":	"fence",
 		"x":	0,
 		"y":	448,
 		"w":	32,
@@ -3143,6 +3592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_WE.png",
+		"typeName":	"fence",
 		"x":	32,
 		"y":	448,
 		"w":	32,
@@ -3150,6 +3600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_S.png",
+		"typeName":	"fence",
 		"x":	64,
 		"y":	448,
 		"w":	32,
@@ -3157,6 +3608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_acacia_SW.png",
+		"typeName":	"fence",
 		"x":	96,
 		"y":	448,
 		"w":	32,
@@ -3164,6 +3616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_SE.png",
+		"typeName":	"fence",
 		"x":	128,
 		"y":	448,
 		"w":	32,
@@ -3171,6 +3624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_NW.png",
+		"typeName":	"fence",
 		"x":	160,
 		"y":	448,
 		"w":	32,
@@ -3178,6 +3632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_birch_E.png",
+		"typeName":	"fence",
 		"x":	192,
 		"y":	448,
 		"w":	32,
@@ -3185,6 +3640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_NE.png",
+		"typeName":	"fence",
 		"x":	224,
 		"y":	448,
 		"w":	32,
@@ -3192,6 +3648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_NW.png",
+		"typeName":	"fence",
 		"x":	256,
 		"y":	448,
 		"w":	32,
@@ -3199,6 +3656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_S.png",
+		"typeName":	"fence",
 		"x":	288,
 		"y":	448,
 		"w":	32,
@@ -3206,6 +3664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_warped_S.png",
+		"typeName":	"fence",
 		"x":	320,
 		"y":	448,
 		"w":	32,
@@ -3213,6 +3672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_W.png",
+		"typeName":	"fence",
 		"x":	352,
 		"y":	448,
 		"w":	32,
@@ -3220,6 +3680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_spruce_WE.png",
+		"typeName":	"fence",
 		"x":	384,
 		"y":	448,
 		"w":	32,
@@ -3227,6 +3688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_NE.png",
+		"typeName":	"fence",
 		"x":	416,
 		"y":	448,
 		"w":	32,
@@ -3234,6 +3696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_dark_oak_WE.png",
+		"typeName":	"fence",
 		"x":	448,
 		"y":	448,
 		"w":	32,
@@ -3241,6 +3704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/fence_crimson_W.png",
+		"typeName":	"fence",
 		"x":	480,
 		"y":	448,
 		"w":	32,
@@ -3248,6 +3712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/fence/nether_brick_fence_NE.png",
+		"typeName":	"fence",
 		"x":	512,
 		"y":	448,
 		"w":	32,
@@ -3255,6 +3720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_lapis_lazuli.png",
+		"typeName":	"ore",
 		"x":	544,
 		"y":	448,
 		"w":	32,
@@ -3262,6 +3728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_redstone.png",
+		"typeName":	"ore",
 		"x":	576,
 		"y":	448,
 		"w":	32,
@@ -3269,6 +3736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_coal.png",
+		"typeName":	"ore",
 		"x":	608,
 		"y":	448,
 		"w":	32,
@@ -3276,6 +3744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_nether_gold.png",
+		"typeName":	"ore",
 		"x":	640,
 		"y":	448,
 		"w":	32,
@@ -3283,6 +3752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_gold.png",
+		"typeName":	"ore",
 		"x":	672,
 		"y":	448,
 		"w":	32,
@@ -3290,6 +3760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_iron.png",
+		"typeName":	"ore",
 		"x":	704,
 		"y":	448,
 		"w":	32,
@@ -3297,6 +3768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/anceint_debris.png",
+		"typeName":	"ore",
 		"x":	736,
 		"y":	448,
 		"w":	32,
@@ -3304,6 +3776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_diamond.png",
+		"typeName":	"ore",
 		"x":	768,
 		"y":	448,
 		"w":	32,
@@ -3311,6 +3784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_emerald.png",
+		"typeName":	"ore",
 		"x":	800,
 		"y":	448,
 		"w":	32,
@@ -3318,6 +3792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/blackstone_gilded.png",
+		"typeName":	"ore",
 		"x":	832,
 		"y":	448,
 		"w":	32,
@@ -3325,6 +3800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/ore/ore_nether_quartz.png",
+		"typeName":	"ore",
 		"x":	864,
 		"y":	448,
 		"w":	32,
@@ -3332,6 +3808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_cyan.png",
+		"typeName":	"glass",
 		"x":	896,
 		"y":	448,
 		"w":	32,
@@ -3339,6 +3816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_light_gray.png",
+		"typeName":	"glass",
 		"x":	928,
 		"y":	448,
 		"w":	32,
@@ -3346,6 +3824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_lime.png",
+		"typeName":	"glass",
 		"x":	960,
 		"y":	448,
 		"w":	32,
@@ -3353,6 +3832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_green.png",
+		"typeName":	"glass",
 		"x":	992,
 		"y":	448,
 		"w":	32,
@@ -3360,6 +3840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_white.png",
+		"typeName":	"glass",
 		"x":	0,
 		"y":	480,
 		"w":	32,
@@ -3367,6 +3848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_orange.png",
+		"typeName":	"glass",
 		"x":	32,
 		"y":	480,
 		"w":	32,
@@ -3374,6 +3856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_light_gray.png",
+		"typeName":	"glass",
 		"x":	64,
 		"y":	480,
 		"w":	32,
@@ -3381,6 +3864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_green.png",
+		"typeName":	"glass",
 		"x":	96,
 		"y":	480,
 		"w":	32,
@@ -3388,6 +3872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_blue.png",
+		"typeName":	"glass",
 		"x":	128,
 		"y":	480,
 		"w":	32,
@@ -3395,6 +3880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_red.png",
+		"typeName":	"glass",
 		"x":	160,
 		"y":	480,
 		"w":	32,
@@ -3402,6 +3888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_yellow.png",
+		"typeName":	"glass",
 		"x":	192,
 		"y":	480,
 		"w":	32,
@@ -3409,6 +3896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pink.png",
+		"typeName":	"glass",
 		"x":	224,
 		"y":	480,
 		"w":	32,
@@ -3416,6 +3904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_black.png",
+		"typeName":	"glass",
 		"x":	256,
 		"y":	480,
 		"w":	32,
@@ -3423,6 +3912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_light_blue.png",
+		"typeName":	"glass",
 		"x":	288,
 		"y":	480,
 		"w":	32,
@@ -3430,6 +3920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_magenta.png",
+		"typeName":	"glass",
 		"x":	320,
 		"y":	480,
 		"w":	32,
@@ -3437,6 +3928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_pink.png",
+		"typeName":	"glass",
 		"x":	352,
 		"y":	480,
 		"w":	32,
@@ -3444,6 +3936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_red.png",
+		"typeName":	"glass",
 		"x":	384,
 		"y":	480,
 		"w":	32,
@@ -3451,6 +3944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_orange.png",
+		"typeName":	"glass",
 		"x":	416,
 		"y":	480,
 		"w":	32,
@@ -3458,6 +3952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_purple.png",
+		"typeName":	"glass",
 		"x":	448,
 		"y":	480,
 		"w":	32,
@@ -3465,6 +3960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_magenta.png",
+		"typeName":	"glass",
 		"x":	480,
 		"y":	480,
 		"w":	32,
@@ -3472,6 +3968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_brown.png",
+		"typeName":	"glass",
 		"x":	512,
 		"y":	480,
 		"w":	32,
@@ -3479,6 +3976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_cyan.png",
+		"typeName":	"glass",
 		"x":	544,
 		"y":	480,
 		"w":	32,
@@ -3486,6 +3984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_blue.png",
+		"typeName":	"glass",
 		"x":	576,
 		"y":	480,
 		"w":	32,
@@ -3493,6 +3992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_gray.png",
+		"typeName":	"glass",
 		"x":	608,
 		"y":	480,
 		"w":	32,
@@ -3500,6 +4000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_white.png",
+		"typeName":	"glass",
 		"x":	640,
 		"y":	480,
 		"w":	32,
@@ -3507,6 +4008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_gray.png",
+		"typeName":	"glass",
 		"x":	672,
 		"y":	480,
 		"w":	32,
@@ -3514,6 +4016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_pane_brown.png",
+		"typeName":	"glass",
 		"x":	704,
 		"y":	480,
 		"w":	32,
@@ -3521,6 +4024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/glass_pane.png",
+		"typeName":	"glass",
 		"x":	736,
 		"y":	480,
 		"w":	32,
@@ -3528,6 +4032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_purple.png",
+		"typeName":	"glass",
 		"x":	768,
 		"y":	480,
 		"w":	32,
@@ -3535,6 +4040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_light_blue.png",
+		"typeName":	"glass",
 		"x":	800,
 		"y":	480,
 		"w":	32,
@@ -3542,6 +4048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_yellow.png",
+		"typeName":	"glass",
 		"x":	832,
 		"y":	480,
 		"w":	32,
@@ -3549,6 +4056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_black.png",
+		"typeName":	"glass",
 		"x":	864,
 		"y":	480,
 		"w":	32,
@@ -3556,6 +4064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/glass.png",
+		"typeName":	"glass",
 		"x":	896,
 		"y":	480,
 		"w":	32,
@@ -3563,6 +4072,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/glass/stained_glass_lime.png",
+		"typeName":	"glass",
 		"x":	928,
 		"y":	480,
 		"w":	32,
@@ -3570,6 +4080,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/stone_smooth.png",
+		"typeName":	"stone",
 		"x":	960,
 		"y":	480,
 		"w":	32,
@@ -3577,6 +4088,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/blackstone_polished_chiseled.png",
+		"typeName":	"stone",
 		"x":	992,
 		"y":	480,
 		"w":	32,
@@ -3584,6 +4096,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/granite_polished.png",
+		"typeName":	"stone",
 		"x":	0,
 		"y":	512,
 		"w":	32,
@@ -3591,6 +4104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/basalt.png",
+		"typeName":	"stone",
 		"x":	32,
 		"y":	512,
 		"w":	32,
@@ -3598,6 +4112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/blackstone_bricks.png",
+		"typeName":	"stone",
 		"x":	64,
 		"y":	512,
 		"w":	32,
@@ -3605,6 +4120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/andesite.png",
+		"typeName":	"stone",
 		"x":	96,
 		"y":	512,
 		"w":	32,
@@ -3612,6 +4128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/basalt_smooth.png",
+		"typeName":	"stone",
 		"x":	128,
 		"y":	512,
 		"w":	32,
@@ -3619,6 +4136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/cobblestone_mossy.png",
+		"typeName":	"stone",
 		"x":	160,
 		"y":	512,
 		"w":	32,
@@ -3626,6 +4144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/stone.png",
+		"typeName":	"stone",
 		"x":	192,
 		"y":	512,
 		"w":	32,
@@ -3633,6 +4152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/gravel.png",
+		"typeName":	"stone",
 		"x":	224,
 		"y":	512,
 		"w":	32,
@@ -3640,6 +4160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/granite.png",
+		"typeName":	"stone",
 		"x":	256,
 		"y":	512,
 		"w":	32,
@@ -3647,6 +4168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/bedrock.png",
+		"typeName":	"stone",
 		"x":	288,
 		"y":	512,
 		"w":	32,
@@ -3654,6 +4176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/stonebricks_mossy.png",
+		"typeName":	"stone",
 		"x":	320,
 		"y":	512,
 		"w":	32,
@@ -3661,6 +4184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/blackstone_bricks_cracked.png",
+		"typeName":	"stone",
 		"x":	352,
 		"y":	512,
 		"w":	32,
@@ -3668,6 +4192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/stonebricks_cracked.png",
+		"typeName":	"stone",
 		"x":	384,
 		"y":	512,
 		"w":	32,
@@ -3675,6 +4200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/diorite_polished.png",
+		"typeName":	"stone",
 		"x":	416,
 		"y":	512,
 		"w":	32,
@@ -3682,6 +4208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/endstone.png",
+		"typeName":	"stone",
 		"x":	448,
 		"y":	512,
 		"w":	32,
@@ -3689,6 +4216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/diorite.png",
+		"typeName":	"stone",
 		"x":	480,
 		"y":	512,
 		"w":	32,
@@ -3696,6 +4224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/blackstone.png",
+		"typeName":	"stone",
 		"x":	512,
 		"y":	512,
 		"w":	32,
@@ -3703,6 +4232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/andesite_polished.png",
+		"typeName":	"stone",
 		"x":	544,
 		"y":	512,
 		"w":	32,
@@ -3710,6 +4240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/stonebricks_chiseled.png",
+		"typeName":	"stone",
 		"x":	576,
 		"y":	512,
 		"w":	32,
@@ -3717,6 +4248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/basalt_polished.png",
+		"typeName":	"stone",
 		"x":	608,
 		"y":	512,
 		"w":	32,
@@ -3724,6 +4256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/blackstone_polished.png",
+		"typeName":	"stone",
 		"x":	640,
 		"y":	512,
 		"w":	32,
@@ -3731,6 +4264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/stonebricks.png",
+		"typeName":	"stone",
 		"x":	672,
 		"y":	512,
 		"w":	32,
@@ -3738,6 +4272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/cobblestone.png",
+		"typeName":	"stone",
 		"x":	704,
 		"y":	512,
 		"w":	32,
@@ -3745,6 +4280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stone/endstone_bricks.png",
+		"typeName":	"stone",
 		"x":	736,
 		"y":	512,
 		"w":	32,
@@ -3752,6 +4288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_black.png",
+		"typeName":	"wool",
 		"x":	768,
 		"y":	512,
 		"w":	32,
@@ -3759,6 +4296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_white.png",
+		"typeName":	"wool",
 		"x":	800,
 		"y":	512,
 		"w":	32,
@@ -3766,6 +4304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_gray.png",
+		"typeName":	"wool",
 		"x":	832,
 		"y":	512,
 		"w":	32,
@@ -3773,6 +4312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_pink.png",
+		"typeName":	"wool",
 		"x":	864,
 		"y":	512,
 		"w":	32,
@@ -3780,6 +4320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_white.png",
+		"typeName":	"wool",
 		"x":	896,
 		"y":	512,
 		"w":	32,
@@ -3787,6 +4328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_cyan.png",
+		"typeName":	"wool",
 		"x":	928,
 		"y":	512,
 		"w":	32,
@@ -3794,6 +4336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_light_gray.png",
+		"typeName":	"wool",
 		"x":	960,
 		"y":	512,
 		"w":	32,
@@ -3801,6 +4344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_purple.png",
+		"typeName":	"wool",
 		"x":	992,
 		"y":	512,
 		"w":	32,
@@ -3808,6 +4352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_green.png",
+		"typeName":	"wool",
 		"x":	0,
 		"y":	544,
 		"w":	32,
@@ -3815,6 +4360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_red.png",
+		"typeName":	"wool",
 		"x":	32,
 		"y":	544,
 		"w":	32,
@@ -3822,6 +4368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_magenta.png",
+		"typeName":	"wool",
 		"x":	64,
 		"y":	544,
 		"w":	32,
@@ -3829,6 +4376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_light_blue.png",
+		"typeName":	"wool",
 		"x":	96,
 		"y":	544,
 		"w":	32,
@@ -3836,6 +4384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_orange.png",
+		"typeName":	"wool",
 		"x":	128,
 		"y":	544,
 		"w":	32,
@@ -3843,6 +4392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_blue.png",
+		"typeName":	"wool",
 		"x":	160,
 		"y":	544,
 		"w":	32,
@@ -3850,6 +4400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_magenta.png",
+		"typeName":	"wool",
 		"x":	192,
 		"y":	544,
 		"w":	32,
@@ -3857,6 +4408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_gray.png",
+		"typeName":	"wool",
 		"x":	224,
 		"y":	544,
 		"w":	32,
@@ -3864,6 +4416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_purple.png",
+		"typeName":	"wool",
 		"x":	256,
 		"y":	544,
 		"w":	32,
@@ -3871,6 +4424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_light_blue.png",
+		"typeName":	"wool",
 		"x":	288,
 		"y":	544,
 		"w":	32,
@@ -3878,6 +4432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_red.png",
+		"typeName":	"wool",
 		"x":	320,
 		"y":	544,
 		"w":	32,
@@ -3885,6 +4440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_cyan.png",
+		"typeName":	"wool",
 		"x":	352,
 		"y":	544,
 		"w":	32,
@@ -3892,6 +4448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_blue.png",
+		"typeName":	"wool",
 		"x":	384,
 		"y":	544,
 		"w":	32,
@@ -3899,6 +4456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_pink.png",
+		"typeName":	"wool",
 		"x":	416,
 		"y":	544,
 		"w":	32,
@@ -3906,6 +4464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_orange.png",
+		"typeName":	"wool",
 		"x":	448,
 		"y":	544,
 		"w":	32,
@@ -3913,6 +4472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_lime.png",
+		"typeName":	"wool",
 		"x":	480,
 		"y":	544,
 		"w":	32,
@@ -3920,6 +4480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_green.png",
+		"typeName":	"wool",
 		"x":	512,
 		"y":	544,
 		"w":	32,
@@ -3927,6 +4488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_yellow.png",
+		"typeName":	"wool",
 		"x":	544,
 		"y":	544,
 		"w":	32,
@@ -3934,6 +4496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_black.png",
+		"typeName":	"wool",
 		"x":	576,
 		"y":	544,
 		"w":	32,
@@ -3941,6 +4504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_brown.png",
+		"typeName":	"wool",
 		"x":	608,
 		"y":	544,
 		"w":	32,
@@ -3948,6 +4512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_yellow.png",
+		"typeName":	"wool",
 		"x":	640,
 		"y":	544,
 		"w":	32,
@@ -3955,6 +4520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_light_gray.png",
+		"typeName":	"wool",
 		"x":	672,
 		"y":	544,
 		"w":	32,
@@ -3962,6 +4528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/wool_brown.png",
+		"typeName":	"wool",
 		"x":	704,
 		"y":	544,
 		"w":	32,
@@ -3969,6 +4536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/wool/carpet_lime.png",
+		"typeName":	"wool",
 		"x":	736,
 		"y":	544,
 		"w":	32,
@@ -3976,6 +4544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_lime.png",
+		"typeName":	"terracotta",
 		"x":	768,
 		"y":	544,
 		"w":	32,
@@ -3983,6 +4552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_blue.png",
+		"typeName":	"terracotta",
 		"x":	800,
 		"y":	544,
 		"w":	32,
@@ -3990,6 +4560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_cyan.png",
+		"typeName":	"terracotta",
 		"x":	832,
 		"y":	544,
 		"w":	32,
@@ -3997,6 +4568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terracotta.png",
+		"typeName":	"terracotta",
 		"x":	864,
 		"y":	544,
 		"w":	32,
@@ -4004,6 +4576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_gray.png",
+		"typeName":	"terracotta",
 		"x":	896,
 		"y":	544,
 		"w":	32,
@@ -4011,6 +4584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_brown.png",
+		"typeName":	"terracotta",
 		"x":	928,
 		"y":	544,
 		"w":	32,
@@ -4018,6 +4592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_pink.png",
+		"typeName":	"terracotta",
 		"x":	960,
 		"y":	544,
 		"w":	32,
@@ -4025,6 +4600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_yellow.png",
+		"typeName":	"terracotta",
 		"x":	992,
 		"y":	544,
 		"w":	32,
@@ -4032,6 +4608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_white.png",
+		"typeName":	"terracotta",
 		"x":	0,
 		"y":	576,
 		"w":	32,
@@ -4039,6 +4616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_light_blue.png",
+		"typeName":	"terracotta",
 		"x":	32,
 		"y":	576,
 		"w":	32,
@@ -4046,6 +4624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_black.png",
+		"typeName":	"terracotta",
 		"x":	64,
 		"y":	576,
 		"w":	32,
@@ -4053,6 +4632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_green.png",
+		"typeName":	"terracotta",
 		"x":	96,
 		"y":	576,
 		"w":	32,
@@ -4060,6 +4640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_red.png",
+		"typeName":	"terracotta",
 		"x":	128,
 		"y":	576,
 		"w":	32,
@@ -4067,6 +4648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_magenta.png",
+		"typeName":	"terracotta",
 		"x":	160,
 		"y":	576,
 		"w":	32,
@@ -4074,6 +4656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_light_gray.png",
+		"typeName":	"terracotta",
 		"x":	192,
 		"y":	576,
 		"w":	32,
@@ -4081,6 +4664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_purple.png",
+		"typeName":	"terracotta",
 		"x":	224,
 		"y":	576,
 		"w":	32,
@@ -4088,6 +4672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/terracotta/terrcotta_orange.png",
+		"typeName":	"terracotta",
 		"x":	256,
 		"y":	576,
 		"w":	32,
@@ -4095,6 +4680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone_red.png",
+		"typeName":	"blocks",
 		"x":	288,
 		"y":	576,
 		"w":	32,
@@ -4102,6 +4688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/nylium_crimson.png",
+		"typeName":	"blocks",
 		"x":	320,
 		"y":	576,
 		"w":	32,
@@ -4109,6 +4696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/nylium_warped.png",
+		"typeName":	"blocks",
 		"x":	352,
 		"y":	576,
 		"w":	32,
@@ -4116,6 +4704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_magma.png",
+		"typeName":	"blocks",
 		"x":	384,
 		"y":	576,
 		"w":	32,
@@ -4123,6 +4712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/nether_bricks_cracked.png",
+		"typeName":	"blocks",
 		"x":	416,
 		"y":	576,
 		"w":	32,
@@ -4130,6 +4720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_dried_kelp.png",
+		"typeName":	"blocks",
 		"x":	448,
 		"y":	576,
 		"w":	32,
@@ -4137,6 +4728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/nether_bricks.png",
+		"typeName":	"blocks",
 		"x":	480,
 		"y":	576,
 		"w":	32,
@@ -4144,6 +4736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/netherrack.png",
+		"typeName":	"blocks",
 		"x":	512,
 		"y":	576,
 		"w":	32,
@@ -4151,6 +4744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_quartz_smooth.png",
+		"typeName":	"blocks",
 		"x":	544,
 		"y":	576,
 		"w":	32,
@@ -4158,6 +4752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/obsidian.png",
+		"typeName":	"blocks",
 		"x":	576,
 		"y":	576,
 		"w":	32,
@@ -4165,6 +4760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_emerald.png",
+		"typeName":	"blocks",
 		"x":	608,
 		"y":	576,
 		"w":	32,
@@ -4172,6 +4768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone.png",
+		"typeName":	"blocks",
 		"x":	640,
 		"y":	576,
 		"w":	32,
@@ -4179,6 +4776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_quartz.png",
+		"typeName":	"blocks",
 		"x":	672,
 		"y":	576,
 		"w":	32,
@@ -4186,6 +4784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_diamond.png",
+		"typeName":	"blocks",
 		"x":	704,
 		"y":	576,
 		"w":	32,
@@ -4193,6 +4792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_quartz_chiseled.png",
+		"typeName":	"blocks",
 		"x":	736,
 		"y":	576,
 		"w":	32,
@@ -4200,6 +4800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_quartz_bircks.png",
+		"typeName":	"blocks",
 		"x":	768,
 		"y":	576,
 		"w":	32,
@@ -4207,6 +4808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone_smooth.png",
+		"typeName":	"blocks",
 		"x":	800,
 		"y":	576,
 		"w":	32,
@@ -4214,6 +4816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone_chiseled.png",
+		"typeName":	"blocks",
 		"x":	832,
 		"y":	576,
 		"w":	32,
@@ -4221,6 +4824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/nether_bricks_red.png",
+		"typeName":	"blocks",
 		"x":	864,
 		"y":	576,
 		"w":	32,
@@ -4228,6 +4832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone_cut.png",
+		"typeName":	"blocks",
 		"x":	896,
 		"y":	576,
 		"w":	32,
@@ -4235,6 +4840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone_smooth_red.png",
+		"typeName":	"blocks",
 		"x":	928,
 		"y":	576,
 		"w":	32,
@@ -4242,6 +4848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_gold.png",
+		"typeName":	"blocks",
 		"x":	960,
 		"y":	576,
 		"w":	32,
@@ -4249,6 +4856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sand_red.png",
+		"typeName":	"blocks",
 		"x":	992,
 		"y":	576,
 		"w":	32,
@@ -4256,6 +4864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone_chiseled_red.png",
+		"typeName":	"blocks",
 		"x":	0,
 		"y":	608,
 		"w":	32,
@@ -4263,6 +4872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/nether_bricks_chiseled.png",
+		"typeName":	"blocks",
 		"x":	32,
 		"y":	608,
 		"w":	32,
@@ -4270,6 +4880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sand.png",
+		"typeName":	"blocks",
 		"x":	64,
 		"y":	608,
 		"w":	32,
@@ -4277,6 +4888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_lapis.png",
+		"typeName":	"blocks",
 		"x":	96,
 		"y":	608,
 		"w":	32,
@@ -4284,6 +4896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_iron.png",
+		"typeName":	"blocks",
 		"x":	128,
 		"y":	608,
 		"w":	32,
@@ -4291,6 +4904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_quartz_pillar.png",
+		"typeName":	"blocks",
 		"x":	160,
 		"y":	608,
 		"w":	32,
@@ -4298,6 +4912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/block_coal.png",
+		"typeName":	"blocks",
 		"x":	192,
 		"y":	608,
 		"w":	32,
@@ -4305,6 +4920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/blocks/sandstone_cut_red.png",
+		"typeName":	"blocks",
 		"x":	224,
 		"y":	608,
 		"w":	32,
@@ -4312,6 +4928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_SE.png",
+		"typeName":	"sandstone_cut",
 		"x":	256,
 		"y":	608,
 		"w":	32,
@@ -4319,6 +4936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_W.png",
+		"typeName":	"sandstone_cut",
 		"x":	288,
 		"y":	608,
 		"w":	32,
@@ -4326,6 +4944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_corner.png",
+		"typeName":	"sandstone_cut",
 		"x":	320,
 		"y":	608,
 		"w":	32,
@@ -4333,6 +4952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_E.png",
+		"typeName":	"sandstone_cut",
 		"x":	352,
 		"y":	608,
 		"w":	32,
@@ -4340,6 +4960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_S.png",
+		"typeName":	"sandstone_cut",
 		"x":	384,
 		"y":	608,
 		"w":	32,
@@ -4347,6 +4968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_cut/stair_sandstone_cut_N.png",
+		"typeName":	"sandstone_cut",
 		"x":	416,
 		"y":	608,
 		"w":	32,
@@ -4354,6 +4976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_SE.png",
+		"typeName":	"blackstone",
 		"x":	448,
 		"y":	608,
 		"w":	32,
@@ -4361,6 +4984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_N.png",
+		"typeName":	"blackstone",
 		"x":	480,
 		"y":	608,
 		"w":	32,
@@ -4368,6 +4992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_E.png",
+		"typeName":	"blackstone",
 		"x":	512,
 		"y":	608,
 		"w":	32,
@@ -4375,6 +5000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_S.png",
+		"typeName":	"blackstone",
 		"x":	544,
 		"y":	608,
 		"w":	32,
@@ -4382,6 +5008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_W.png",
+		"typeName":	"blackstone",
 		"x":	576,
 		"y":	608,
 		"w":	32,
@@ -4389,6 +5016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone/stair_blackstone_corner.png",
+		"typeName":	"blackstone",
 		"x":	608,
 		"y":	608,
 		"w":	32,
@@ -4396,6 +5024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_W.png",
+		"typeName":	"dark_oak",
 		"x":	640,
 		"y":	608,
 		"w":	32,
@@ -4403,6 +5032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_S.png",
+		"typeName":	"dark_oak",
 		"x":	672,
 		"y":	608,
 		"w":	32,
@@ -4410,6 +5040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_corner.png",
+		"typeName":	"dark_oak",
 		"x":	704,
 		"y":	608,
 		"w":	32,
@@ -4417,6 +5048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_N.png",
+		"typeName":	"dark_oak",
 		"x":	736,
 		"y":	608,
 		"w":	32,
@@ -4424,6 +5056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_E.png",
+		"typeName":	"dark_oak",
 		"x":	768,
 		"y":	608,
 		"w":	32,
@@ -4431,6 +5064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_oak/stair_dark_oak_SE.png",
+		"typeName":	"dark_oak",
 		"x":	800,
 		"y":	608,
 		"w":	32,
@@ -4438,6 +5072,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/purpur/stair_purpur_N.png",
+		"typeName":	"purpur",
 		"x":	832,
 		"y":	608,
 		"w":	32,
@@ -4445,6 +5080,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/purpur/stair_purpur_corner.png",
+		"typeName":	"purpur",
 		"x":	864,
 		"y":	608,
 		"w":	32,
@@ -4452,6 +5088,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/purpur/stair_purpur_S.png",
+		"typeName":	"purpur",
 		"x":	896,
 		"y":	608,
 		"w":	32,
@@ -4459,6 +5096,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/purpur/stair_purpur_W.png",
+		"typeName":	"purpur",
 		"x":	928,
 		"y":	608,
 		"w":	32,
@@ -4466,6 +5104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/purpur/stair_purpur_SE.png",
+		"typeName":	"purpur",
 		"x":	960,
 		"y":	608,
 		"w":	32,
@@ -4473,6 +5112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/purpur/stair_purpur_E.png",
+		"typeName":	"purpur",
 		"x":	992,
 		"y":	608,
 		"w":	32,
@@ -4480,6 +5120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_E.png",
+		"typeName":	"polished_granite",
 		"x":	0,
 		"y":	640,
 		"w":	32,
@@ -4487,6 +5128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_corner.png",
+		"typeName":	"polished_granite",
 		"x":	32,
 		"y":	640,
 		"w":	32,
@@ -4494,6 +5136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_SE.png",
+		"typeName":	"polished_granite",
 		"x":	64,
 		"y":	640,
 		"w":	32,
@@ -4501,6 +5144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_W.png",
+		"typeName":	"polished_granite",
 		"x":	96,
 		"y":	640,
 		"w":	32,
@@ -4508,6 +5152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_N.png",
+		"typeName":	"polished_granite",
 		"x":	128,
 		"y":	640,
 		"w":	32,
@@ -4515,6 +5160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_granite/stair_polished_granite_S.png",
+		"typeName":	"polished_granite",
 		"x":	160,
 		"y":	640,
 		"w":	32,
@@ -4522,6 +5168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/acacia/stair_acacia_SE.png",
+		"typeName":	"acacia",
 		"x":	192,
 		"y":	640,
 		"w":	32,
@@ -4529,6 +5176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/acacia/stair_acacia_W.png",
+		"typeName":	"acacia",
 		"x":	224,
 		"y":	640,
 		"w":	32,
@@ -4536,6 +5184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/acacia/stair_acacia_corner.png",
+		"typeName":	"acacia",
 		"x":	256,
 		"y":	640,
 		"w":	32,
@@ -4543,6 +5192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/acacia/stair_acacia_N.png",
+		"typeName":	"acacia",
 		"x":	288,
 		"y":	640,
 		"w":	32,
@@ -4550,6 +5200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/acacia/stair_acacia_S.png",
+		"typeName":	"acacia",
 		"x":	320,
 		"y":	640,
 		"w":	32,
@@ -4557,6 +5208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/acacia/stair_acacia_E.png",
+		"typeName":	"acacia",
 		"x":	352,
 		"y":	640,
 		"w":	32,
@@ -4564,6 +5216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_N.png",
+		"typeName":	"red_sandstone_smooth",
 		"x":	384,
 		"y":	640,
 		"w":	32,
@@ -4571,6 +5224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_SE.png",
+		"typeName":	"red_sandstone_smooth",
 		"x":	416,
 		"y":	640,
 		"w":	32,
@@ -4578,6 +5232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_corner.png",
+		"typeName":	"red_sandstone_smooth",
 		"x":	448,
 		"y":	640,
 		"w":	32,
@@ -4585,6 +5240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_E.png",
+		"typeName":	"red_sandstone_smooth",
 		"x":	480,
 		"y":	640,
 		"w":	32,
@@ -4592,6 +5248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_S.png",
+		"typeName":	"red_sandstone_smooth",
 		"x":	512,
 		"y":	640,
 		"w":	32,
@@ -4599,6 +5256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_smooth/stair_red_sandstone_smooth_W.png",
+		"typeName":	"red_sandstone_smooth",
 		"x":	544,
 		"y":	640,
 		"w":	32,
@@ -4606,6 +5264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_W.png",
+		"typeName":	"polished_blackstone",
 		"x":	576,
 		"y":	640,
 		"w":	32,
@@ -4613,6 +5272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_SE.png",
+		"typeName":	"polished_blackstone",
 		"x":	608,
 		"y":	640,
 		"w":	32,
@@ -4620,6 +5280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_E.png",
+		"typeName":	"polished_blackstone",
 		"x":	640,
 		"y":	640,
 		"w":	32,
@@ -4627,6 +5288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_corner.png",
+		"typeName":	"polished_blackstone",
 		"x":	672,
 		"y":	640,
 		"w":	32,
@@ -4634,6 +5296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_N.png",
+		"typeName":	"polished_blackstone",
 		"x":	704,
 		"y":	640,
 		"w":	32,
@@ -4641,6 +5304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_blackstone/stair_polished_blackstone_S.png",
+		"typeName":	"polished_blackstone",
 		"x":	736,
 		"y":	640,
 		"w":	32,
@@ -4648,6 +5312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_E.png",
+		"typeName":	"stonebricks",
 		"x":	768,
 		"y":	640,
 		"w":	32,
@@ -4655,6 +5320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_N.png",
+		"typeName":	"stonebricks",
 		"x":	800,
 		"y":	640,
 		"w":	32,
@@ -4662,6 +5328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_W.png",
+		"typeName":	"stonebricks",
 		"x":	832,
 		"y":	640,
 		"w":	32,
@@ -4669,6 +5336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_S.png",
+		"typeName":	"stonebricks",
 		"x":	864,
 		"y":	640,
 		"w":	32,
@@ -4676,6 +5344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_corner.png",
+		"typeName":	"stonebricks",
 		"x":	896,
 		"y":	640,
 		"w":	32,
@@ -4683,6 +5352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stonebricks/stair_stonebricks_SE.png",
+		"typeName":	"stonebricks",
 		"x":	928,
 		"y":	640,
 		"w":	32,
@@ -4690,6 +5360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_S.png",
+		"typeName":	"red_nether_bricks",
 		"x":	960,
 		"y":	640,
 		"w":	32,
@@ -4697,6 +5368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_corner.png",
+		"typeName":	"red_nether_bricks",
 		"x":	992,
 		"y":	640,
 		"w":	32,
@@ -4704,6 +5376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_E.png",
+		"typeName":	"red_nether_bricks",
 		"x":	0,
 		"y":	672,
 		"w":	32,
@@ -4711,6 +5384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_W.png",
+		"typeName":	"red_nether_bricks",
 		"x":	32,
 		"y":	672,
 		"w":	32,
@@ -4718,6 +5392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_N.png",
+		"typeName":	"red_nether_bricks",
 		"x":	64,
 		"y":	672,
 		"w":	32,
@@ -4725,6 +5400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_nether_bricks/stair_red_nether_bricks_SE.png",
+		"typeName":	"red_nether_bricks",
 		"x":	96,
 		"y":	672,
 		"w":	32,
@@ -4732,6 +5408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_corner.png",
+		"typeName":	"nether_bricks",
 		"x":	128,
 		"y":	672,
 		"w":	32,
@@ -4739,6 +5416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_N.png",
+		"typeName":	"nether_bricks",
 		"x":	160,
 		"y":	672,
 		"w":	32,
@@ -4746,6 +5424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_W.png",
+		"typeName":	"nether_bricks",
 		"x":	192,
 		"y":	672,
 		"w":	32,
@@ -4753,6 +5432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_E.png",
+		"typeName":	"nether_bricks",
 		"x":	224,
 		"y":	672,
 		"w":	32,
@@ -4760,6 +5440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_SE.png",
+		"typeName":	"nether_bricks",
 		"x":	256,
 		"y":	672,
 		"w":	32,
@@ -4767,6 +5448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/nether_bricks/stair_nether_brick_S.png",
+		"typeName":	"nether_bricks",
 		"x":	288,
 		"y":	672,
 		"w":	32,
@@ -4774,6 +5456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_N.png",
+		"typeName":	"sandstone_smooth",
 		"x":	320,
 		"y":	672,
 		"w":	32,
@@ -4781,6 +5464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_E.png",
+		"typeName":	"sandstone_smooth",
 		"x":	352,
 		"y":	672,
 		"w":	32,
@@ -4788,6 +5472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_SE.png",
+		"typeName":	"sandstone_smooth",
 		"x":	384,
 		"y":	672,
 		"w":	32,
@@ -4795,6 +5480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_S.png",
+		"typeName":	"sandstone_smooth",
 		"x":	416,
 		"y":	672,
 		"w":	32,
@@ -4802,6 +5488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_corner.png",
+		"typeName":	"sandstone_smooth",
 		"x":	448,
 		"y":	672,
 		"w":	32,
@@ -4809,6 +5496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/sandstone_smooth/stair_sandstone_smooth_W.png",
+		"typeName":	"sandstone_smooth",
 		"x":	480,
 		"y":	672,
 		"w":	32,
@@ -4816,6 +5504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_W.png",
+		"typeName":	"polished_andesite",
 		"x":	512,
 		"y":	672,
 		"w":	32,
@@ -4823,6 +5512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_S.png",
+		"typeName":	"polished_andesite",
 		"x":	544,
 		"y":	672,
 		"w":	32,
@@ -4830,6 +5520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_E.png",
+		"typeName":	"polished_andesite",
 		"x":	576,
 		"y":	672,
 		"w":	32,
@@ -4837,6 +5528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_SE.png",
+		"typeName":	"polished_andesite",
 		"x":	608,
 		"y":	672,
 		"w":	32,
@@ -4844,6 +5536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_N.png",
+		"typeName":	"polished_andesite",
 		"x":	640,
 		"y":	672,
 		"w":	32,
@@ -4851,6 +5544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_andesite/stair_polished_andesite_corner.png",
+		"typeName":	"polished_andesite",
 		"x":	672,
 		"y":	672,
 		"w":	32,
@@ -4858,6 +5552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_E.png",
+		"typeName":	"prismarine",
 		"x":	704,
 		"y":	672,
 		"w":	32,
@@ -4865,6 +5560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_S.png",
+		"typeName":	"prismarine",
 		"x":	736,
 		"y":	672,
 		"w":	32,
@@ -4872,6 +5568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_N.png",
+		"typeName":	"prismarine",
 		"x":	768,
 		"y":	672,
 		"w":	32,
@@ -4879,6 +5576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_W.png",
+		"typeName":	"prismarine",
 		"x":	800,
 		"y":	672,
 		"w":	32,
@@ -4886,6 +5584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_corner.png",
+		"typeName":	"prismarine",
 		"x":	832,
 		"y":	672,
 		"w":	32,
@@ -4893,6 +5592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine/stair_prismarine_SE.png",
+		"typeName":	"prismarine",
 		"x":	864,
 		"y":	672,
 		"w":	32,
@@ -4900,6 +5600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stone/stair_stone_S.png",
+		"typeName":	"stone",
 		"x":	896,
 		"y":	672,
 		"w":	32,
@@ -4907,6 +5608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stone/stair_stone_E.png",
+		"typeName":	"stone",
 		"x":	928,
 		"y":	672,
 		"w":	32,
@@ -4914,6 +5616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stone/stair_stone_corner.png",
+		"typeName":	"stone",
 		"x":	960,
 		"y":	672,
 		"w":	32,
@@ -4921,6 +5624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stone/stair_stone_W.png",
+		"typeName":	"stone",
 		"x":	992,
 		"y":	672,
 		"w":	32,
@@ -4928,6 +5632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stone/stair_stone_N.png",
+		"typeName":	"stone",
 		"x":	0,
 		"y":	704,
 		"w":	32,
@@ -4935,6 +5640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/stone/stair_stone_SE.png",
+		"typeName":	"stone",
 		"x":	32,
 		"y":	704,
 		"w":	32,
@@ -4942,6 +5648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/spruce/stair_spruce_W.png",
+		"typeName":	"spruce",
 		"x":	64,
 		"y":	704,
 		"w":	32,
@@ -4949,6 +5656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/spruce/stair_spruce_corner.png",
+		"typeName":	"spruce",
 		"x":	96,
 		"y":	704,
 		"w":	32,
@@ -4956,6 +5664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/spruce/stair_spruce_S.png",
+		"typeName":	"spruce",
 		"x":	128,
 		"y":	704,
 		"w":	32,
@@ -4963,6 +5672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/spruce/stair_spruce_N.png",
+		"typeName":	"spruce",
 		"x":	160,
 		"y":	704,
 		"w":	32,
@@ -4970,6 +5680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/spruce/stair_spruce_SE.png",
+		"typeName":	"spruce",
 		"x":	192,
 		"y":	704,
 		"w":	32,
@@ -4977,6 +5688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/spruce/stair_spruce_E.png",
+		"typeName":	"spruce",
 		"x":	224,
 		"y":	704,
 		"w":	32,
@@ -4984,6 +5696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/birch/stair_birch_N.png",
+		"typeName":	"birch",
 		"x":	256,
 		"y":	704,
 		"w":	32,
@@ -4991,6 +5704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/birch/stair_birch_SE.png",
+		"typeName":	"birch",
 		"x":	288,
 		"y":	704,
 		"w":	32,
@@ -4998,6 +5712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/birch/stair_birch_W.png",
+		"typeName":	"birch",
 		"x":	320,
 		"y":	704,
 		"w":	32,
@@ -5005,6 +5720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/birch/stair_birch_E.png",
+		"typeName":	"birch",
 		"x":	352,
 		"y":	704,
 		"w":	32,
@@ -5012,6 +5728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/birch/stair_birch_S.png",
+		"typeName":	"birch",
 		"x":	384,
 		"y":	704,
 		"w":	32,
@@ -5019,6 +5736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/birch/stair_birch_corner.png",
+		"typeName":	"birch",
 		"x":	416,
 		"y":	704,
 		"w":	32,
@@ -5026,6 +5744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_S.png",
+		"typeName":	"mossy_cobblestone",
 		"x":	448,
 		"y":	704,
 		"w":	32,
@@ -5033,6 +5752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_corner.png",
+		"typeName":	"mossy_cobblestone",
 		"x":	480,
 		"y":	704,
 		"w":	32,
@@ -5040,6 +5760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_N.png",
+		"typeName":	"mossy_cobblestone",
 		"x":	512,
 		"y":	704,
 		"w":	32,
@@ -5047,6 +5768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_W.png",
+		"typeName":	"mossy_cobblestone",
 		"x":	544,
 		"y":	704,
 		"w":	32,
@@ -5054,6 +5776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_E.png",
+		"typeName":	"mossy_cobblestone",
 		"x":	576,
 		"y":	704,
 		"w":	32,
@@ -5061,6 +5784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_cobblestone/stair_mossy_cobblestone_SE.png",
+		"typeName":	"mossy_cobblestone",
 		"x":	608,
 		"y":	704,
 		"w":	32,
@@ -5068,6 +5792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/bricks/stair_bricks_W.png",
+		"typeName":	"bricks",
 		"x":	640,
 		"y":	704,
 		"w":	32,
@@ -5075,6 +5800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/bricks/stair_bricks_N.png",
+		"typeName":	"bricks",
 		"x":	672,
 		"y":	704,
 		"w":	32,
@@ -5082,6 +5808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/bricks/stair_bricks_S.png",
+		"typeName":	"bricks",
 		"x":	704,
 		"y":	704,
 		"w":	32,
@@ -5089,6 +5816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/bricks/stair_bricks_SE.png",
+		"typeName":	"bricks",
 		"x":	736,
 		"y":	704,
 		"w":	32,
@@ -5096,6 +5824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/bricks/stair_bricks_E.png",
+		"typeName":	"bricks",
 		"x":	768,
 		"y":	704,
 		"w":	32,
@@ -5103,6 +5832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/bricks/stair_bricks_corner.png",
+		"typeName":	"bricks",
 		"x":	800,
 		"y":	704,
 		"w":	32,
@@ -5110,6 +5840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/oak/stair_oak_S.png",
+		"typeName":	"oak",
 		"x":	832,
 		"y":	704,
 		"w":	32,
@@ -5117,6 +5848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/oak/stair_oak_W.png",
+		"typeName":	"oak",
 		"x":	864,
 		"y":	704,
 		"w":	32,
@@ -5124,6 +5856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/oak/stair_oak_SE.png",
+		"typeName":	"oak",
 		"x":	896,
 		"y":	704,
 		"w":	32,
@@ -5131,6 +5864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/oak/stair_oak_corner.png",
+		"typeName":	"oak",
 		"x":	928,
 		"y":	704,
 		"w":	32,
@@ -5138,6 +5872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/oak/stair_oak_N.png",
+		"typeName":	"oak",
 		"x":	960,
 		"y":	704,
 		"w":	32,
@@ -5145,6 +5880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/oak/stair_oak_E.png",
+		"typeName":	"oak",
 		"x":	992,
 		"y":	704,
 		"w":	32,
@@ -5152,6 +5888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/crimson/stair_crimson_SE.png",
+		"typeName":	"crimson",
 		"x":	0,
 		"y":	736,
 		"w":	32,
@@ -5159,6 +5896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/crimson/stair_crimson_S.png",
+		"typeName":	"crimson",
 		"x":	32,
 		"y":	736,
 		"w":	32,
@@ -5166,6 +5904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/crimson/stair_crimson_corner.png",
+		"typeName":	"crimson",
 		"x":	64,
 		"y":	736,
 		"w":	32,
@@ -5173,6 +5912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/crimson/stair_crimson_N.png",
+		"typeName":	"crimson",
 		"x":	96,
 		"y":	736,
 		"w":	32,
@@ -5180,6 +5920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/crimson/stair_crimson_E.png",
+		"typeName":	"crimson",
 		"x":	128,
 		"y":	736,
 		"w":	32,
@@ -5187,6 +5928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/crimson/stair_crimson_W.png",
+		"typeName":	"crimson",
 		"x":	160,
 		"y":	736,
 		"w":	32,
@@ -5194,6 +5936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_S.png",
+		"typeName":	"red_sandstone_cut",
 		"x":	192,
 		"y":	736,
 		"w":	32,
@@ -5201,6 +5944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_E.png",
+		"typeName":	"red_sandstone_cut",
 		"x":	224,
 		"y":	736,
 		"w":	32,
@@ -5208,6 +5952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_N.png",
+		"typeName":	"red_sandstone_cut",
 		"x":	256,
 		"y":	736,
 		"w":	32,
@@ -5215,6 +5960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_corner.png",
+		"typeName":	"red_sandstone_cut",
 		"x":	288,
 		"y":	736,
 		"w":	32,
@@ -5222,6 +5968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_SE.png",
+		"typeName":	"red_sandstone_cut",
 		"x":	320,
 		"y":	736,
 		"w":	32,
@@ -5229,6 +5976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/red_sandstone_cut/stair_red_sandstone_cut_W.png",
+		"typeName":	"red_sandstone_cut",
 		"x":	352,
 		"y":	736,
 		"w":	32,
@@ -5236,6 +5984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_N.png",
+		"typeName":	"mossy_stonebricks",
 		"x":	384,
 		"y":	736,
 		"w":	32,
@@ -5243,6 +5992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_S.png",
+		"typeName":	"mossy_stonebricks",
 		"x":	416,
 		"y":	736,
 		"w":	32,
@@ -5250,6 +6000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_W.png",
+		"typeName":	"mossy_stonebricks",
 		"x":	448,
 		"y":	736,
 		"w":	32,
@@ -5257,6 +6008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_SE.png",
+		"typeName":	"mossy_stonebricks",
 		"x":	480,
 		"y":	736,
 		"w":	32,
@@ -5264,6 +6016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_corner.png",
+		"typeName":	"mossy_stonebricks",
 		"x":	512,
 		"y":	736,
 		"w":	32,
@@ -5271,6 +6024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/mossy_stonebricks/stair_mossy_stonebricks_E.png",
+		"typeName":	"mossy_stonebricks",
 		"x":	544,
 		"y":	736,
 		"w":	32,
@@ -5278,6 +6032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/andesite/stair_andesite_SE.png",
+		"typeName":	"andesite",
 		"x":	576,
 		"y":	736,
 		"w":	32,
@@ -5285,6 +6040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/andesite/stair_andestie_W.png",
+		"typeName":	"andesite",
 		"x":	608,
 		"y":	736,
 		"w":	32,
@@ -5292,6 +6048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/andesite/stair_andesite_S.png",
+		"typeName":	"andesite",
 		"x":	640,
 		"y":	736,
 		"w":	32,
@@ -5299,6 +6056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/andesite/stair_andesite_N.png",
+		"typeName":	"andesite",
 		"x":	672,
 		"y":	736,
 		"w":	32,
@@ -5306,6 +6064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/andesite/stair_andesite_E.png",
+		"typeName":	"andesite",
 		"x":	704,
 		"y":	736,
 		"w":	32,
@@ -5313,6 +6072,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/andesite/stair_andesite_corner.png",
+		"typeName":	"andesite",
 		"x":	736,
 		"y":	736,
 		"w":	32,
@@ -5320,6 +6080,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/diorite/stair_diorite_E.png",
+		"typeName":	"diorite",
 		"x":	768,
 		"y":	736,
 		"w":	32,
@@ -5327,6 +6088,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/diorite/stair_diorite_W.png",
+		"typeName":	"diorite",
 		"x":	800,
 		"y":	736,
 		"w":	32,
@@ -5334,6 +6096,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/diorite/stair_diorite_SE.png",
+		"typeName":	"diorite",
 		"x":	832,
 		"y":	736,
 		"w":	32,
@@ -5341,6 +6104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/diorite/stair_diorite_S.png",
+		"typeName":	"diorite",
 		"x":	864,
 		"y":	736,
 		"w":	32,
@@ -5348,6 +6112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/diorite/stair_diorite_N.png",
+		"typeName":	"diorite",
 		"x":	896,
 		"y":	736,
 		"w":	32,
@@ -5355,6 +6120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/diorite/stair_diorite_corner.png",
+		"typeName":	"diorite",
 		"x":	928,
 		"y":	736,
 		"w":	32,
@@ -5362,6 +6128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_S.png",
+		"typeName":	"smooth_quartz",
 		"x":	960,
 		"y":	736,
 		"w":	32,
@@ -5369,6 +6136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_W.png",
+		"typeName":	"smooth_quartz",
 		"x":	992,
 		"y":	736,
 		"w":	32,
@@ -5376,6 +6144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_E.png",
+		"typeName":	"smooth_quartz",
 		"x":	0,
 		"y":	768,
 		"w":	32,
@@ -5383,6 +6152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_corner.png",
+		"typeName":	"smooth_quartz",
 		"x":	32,
 		"y":	768,
 		"w":	32,
@@ -5390,6 +6160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_SE.png",
+		"typeName":	"smooth_quartz",
 		"x":	64,
 		"y":	768,
 		"w":	32,
@@ -5397,6 +6168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/smooth_quartz/stair_smooth_quartz_N.png",
+		"typeName":	"smooth_quartz",
 		"x":	96,
 		"y":	768,
 		"w":	32,
@@ -5404,6 +6176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/jungle/stair_jungle_N.png",
+		"typeName":	"jungle",
 		"x":	128,
 		"y":	768,
 		"w":	32,
@@ -5411,6 +6184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/jungle/stair_jungle_SE.png",
+		"typeName":	"jungle",
 		"x":	160,
 		"y":	768,
 		"w":	32,
@@ -5418,6 +6192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/jungle/stair_jungle_corner.png",
+		"typeName":	"jungle",
 		"x":	192,
 		"y":	768,
 		"w":	32,
@@ -5425,6 +6200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/jungle/stair_jungle_E.png",
+		"typeName":	"jungle",
 		"x":	224,
 		"y":	768,
 		"w":	32,
@@ -5432,6 +6208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/jungle/stair_jungle_W.png",
+		"typeName":	"jungle",
 		"x":	256,
 		"y":	768,
 		"w":	32,
@@ -5439,6 +6216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/jungle/stair_jungle_S.png",
+		"typeName":	"jungle",
 		"x":	288,
 		"y":	768,
 		"w":	32,
@@ -5446,6 +6224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_corner.png",
+		"typeName":	"dark_prismarine",
 		"x":	320,
 		"y":	768,
 		"w":	32,
@@ -5453,6 +6232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_S.png",
+		"typeName":	"dark_prismarine",
 		"x":	352,
 		"y":	768,
 		"w":	32,
@@ -5460,6 +6240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_W.png",
+		"typeName":	"dark_prismarine",
 		"x":	384,
 		"y":	768,
 		"w":	32,
@@ -5467,6 +6248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_SE.png",
+		"typeName":	"dark_prismarine",
 		"x":	416,
 		"y":	768,
 		"w":	32,
@@ -5474,6 +6256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_E.png",
+		"typeName":	"dark_prismarine",
 		"x":	448,
 		"y":	768,
 		"w":	32,
@@ -5481,6 +6264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/dark_prismarine/stair_dark_prismarine_N.png",
+		"typeName":	"dark_prismarine",
 		"x":	480,
 		"y":	768,
 		"w":	32,
@@ -5488,6 +6272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/warped/stair_warped_W.png",
+		"typeName":	"warped",
 		"x":	512,
 		"y":	768,
 		"w":	32,
@@ -5495,6 +6280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/warped/stair_warped_corner.png",
+		"typeName":	"warped",
 		"x":	544,
 		"y":	768,
 		"w":	32,
@@ -5502,6 +6288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/warped/stair_warped_E.png",
+		"typeName":	"warped",
 		"x":	576,
 		"y":	768,
 		"w":	32,
@@ -5509,6 +6296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/warped/stair_warped_SE.png",
+		"typeName":	"warped",
 		"x":	608,
 		"y":	768,
 		"w":	32,
@@ -5516,6 +6304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/warped/stair_warped_S.png",
+		"typeName":	"warped",
 		"x":	640,
 		"y":	768,
 		"w":	32,
@@ -5523,6 +6312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/warped/stair_warped_N.png",
+		"typeName":	"warped",
 		"x":	672,
 		"y":	768,
 		"w":	32,
@@ -5530,6 +6320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_E.png",
+		"typeName":	"polished_diorite",
 		"x":	704,
 		"y":	768,
 		"w":	32,
@@ -5537,6 +6328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_S.png",
+		"typeName":	"polished_diorite",
 		"x":	736,
 		"y":	768,
 		"w":	32,
@@ -5544,6 +6336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_corner.png",
+		"typeName":	"polished_diorite",
 		"x":	768,
 		"y":	768,
 		"w":	32,
@@ -5551,6 +6344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_W.png",
+		"typeName":	"polished_diorite",
 		"x":	800,
 		"y":	768,
 		"w":	32,
@@ -5558,6 +6352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_N.png",
+		"typeName":	"polished_diorite",
 		"x":	832,
 		"y":	768,
 		"w":	32,
@@ -5565,6 +6360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/polished_diorite/stair_polished_diorite_SE.png",
+		"typeName":	"polished_diorite",
 		"x":	864,
 		"y":	768,
 		"w":	32,
@@ -5572,6 +6368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_E.png",
+		"typeName":	"blackstone_brick",
 		"x":	896,
 		"y":	768,
 		"w":	32,
@@ -5579,6 +6376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_corner.png",
+		"typeName":	"blackstone_brick",
 		"x":	928,
 		"y":	768,
 		"w":	32,
@@ -5586,6 +6384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_S.png",
+		"typeName":	"blackstone_brick",
 		"x":	960,
 		"y":	768,
 		"w":	32,
@@ -5593,6 +6392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_W.png",
+		"typeName":	"blackstone_brick",
 		"x":	992,
 		"y":	768,
 		"w":	32,
@@ -5600,6 +6400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_SE.png",
+		"typeName":	"blackstone_brick",
 		"x":	0,
 		"y":	800,
 		"w":	32,
@@ -5607,6 +6408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/blackstone_brick/stair_blackstone_brick_N.png",
+		"typeName":	"blackstone_brick",
 		"x":	32,
 		"y":	800,
 		"w":	32,
@@ -5614,6 +6416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_E.png",
+		"typeName":	"cobblestone",
 		"x":	64,
 		"y":	800,
 		"w":	32,
@@ -5621,6 +6424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_N.png",
+		"typeName":	"cobblestone",
 		"x":	96,
 		"y":	800,
 		"w":	32,
@@ -5628,6 +6432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_S.png",
+		"typeName":	"cobblestone",
 		"x":	128,
 		"y":	800,
 		"w":	32,
@@ -5635,6 +6440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_corner.png",
+		"typeName":	"cobblestone",
 		"x":	160,
 		"y":	800,
 		"w":	32,
@@ -5642,6 +6448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_W.png",
+		"typeName":	"cobblestone",
 		"x":	192,
 		"y":	800,
 		"w":	32,
@@ -5649,6 +6456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/cobblestone/stair_cobblestone_SE.png",
+		"typeName":	"cobblestone",
 		"x":	224,
 		"y":	800,
 		"w":	32,
@@ -5656,6 +6464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/quartz/stair_quartz_E.png",
+		"typeName":	"quartz",
 		"x":	256,
 		"y":	800,
 		"w":	32,
@@ -5663,6 +6472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/quartz/stair_quartz_S.png",
+		"typeName":	"quartz",
 		"x":	288,
 		"y":	800,
 		"w":	32,
@@ -5670,6 +6480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/quartz/stair_quartz_corner.png",
+		"typeName":	"quartz",
 		"x":	320,
 		"y":	800,
 		"w":	32,
@@ -5677,6 +6488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/quartz/stair_quartz_W.png",
+		"typeName":	"quartz",
 		"x":	352,
 		"y":	800,
 		"w":	32,
@@ -5684,6 +6496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/quartz/stair_quartz_N.png",
+		"typeName":	"quartz",
 		"x":	384,
 		"y":	800,
 		"w":	32,
@@ -5691,6 +6504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/quartz/stair_quartz_SE.png",
+		"typeName":	"quartz",
 		"x":	416,
 		"y":	800,
 		"w":	32,
@@ -5698,6 +6512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_SE.png",
+		"typeName":	"endstone_brick",
 		"x":	448,
 		"y":	800,
 		"w":	32,
@@ -5705,6 +6520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_W.png",
+		"typeName":	"endstone_brick",
 		"x":	480,
 		"y":	800,
 		"w":	32,
@@ -5712,6 +6528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_N.png",
+		"typeName":	"endstone_brick",
 		"x":	512,
 		"y":	800,
 		"w":	32,
@@ -5719,6 +6536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_corner.png",
+		"typeName":	"endstone_brick",
 		"x":	544,
 		"y":	800,
 		"w":	32,
@@ -5726,6 +6544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_S.png",
+		"typeName":	"endstone_brick",
 		"x":	576,
 		"y":	800,
 		"w":	32,
@@ -5733,6 +6552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/endstone_brick/stair_endstone_E.png",
+		"typeName":	"endstone_brick",
 		"x":	608,
 		"y":	800,
 		"w":	32,
@@ -5740,6 +6560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_S.png",
+		"typeName":	"prismarine_brick",
 		"x":	640,
 		"y":	800,
 		"w":	32,
@@ -5747,6 +6568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_W.png",
+		"typeName":	"prismarine_brick",
 		"x":	672,
 		"y":	800,
 		"w":	32,
@@ -5754,6 +6576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_N.png",
+		"typeName":	"prismarine_brick",
 		"x":	704,
 		"y":	800,
 		"w":	32,
@@ -5761,6 +6584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_E.png",
+		"typeName":	"prismarine_brick",
 		"x":	736,
 		"y":	800,
 		"w":	32,
@@ -5768,6 +6592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_SE.png",
+		"typeName":	"prismarine_brick",
 		"x":	768,
 		"y":	800,
 		"w":	32,
@@ -5775,6 +6600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/prismarine_brick/stair_prismarine_brick_corner.png",
+		"typeName":	"prismarine_brick",
 		"x":	800,
 		"y":	800,
 		"w":	32,
@@ -5782,6 +6608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/granite/stair_granite_S.png",
+		"typeName":	"granite",
 		"x":	832,
 		"y":	800,
 		"w":	32,
@@ -5789,6 +6616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/granite/stair_granite_corner.png",
+		"typeName":	"granite",
 		"x":	864,
 		"y":	800,
 		"w":	32,
@@ -5796,6 +6624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/granite/stair_granite_SE.png",
+		"typeName":	"granite",
 		"x":	896,
 		"y":	800,
 		"w":	32,
@@ -5803,6 +6632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/granite/stair_granite_W.png",
+		"typeName":	"granite",
 		"x":	928,
 		"y":	800,
 		"w":	32,
@@ -5810,6 +6640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/granite/stair_granite_N.png",
+		"typeName":	"granite",
 		"x":	960,
 		"y":	800,
 		"w":	32,
@@ -5817,6 +6648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/stairs/granite/stair_granite_E.png",
+		"typeName":	"granite",
 		"x":	992,
 		"y":	800,
 		"w":	32,
@@ -5824,6 +6656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_spruce.png",
+		"typeName":	"slabs",
 		"x":	0,
 		"y":	832,
 		"w":	32,
@@ -5831,6 +6664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_cobblestone_mossy.png",
+		"typeName":	"slabs",
 		"x":	32,
 		"y":	832,
 		"w":	32,
@@ -5838,6 +6672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_jungle.png",
+		"typeName":	"slabs",
 		"x":	64,
 		"y":	832,
 		"w":	32,
@@ -5845,6 +6680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_purpur.png",
+		"typeName":	"slabs",
 		"x":	96,
 		"y":	832,
 		"w":	32,
@@ -5852,6 +6688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_nether_bricks.png",
+		"typeName":	"slabs",
 		"x":	128,
 		"y":	832,
 		"w":	32,
@@ -5859,6 +6696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_dark_oak.png",
+		"typeName":	"slabs",
 		"x":	160,
 		"y":	832,
 		"w":	32,
@@ -5866,6 +6704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_birch.png",
+		"typeName":	"slabs",
 		"x":	192,
 		"y":	832,
 		"w":	32,
@@ -5873,6 +6712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_quartz_smooth.png",
+		"typeName":	"slabs",
 		"x":	224,
 		"y":	832,
 		"w":	32,
@@ -5880,6 +6720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_stonebricks_mossy.png",
+		"typeName":	"slabs",
 		"x":	256,
 		"y":	832,
 		"w":	32,
@@ -5887,6 +6728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_sandstone_cut_red.png",
+		"typeName":	"slabs",
 		"x":	288,
 		"y":	832,
 		"w":	32,
@@ -5894,6 +6736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_quartz.png",
+		"typeName":	"slabs",
 		"x":	320,
 		"y":	832,
 		"w":	32,
@@ -5901,6 +6744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_granite_polished.png",
+		"typeName":	"slabs",
 		"x":	352,
 		"y":	832,
 		"w":	32,
@@ -5908,6 +6752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_warped.png",
+		"typeName":	"slabs",
 		"x":	384,
 		"y":	832,
 		"w":	32,
@@ -5915,6 +6760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_blackstone_polished.png",
+		"typeName":	"slabs",
 		"x":	416,
 		"y":	832,
 		"w":	32,
@@ -5922,6 +6768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_prismarine_dark.png",
+		"typeName":	"slabs",
 		"x":	448,
 		"y":	832,
 		"w":	32,
@@ -5929,6 +6776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_sandstone_cut.png",
+		"typeName":	"slabs",
 		"x":	480,
 		"y":	832,
 		"w":	32,
@@ -5936,6 +6784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_stone_smooth.png",
+		"typeName":	"slabs",
 		"x":	512,
 		"y":	832,
 		"w":	32,
@@ -5943,6 +6792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_prismarine.png",
+		"typeName":	"slabs",
 		"x":	544,
 		"y":	832,
 		"w":	32,
@@ -5950,6 +6800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_sandstone.png",
+		"typeName":	"slabs",
 		"x":	576,
 		"y":	832,
 		"w":	32,
@@ -5957,6 +6808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_sandstone_smooth.png",
+		"typeName":	"slabs",
 		"x":	608,
 		"y":	832,
 		"w":	32,
@@ -5964,6 +6816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_granite.png",
+		"typeName":	"slabs",
 		"x":	640,
 		"y":	832,
 		"w":	32,
@@ -5971,6 +6824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_endstone.png",
+		"typeName":	"slabs",
 		"x":	672,
 		"y":	832,
 		"w":	32,
@@ -5978,6 +6832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_oak.png",
+		"typeName":	"slabs",
 		"x":	704,
 		"y":	832,
 		"w":	32,
@@ -5985,6 +6840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_andesite_polished.png",
+		"typeName":	"slabs",
 		"x":	736,
 		"y":	832,
 		"w":	32,
@@ -5992,6 +6848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_cobblestone.png",
+		"typeName":	"slabs",
 		"x":	768,
 		"y":	832,
 		"w":	32,
@@ -5999,6 +6856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_stone.png",
+		"typeName":	"slabs",
 		"x":	800,
 		"y":	832,
 		"w":	32,
@@ -6006,6 +6864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_stonebricks.png",
+		"typeName":	"slabs",
 		"x":	832,
 		"y":	832,
 		"w":	32,
@@ -6013,6 +6872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_blackstone_bricks.png",
+		"typeName":	"slabs",
 		"x":	864,
 		"y":	832,
 		"w":	32,
@@ -6020,6 +6880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_prismarine_bricks.png",
+		"typeName":	"slabs",
 		"x":	896,
 		"y":	832,
 		"w":	32,
@@ -6027,6 +6888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_crimson.png",
+		"typeName":	"slabs",
 		"x":	928,
 		"y":	832,
 		"w":	32,
@@ -6034,6 +6896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_acacia.png",
+		"typeName":	"slabs",
 		"x":	960,
 		"y":	832,
 		"w":	32,
@@ -6041,6 +6904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_nether_red.png",
+		"typeName":	"slabs",
 		"x":	992,
 		"y":	832,
 		"w":	32,
@@ -6048,6 +6912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_diorite_polished.png",
+		"typeName":	"slabs",
 		"x":	0,
 		"y":	864,
 		"w":	32,
@@ -6055,6 +6920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_diorite.png",
+		"typeName":	"slabs",
 		"x":	32,
 		"y":	864,
 		"w":	32,
@@ -6062,6 +6928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_sandstone_red.png",
+		"typeName":	"slabs",
 		"x":	64,
 		"y":	864,
 		"w":	32,
@@ -6069,6 +6936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_andesite.png",
+		"typeName":	"slabs",
 		"x":	96,
 		"y":	864,
 		"w":	32,
@@ -6076,6 +6944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_blackstone.png",
+		"typeName":	"slabs",
 		"x":	128,
 		"y":	864,
 		"w":	32,
@@ -6083,6 +6952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_bricks.png",
+		"typeName":	"slabs",
 		"x":	160,
 		"y":	864,
 		"w":	32,
@@ -6090,6 +6960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/slabs/slab_sandstone_smooth_red.png",
+		"typeName":	"slabs",
 		"x":	192,
 		"y":	864,
 		"w":	32,
@@ -6097,6 +6968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_off_N.png",
+		"typeName":	"redstone",
 		"x":	224,
 		"y":	864,
 		"w":	32,
@@ -6104,6 +6976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/sticky_pistion_U.png",
+		"typeName":	"redstone",
 		"x":	256,
 		"y":	864,
 		"w":	32,
@@ -6111,6 +6984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_on_NS.png",
+		"typeName":	"redstone",
 		"x":	288,
 		"y":	864,
 		"w":	32,
@@ -6118,6 +6992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/oak_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	320,
 		"y":	864,
 		"w":	32,
@@ -6125,6 +7000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_warped_W.png",
+		"typeName":	"redstone",
 		"x":	352,
 		"y":	864,
 		"w":	32,
@@ -6132,6 +7008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dark_oak_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	384,
 		"y":	864,
 		"w":	32,
@@ -6139,6 +7016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_off_D.png",
+		"typeName":	"redstone",
 		"x":	416,
 		"y":	864,
 		"w":	32,
@@ -6146,6 +7024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/gold_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	448,
 		"y":	864,
 		"w":	32,
@@ -6153,6 +7032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/spruce_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	480,
 		"y":	864,
 		"w":	32,
@@ -6160,6 +7040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/crimson_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	512,
 		"y":	864,
 		"w":	32,
@@ -6167,6 +7048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_on_WE.png",
+		"typeName":	"redstone",
 		"x":	544,
 		"y":	864,
 		"w":	32,
@@ -6174,6 +7056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_S.png",
+		"typeName":	"redstone",
 		"x":	576,
 		"y":	864,
 		"w":	32,
@@ -6181,6 +7064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_repeater_1_on.png",
+		"typeName":	"redstone",
 		"x":	608,
 		"y":	864,
 		"w":	32,
@@ -6188,6 +7072,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_spruce_W.png",
+		"typeName":	"redstone",
 		"x":	640,
 		"y":	864,
 		"w":	32,
@@ -6195,6 +7080,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/block_slime.png",
+		"typeName":	"redstone",
 		"x":	672,
 		"y":	864,
 		"w":	32,
@@ -6202,6 +7088,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/sitcky_pistion_arm_S.png",
+		"typeName":	"redstone",
 		"x":	704,
 		"y":	864,
 		"w":	32,
@@ -6209,6 +7096,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_oak_W.png",
+		"typeName":	"redstone",
 		"x":	736,
 		"y":	864,
 		"w":	32,
@@ -6216,6 +7104,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_comparator_comparasion_off.png",
+		"typeName":	"redstone",
 		"x":	768,
 		"y":	864,
 		"w":	32,
@@ -6223,6 +7112,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_base_E.png",
+		"typeName":	"redstone",
 		"x":	800,
 		"y":	864,
 		"w":	32,
@@ -6230,6 +7120,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_torch_E_on.png",
+		"typeName":	"redstone",
 		"x":	832,
 		"y":	864,
 		"w":	32,
@@ -6237,6 +7128,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_repeater_1_off.png",
+		"typeName":	"redstone",
 		"x":	864,
 		"y":	864,
 		"w":	32,
@@ -6244,6 +7136,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/blackstone_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	896,
 		"y":	864,
 		"w":	32,
@@ -6251,6 +7144,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_oak_E.png",
+		"typeName":	"redstone",
 		"x":	928,
 		"y":	864,
 		"w":	32,
@@ -6258,6 +7152,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/block_honey.png",
+		"typeName":	"redstone",
 		"x":	960,
 		"y":	864,
 		"w":	32,
@@ -6265,6 +7160,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_on_W.png",
+		"typeName":	"redstone",
 		"x":	992,
 		"y":	864,
 		"w":	32,
@@ -6272,6 +7168,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_base_S.png",
+		"typeName":	"redstone",
 		"x":	0,
 		"y":	896,
 		"w":	32,
@@ -6279,6 +7176,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/piston_arm_U.png",
+		"typeName":	"redstone",
 		"x":	32,
 		"y":	896,
 		"w":	32,
@@ -6286,6 +7184,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/triphook_W.png",
+		"typeName":	"redstone",
 		"x":	64,
 		"y":	896,
 		"w":	32,
@@ -6293,6 +7192,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_torch_W_off.png",
+		"typeName":	"redstone",
 		"x":	96,
 		"y":	896,
 		"w":	32,
@@ -6300,6 +7200,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_on_E.png",
+		"typeName":	"redstone",
 		"x":	128,
 		"y":	896,
 		"w":	32,
@@ -6307,6 +7208,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/triphook_set_E.png",
+		"typeName":	"redstone",
 		"x":	160,
 		"y":	896,
 		"w":	32,
@@ -6314,6 +7216,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NW_off.png",
+		"typeName":	"redstone",
 		"x":	192,
 		"y":	896,
 		"w":	32,
@@ -6321,6 +7224,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_WSE_off.png",
+		"typeName":	"redstone",
 		"x":	224,
 		"y":	896,
 		"w":	32,
@@ -6328,6 +7232,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_acacia_E.png",
+		"typeName":	"redstone",
 		"x":	256,
 		"y":	896,
 		"w":	32,
@@ -6335,6 +7240,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_spruce_E.png",
+		"typeName":	"redstone",
 		"x":	288,
 		"y":	896,
 		"w":	32,
@@ -6342,6 +7248,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_WE_on.png",
+		"typeName":	"redstone",
 		"x":	320,
 		"y":	896,
 		"w":	32,
@@ -6349,6 +7256,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_acacia_W.png",
+		"typeName":	"redstone",
 		"x":	352,
 		"y":	896,
 		"w":	32,
@@ -6356,6 +7264,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_arm_S.png",
+		"typeName":	"redstone",
 		"x":	384,
 		"y":	896,
 		"w":	32,
@@ -6363,6 +7272,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_WNE_off.png",
+		"typeName":	"redstone",
 		"x":	416,
 		"y":	896,
 		"w":	32,
@@ -6370,6 +7280,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/birch_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	448,
 		"y":	896,
 		"w":	32,
@@ -6377,6 +7288,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_on_U.png",
+		"typeName":	"redstone",
 		"x":	480,
 		"y":	896,
 		"w":	32,
@@ -6384,6 +7296,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_off.png",
+		"typeName":	"redstone",
 		"x":	512,
 		"y":	896,
 		"w":	32,
@@ -6391,6 +7304,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_E.png",
+		"typeName":	"redstone",
 		"x":	544,
 		"y":	896,
 		"w":	32,
@@ -6398,6 +7312,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_on_S.png",
+		"typeName":	"redstone",
 		"x":	576,
 		"y":	896,
 		"w":	32,
@@ -6405,6 +7320,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NE_on.png",
+		"typeName":	"redstone",
 		"x":	608,
 		"y":	896,
 		"w":	32,
@@ -6412,6 +7328,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_on.png",
+		"typeName":	"redstone",
 		"x":	640,
 		"y":	896,
 		"w":	32,
@@ -6419,6 +7336,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NWS_on.png",
+		"typeName":	"redstone",
 		"x":	672,
 		"y":	896,
 		"w":	32,
@@ -6426,6 +7344,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_repeater_0_off.png",
+		"typeName":	"redstone",
 		"x":	704,
 		"y":	896,
 		"w":	32,
@@ -6433,6 +7352,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/gold_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	736,
 		"y":	896,
 		"w":	32,
@@ -6440,6 +7360,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_off_E.png",
+		"typeName":	"redstone",
 		"x":	768,
 		"y":	896,
 		"w":	32,
@@ -6447,6 +7368,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/iron_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	800,
 		"y":	896,
 		"w":	32,
@@ -6454,6 +7376,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_birch_W.png",
+		"typeName":	"redstone",
 		"x":	832,
 		"y":	896,
 		"w":	32,
@@ -6461,6 +7384,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/blackstone_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	864,
 		"y":	896,
 		"w":	32,
@@ -6468,6 +7392,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_off_NS.png",
+		"typeName":	"redstone",
 		"x":	896,
 		"y":	896,
 		"w":	32,
@@ -6475,6 +7400,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/jungle_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	928,
 		"y":	896,
 		"w":	32,
@@ -6482,6 +7408,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_off_W.png",
+		"typeName":	"redstone",
 		"x":	960,
 		"y":	896,
 		"w":	32,
@@ -6489,6 +7416,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NW_on.png",
+		"typeName":	"redstone",
 		"x":	992,
 		"y":	896,
 		"w":	32,
@@ -6496,6 +7424,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/triphook_E.png",
+		"typeName":	"redstone",
 		"x":	0,
 		"y":	928,
 		"w":	32,
@@ -6503,6 +7432,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_torch_W_on.png",
+		"typeName":	"redstone",
 		"x":	32,
 		"y":	928,
 		"w":	32,
@@ -6510,6 +7440,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/stone_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	64,
 		"y":	928,
 		"w":	32,
@@ -6517,6 +7448,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_on_N.png",
+		"typeName":	"redstone",
 		"x":	96,
 		"y":	928,
 		"w":	32,
@@ -6524,6 +7456,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_stone_W.png",
+		"typeName":	"redstone",
 		"x":	128,
 		"y":	928,
 		"w":	32,
@@ -6531,6 +7464,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/emtpy_machine.png",
+		"typeName":	"redstone",
 		"x":	160,
 		"y":	928,
 		"w":	32,
@@ -6538,6 +7472,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/stone_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	192,
 		"y":	928,
 		"w":	32,
@@ -6545,6 +7480,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NS_off.png",
+		"typeName":	"redstone",
 		"x":	224,
 		"y":	928,
 		"w":	32,
@@ -6552,6 +7488,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dropper_0.png",
+		"typeName":	"redstone",
 		"x":	256,
 		"y":	928,
 		"w":	32,
@@ -6559,6 +7496,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_repeater_0_on.png",
+		"typeName":	"redstone",
 		"x":	288,
 		"y":	928,
 		"w":	32,
@@ -6566,6 +7504,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/target.png",
+		"typeName":	"redstone",
 		"x":	320,
 		"y":	928,
 		"w":	32,
@@ -6573,6 +7512,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_birch_E.png",
+		"typeName":	"redstone",
 		"x":	352,
 		"y":	928,
 		"w":	32,
@@ -6580,6 +7520,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/warped_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	384,
 		"y":	928,
 		"w":	32,
@@ -6587,6 +7528,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dropper_1.png",
+		"typeName":	"redstone",
 		"x":	416,
 		"y":	928,
 		"w":	32,
@@ -6594,6 +7536,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NS_on.png",
+		"typeName":	"redstone",
 		"x":	448,
 		"y":	928,
 		"w":	32,
@@ -6601,6 +7544,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_torch_off.png",
+		"typeName":	"redstone",
 		"x":	480,
 		"y":	928,
 		"w":	32,
@@ -6608,6 +7552,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dispenser_0.png",
+		"typeName":	"redstone",
 		"x":	512,
 		"y":	928,
 		"w":	32,
@@ -6615,6 +7560,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_jungle_W.png",
+		"typeName":	"redstone",
 		"x":	544,
 		"y":	928,
 		"w":	32,
@@ -6622,6 +7568,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_stone_E.png",
+		"typeName":	"redstone",
 		"x":	576,
 		"y":	928,
 		"w":	32,
@@ -6629,6 +7576,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_torch_on.png",
+		"typeName":	"redstone",
 		"x":	608,
 		"y":	928,
 		"w":	32,
@@ -6636,6 +7584,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/iron_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	640,
 		"y":	928,
 		"w":	32,
@@ -6643,6 +7592,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/sitcky_pistion_E.png",
+		"typeName":	"redstone",
 		"x":	672,
 		"y":	928,
 		"w":	32,
@@ -6650,6 +7600,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/birch_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	704,
 		"y":	928,
 		"w":	32,
@@ -6657,6 +7608,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_off_W.png",
+		"typeName":	"redstone",
 		"x":	736,
 		"y":	928,
 		"w":	32,
@@ -6664,6 +7616,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_dark_oak_E.png",
+		"typeName":	"redstone",
 		"x":	768,
 		"y":	928,
 		"w":	32,
@@ -6671,6 +7624,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_SE_off.png",
+		"typeName":	"redstone",
 		"x":	800,
 		"y":	928,
 		"w":	32,
@@ -6678,6 +7632,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_torch_E_off.png",
+		"typeName":	"redstone",
 		"x":	832,
 		"y":	928,
 		"w":	32,
@@ -6685,6 +7640,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_on_W.png",
+		"typeName":	"redstone",
 		"x":	864,
 		"y":	928,
 		"w":	32,
@@ -6692,6 +7648,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dark_oak_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	896,
 		"y":	928,
 		"w":	32,
@@ -6699,6 +7656,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/triphook_set_W.png",
+		"typeName":	"redstone",
 		"x":	928,
 		"y":	928,
 		"w":	32,
@@ -6706,6 +7664,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_WE_off.png",
+		"typeName":	"redstone",
 		"x":	960,
 		"y":	928,
 		"w":	32,
@@ -6713,6 +7672,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_blackstone_E.png",
+		"typeName":	"redstone",
 		"x":	992,
 		"y":	928,
 		"w":	32,
@@ -6720,6 +7680,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NE_off.png",
+		"typeName":	"redstone",
 		"x":	0,
 		"y":	960,
 		"w":	32,
@@ -6727,6 +7688,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/oak_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	32,
 		"y":	960,
 		"w":	32,
@@ -6734,6 +7696,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NWS_off.png",
+		"typeName":	"redstone",
 		"x":	64,
 		"y":	960,
 		"w":	32,
@@ -6741,6 +7704,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_WNE_on.png",
+		"typeName":	"redstone",
 		"x":	96,
 		"y":	960,
 		"w":	32,
@@ -6748,6 +7712,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dispenser_1.png",
+		"typeName":	"redstone",
 		"x":	128,
 		"y":	960,
 		"w":	32,
@@ -6755,6 +7720,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_comparator_subraction_on.png",
+		"typeName":	"redstone",
 		"x":	160,
 		"y":	960,
 		"w":	32,
@@ -6762,6 +7728,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_dark_oak_W.png",
+		"typeName":	"redstone",
 		"x":	192,
 		"y":	960,
 		"w":	32,
@@ -6769,6 +7736,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/hopper.png",
+		"typeName":	"redstone",
 		"x":	224,
 		"y":	960,
 		"w":	32,
@@ -6776,6 +7744,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_crimson_E.png",
+		"typeName":	"redstone",
 		"x":	256,
 		"y":	960,
 		"w":	32,
@@ -6783,6 +7752,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_SW_on.png",
+		"typeName":	"redstone",
 		"x":	288,
 		"y":	960,
 		"w":	32,
@@ -6790,6 +7760,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_SW_off.png",
+		"typeName":	"redstone",
 		"x":	320,
 		"y":	960,
 		"w":	32,
@@ -6797,6 +7768,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/block_redstone.png",
+		"typeName":	"redstone",
 		"x":	352,
 		"y":	960,
 		"w":	32,
@@ -6804,6 +7776,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/spruce_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	384,
 		"y":	960,
 		"w":	32,
@@ -6811,6 +7784,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_off_WE.png",
+		"typeName":	"redstone",
 		"x":	416,
 		"y":	960,
 		"w":	32,
@@ -6818,6 +7792,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/jungle_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	448,
 		"y":	960,
 		"w":	32,
@@ -6825,6 +7800,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_off_S.png",
+		"typeName":	"redstone",
 		"x":	480,
 		"y":	960,
 		"w":	32,
@@ -6832,6 +7808,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_off_U.png",
+		"typeName":	"redstone",
 		"x":	512,
 		"y":	960,
 		"w":	32,
@@ -6839,6 +7816,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_SE_on.png",
+		"typeName":	"redstone",
 		"x":	544,
 		"y":	960,
 		"w":	32,
@@ -6846,6 +7824,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_WSE_on.png",
+		"typeName":	"redstone",
 		"x":	576,
 		"y":	960,
 		"w":	32,
@@ -6853,6 +7832,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_blackstone_W.png",
+		"typeName":	"redstone",
 		"x":	608,
 		"y":	960,
 		"w":	32,
@@ -6860,6 +7840,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NESW_off.png",
+		"typeName":	"redstone",
 		"x":	640,
 		"y":	960,
 		"w":	32,
@@ -6867,6 +7848,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/acacia_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	672,
 		"y":	960,
 		"w":	32,
@@ -6874,6 +7856,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NESW_on.png",
+		"typeName":	"redstone",
 		"x":	704,
 		"y":	960,
 		"w":	32,
@@ -6881,6 +7864,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_base_U.png",
+		"typeName":	"redstone",
 		"x":	736,
 		"y":	960,
 		"w":	32,
@@ -6888,6 +7872,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_comparator_comparasion_on.png",
+		"typeName":	"redstone",
 		"x":	768,
 		"y":	960,
 		"w":	32,
@@ -6895,6 +7880,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/acacia_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	800,
 		"y":	960,
 		"w":	32,
@@ -6902,6 +7888,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dispenser_2.png",
+		"typeName":	"redstone",
 		"x":	832,
 		"y":	960,
 		"w":	32,
@@ -6909,6 +7896,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lodestone.png",
+		"typeName":	"redstone",
 		"x":	864,
 		"y":	960,
 		"w":	32,
@@ -6916,6 +7904,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_off_E.png",
+		"typeName":	"redstone",
 		"x":	896,
 		"y":	960,
 		"w":	32,
@@ -6923,6 +7912,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/sticky_pistion_arm_U.png",
+		"typeName":	"redstone",
 		"x":	928,
 		"y":	960,
 		"w":	32,
@@ -6930,6 +7920,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_repeater_2_on.png",
+		"typeName":	"redstone",
 		"x":	960,
 		"y":	960,
 		"w":	32,
@@ -6937,6 +7928,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_U.png",
+		"typeName":	"redstone",
 		"x":	992,
 		"y":	960,
 		"w":	32,
@@ -6944,6 +7936,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/warped_pressure_plate_down.png",
+		"typeName":	"redstone",
 		"x":	0,
 		"y":	992,
 		"w":	32,
@@ -6951,6 +7944,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NES_on.png",
+		"typeName":	"redstone",
 		"x":	32,
 		"y":	992,
 		"w":	32,
@@ -6958,6 +7952,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/noteblock.png",
+		"typeName":	"redstone",
 		"x":	64,
 		"y":	992,
 		"w":	32,
@@ -6965,6 +7960,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_warped_E.png",
+		"typeName":	"redstone",
 		"x":	96,
 		"y":	992,
 		"w":	32,
@@ -6972,6 +7968,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/pistion_arm_E.png",
+		"typeName":	"redstone",
 		"x":	128,
 		"y":	992,
 		"w":	32,
@@ -6979,6 +7976,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/tnt.png",
+		"typeName":	"redstone",
 		"x":	160,
 		"y":	992,
 		"w":	32,
@@ -6986,6 +7984,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/lever_on_E.png",
+		"typeName":	"redstone",
 		"x":	192,
 		"y":	992,
 		"w":	32,
@@ -6993,6 +7992,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_crimson_W.png",
+		"typeName":	"redstone",
 		"x":	224,
 		"y":	992,
 		"w":	32,
@@ -7000,6 +8000,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_NES_off.png",
+		"typeName":	"redstone",
 		"x":	256,
 		"y":	992,
 		"w":	32,
@@ -7007,6 +8008,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/sitcky_pistion_arm_E.png",
+		"typeName":	"redstone",
 		"x":	288,
 		"y":	992,
 		"w":	32,
@@ -7014,6 +8016,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/sitcky_pistion_S.png",
+		"typeName":	"redstone",
 		"x":	320,
 		"y":	992,
 		"w":	32,
@@ -7021,6 +8024,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_comparator_subraction_off.png",
+		"typeName":	"redstone",
 		"x":	352,
 		"y":	992,
 		"w":	32,
@@ -7028,6 +8032,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/observer_on_D.png",
+		"typeName":	"redstone",
 		"x":	384,
 		"y":	992,
 		"w":	32,
@@ -7035,6 +8040,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/redstone_repeater_2_off.png",
+		"typeName":	"redstone",
 		"x":	416,
 		"y":	992,
 		"w":	32,
@@ -7042,6 +8048,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/dropper_2.png",
+		"typeName":	"redstone",
 		"x":	448,
 		"y":	992,
 		"w":	32,
@@ -7049,6 +8056,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/crimson_pressure_plate.png",
+		"typeName":	"redstone",
 		"x":	480,
 		"y":	992,
 		"w":	32,
@@ -7056,6 +8064,7 @@
 		"rotated":	0
 	}, {
 		"filename":	"assets/tiles/redstone/button_jungle_E.png",
+		"typeName":	"redstone",
 		"x":	512,
 		"y":	992,
 		"w":	32,

@@ -11,6 +11,7 @@ typedef void (*voidFunctionPointer)(void);
 
 typedef struct _image {
     char* filename;
+    char* typeName;
     SDL_Surface* surface;
 } Image;
 

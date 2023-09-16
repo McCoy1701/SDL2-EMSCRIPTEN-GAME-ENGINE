@@ -76,6 +76,7 @@ int main(int argc, char* argv[]) {
             entryJson = cJSON_CreateObject();
 
             cJSON_AddStringToObject(entryJson, "filename", images[i].filename);
+            cJSON_AddStringToObject(entryJson, "typeName", images[i].typeName);
             cJSON_AddNumberToObject(entryJson, "x", dest.x);
             cJSON_AddNumberToObject(entryJson, "y", dest.y);
             cJSON_AddNumberToObject(entryJson, "w", dest.w);
@@ -161,7 +162,7 @@ static int initImages(void) {
     images = malloc(sizeof(Image) * i);
     
     memset(images, 0, sizeof(Image) * i);
-    
+
     i = 0;
 
     loadImageData(&i, rootDir);
@@ -216,8 +217,11 @@ static void loadImageData(int* i, const char* dir) {
                 sprintf(path, "%s/%s", dir, ent->d_name);
                 images[*i].surface = IMG_Load(path);
                 if (images[*i].surface) {
+                    printf("dir: %s\n", dir);
+                    char* temp = getSplitName(dir);
                     images[*i].filename = malloc(strlen(path) + 1);
-
+                    images[*i].typeName = (char*)malloc(sizeof(char) * 16);
+                    strcpy(images[*i].typeName, temp);
                     strcpy(images[*i].filename, path);
                     SDL_SetSurfaceBlendMode(images[*i].surface, SDL_BLENDMODE_NONE);
                     *i = *i + 1;
@@ -343,5 +347,16 @@ static void putPixel(int x, int y, Uint32 pixel, SDL_Surface* dest) {
         case 4:
             *(Uint32 *)p = pixel;
             break;
+    }
+}
+
+static char* getSplitName(const char* name) {
+    char* lastSpot = strrchr(name, '/');
+
+    if (lastSpot != NULL) {
+        char* result = lastSpot + 1;
+        return result;
+    } else {
+        return NULL;
     }
 }

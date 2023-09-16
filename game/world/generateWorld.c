@@ -3,22 +3,13 @@
 
 Cell MAP[MAP_WIDTH][MAP_HEIGHT];
 
-Cell** allocateWorldMemory(void) {
-    Cell** grid = malloc(MAP_HEIGHT * sizeof(Cell*));
-    for (int y = 0; y < MAP_HEIGHT; y++) {
-        grid[y] = malloc(MAP_WIDTH * sizeof(Cell));
-    }
-    
-    return grid;
-}
-
 void generateWorld(void) {
     
     for (int x = 0; x < MAP_WIDTH; x++) {
         for (int y = 0; y < MAP_HEIGHT; y++) {
             // printf("count: %d\n", tileCount);
-            MAP[x][x].id = (rand() % tileCount);
-            MAP[y][x].hovering = 0;
+            MAP[x][y].id = (rand() % tileCount);
+            MAP[x][y].hovering = 0;
         }
     }
 
@@ -53,7 +44,7 @@ void updateWorld(Cell** grid) {
     }
 }
 
-void displayWorld(Cell** grid) {
+void displayWorld(Cell grid[MAP_WIDTH][MAP_HEIGHT]) {
     int sx, sy;
     for (int x = MAP_WIDTH; x > 0; x--) {
         for (int y = 0; y < MAP_HEIGHT; y++) {
