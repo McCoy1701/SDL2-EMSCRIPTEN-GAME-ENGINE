@@ -13,8 +13,9 @@ void doLoop(void) {
 }
 
 void renderLoop(void) {
-    displayWorld(MAP);
-    drawText(100, 100, 255, 255, 255, TEXT_LEFT, 1, "BIG FAT BITCHES");
+    testDisplay();
+    // displayWorld(MAP);
+    // drawText(100, 100, 255, 255, 255, TEXT_LEFT, 1, "BIG FAT BITCHES");
 }
 
 void initGame(void) {

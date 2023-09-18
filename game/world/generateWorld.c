@@ -2,6 +2,7 @@
 
 
 Cell MAP[MAP_WIDTH][MAP_HEIGHT];
+static int i;
 
 void generateWorld(void) {
     
@@ -125,6 +126,37 @@ void displayWorld(Cell grid[MAP_WIDTH][MAP_HEIGHT]) {
                 break;
             }
         }
+    }
+}
+
+void testDisplay(void) {
+
+    blitAtlasImage(blocksArray[i],      100, 100, 0);
+    blitAtlasImage(concreteArray[i],    132, 100, 0);
+    blitAtlasImage(decorationsArray[i], 164, 100, 0);
+    blitAtlasImage(entitiesArray[i],    196, 100, 0);
+    blitAtlasImage(fenceArray[i],       228, 100, 0);
+    blitAtlasImage(glassArray[i],       250, 100, 0);
+    blitAtlasImage(grassArray[i],       282, 100, 0);
+    blitAtlasImage(oreArray[i],         312, 100, 0);
+    blitAtlasImage(plantsArray[i],      344, 100, 0);
+    blitAtlasImage(redstoneArray[i],    376, 100, 0);
+    blitAtlasImage(slabsArray[i],       408, 100, 0);
+    blitAtlasImage(stairsArray[i],      440, 100, 0);
+    blitAtlasImage(stoneArray[i],       472, 100, 0);
+    blitAtlasImage(terracottaArray[i],  504, 100, 0);
+    blitAtlasImage(wallArray[i],        536, 100, 0);
+    blitAtlasImage(woodArray[i],        568, 100, 0);
+    blitAtlasImage(woolArray[i],        600, 100, 0);
+    i++;
+    sleep(1);
+    
+    
+    printf("index: %d\n", i);
+    
+    if (i > 128) {
+        i = 0;
+        printf("reset: %d\n", i);
     }
 }
 

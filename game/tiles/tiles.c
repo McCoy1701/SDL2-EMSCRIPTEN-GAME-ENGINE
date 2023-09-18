@@ -91,87 +91,87 @@ void initTiles(void) {
 
 static void loadArrays(int i, char* type, char* filename) {
     if (strcmp(type, "blocks") == 0) {
-            blocksArray[i] = getAtlasImage(filename);
+            blocksArray[blockCount] = getAtlasImage(filename);
             blockCount++;
-        }
+    }
         
-        if (strcmp(type, "concrete") == 0) {
-            concreteArray[i] = getAtlasImage(filename);
-            concreteCount++;
-        }
+    else if (strcmp(type, "concrete") == 0) {
+        concreteArray[concreteCount] = getAtlasImage(filename);
+        concreteCount++;
+    }
 
-        if (strcmp(type, "decorations") == 0) {
-            decorationsArray[i] = getAtlasImage(filename);
-            decorationsCount++;
-        }
+    else if (strcmp(type, "decorations") == 0) {
+        decorationsArray[decorationsCount] = getAtlasImage(filename);
+        decorationsCount++;
+    }
 
-        if (strcmp(type, "entities") == 0) {
-            entitiesArray[i] = getAtlasImage(filename);
-            entitiesCount++;
-        }
+    else if (strcmp(type, "entities") == 0) {
+        entitiesArray[entitiesCount] = getAtlasImage(filename);
+        entitiesCount++;
+    }
 
-        if (strcmp(type, "fence") == 0) {
-            fenceArray[i] = getAtlasImage(filename);
-            fenceCount++;
-        }
+    else if (strcmp(type, "fence") == 0) {
+        fenceArray[fenceCount] = getAtlasImage(filename);
+        fenceCount++;
+    }
 
-        if (strcmp(type, "glass") == 0) {
-            glassArray[i] = getAtlasImage(filename);
-            glassCount++;
-        }
+    else if (strcmp(type, "glass") == 0) {
+        glassArray[glassCount] = getAtlasImage(filename);
+        glassCount++;
+    }
 
-        if (strcmp(type, "grass") == 0) {
-            grassArray[i] = getAtlasImage(filename);
-            grassCount++;
-        }
+    else if (strcmp(type, "grass") == 0) {
+        grassArray[grassCount] = getAtlasImage(filename);
+        grassCount++;
+    }
 
-        if (strcmp(type, "ore") == 0) {
-            oreArray[i] = getAtlasImage(filename);
-            oreCount++;
-        }
+    else if (strcmp(type, "ore") == 0) {
+        oreArray[oreCount] = getAtlasImage(filename);
+        oreCount++;
+    }
 
-        if (strcmp(type, "plants") == 0) {
-            plantsArray[i] = getAtlasImage(filename);
-            plantsCount++;
-        }
+    else if (strcmp(type, "plants") == 0) {
+        plantsArray[plantsCount] = getAtlasImage(filename);
+        plantsCount++;
+    }
 
-        if (strcmp(type, "redstone") == 0) {
-            redstoneArray[i] = getAtlasImage(filename);
-            redstoneCount++;
-        }
+    else if (strcmp(type, "redstone") == 0) {
+        redstoneArray[redstoneCount] = getAtlasImage(filename);
+        redstoneCount++;
+    }
 
-        if (strcmp(type, "slabs") == 0) {
-            slabsArray[i] = getAtlasImage(filename);
-            slabsCount++;
-        }
+    else if (strcmp(type, "slabs") == 0) {
+        slabsArray[slabsCount] = getAtlasImage(filename);
+        slabsCount++;
+    }
 
-        if (strcmp(type, "stairs") == 0) {
-            stairsArray[i] = getAtlasImage(filename);
-            stairsCount++;
-        }
+    else if (strcmp(type, "stairs") == 0) {
+        stairsArray[stairsCount] = getAtlasImage(filename);
+        stairsCount++;
+    }
 
-        if (strcmp(type, "stone") == 0) {
-            stoneArray[i] = getAtlasImage(filename);
-            stoneCount++;
-        }
+    else if (strcmp(type, "stone") == 0) {
+        stoneArray[stoneCount] = getAtlasImage(filename);
+        stoneCount++;
+    }
 
-        if (strcmp(type, "terracotta") == 0) {
-            terracottaArray[i] = getAtlasImage(filename);
-            terracottaCount++;
-        }
+    else if (strcmp(type, "terracotta") == 0) {
+        terracottaArray[terracottaCount] = getAtlasImage(filename);
+        terracottaCount++;
+    }
 
-        if (strcmp(type, "wall") == 0) {
-            wallArray[i] = getAtlasImage(filename);
-            wallCount++;
-        }
+    else if (strcmp(type, "wall") == 0) {
+        wallArray[wallCount] = getAtlasImage(filename);
+        wallCount++;
+    }
 
-        if (strcmp(type, "wood") == 0) {
-            woodArray[i] = getAtlasImage(filename);
-            woodCount++;
-        }
+    else if (strcmp(type, "wood") == 0) {
+        woodArray[woodCount] = getAtlasImage(filename);
+        woodCount++;
+    }
 
-        if (strcmp(type, "wool") == 0) {
-            woolArray[i] = getAtlasImage(filename);
-            woolCount++;
-        }
+    else if (strcmp(type, "wool") == 0) {
+        woolArray[woolCount] = getAtlasImage(filename);
+        woolCount++;
+    }
 }
