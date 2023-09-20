@@ -1,17 +1,20 @@
 #include "main.h"
 
 void mainloop(void) {
-    prepareScene();
+    // prepareScene();
 
-    gameLoop();
+    // gameLoop();
     
-    presentScene();
+    // presentScene();
+    printf("loop\n");
 }
 
 int main(int argc, char** argv) {
-    init();
+    // init();
+
+    printf("hello?\n");
     
-    initGame();
+    // initGame();
     
     #ifdef __EMSCRIPTEN__
         emscripten_set_main_loop(mainloop, -1, 1);

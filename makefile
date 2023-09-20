@@ -89,6 +89,9 @@ $(OBJ_DIR)/tiles.o: $(GAME_DIR)/tiles/tiles.c
 $(OBJ_DIR)/generateWorld.o: $(GAME_DIR)/world/generateWorld.c
 	$(ECC) $< -c -o $@
 
+$(OBJ_DIR)/world.o: $(GAME_DIR)/world/world.c
+	$(ECC) $< -c -o $@
+
 $(OBJ_DIR)/globals.o: $(GAME_DIR)/globals/global.c
 	$(ECC) $< -c -o $@
 
@@ -99,9 +102,9 @@ $(OBJ_DIR)/main.o: $(SRC_DIR)/main.c
 	$(ECC) $< -c -o $@
 
 
-$(INDEX_DIR): always $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/atlas.o $(OBJ_DIR)/_drawInteral.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/drawShapes.o $(OBJ_DIR)/entities.o $(OBJ_DIR)/init.o $(OBJ_DIR)/input.o $(OBJ_DIR)/eJSON.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/ui.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/vector2.o $(OBJ_DIR)/vector3.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/tiles.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/globals.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
+$(INDEX_DIR): always $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/atlas.o $(OBJ_DIR)/_drawInteral.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/drawShapes.o $(OBJ_DIR)/entities.o $(OBJ_DIR)/init.o $(OBJ_DIR)/input.o $(OBJ_DIR)/eJSON.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/ui.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/vector2.o $(OBJ_DIR)/vector3.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/tiles.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/world.o $(OBJ_DIR)/globals.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o
 	mkdir -p $(INDEX_DIR)
-	$(ECC) $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/atlas.o $(OBJ_DIR)/_drawInteral.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/drawShapes.o $(OBJ_DIR)/entities.o $(OBJ_DIR)/init.o $(OBJ_DIR)/input.o $(OBJ_DIR)/eJSON.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/ui.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/vector2.o $(OBJ_DIR)/vector3.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/tiles.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/globals.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(EFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
+	$(ECC) $(OBJ_DIR)/animation.o $(OBJ_DIR)/animationNode.o $(OBJ_DIR)/atlas.o $(OBJ_DIR)/_drawInteral.o $(OBJ_DIR)/draw.o $(OBJ_DIR)/drawShapes.o $(OBJ_DIR)/entities.o $(OBJ_DIR)/init.o $(OBJ_DIR)/input.o $(OBJ_DIR)/eJSON.o $(OBJ_DIR)/sounds.o $(OBJ_DIR)/text.o $(OBJ_DIR)/ui.o $(OBJ_DIR)/deltaTime.o $(OBJ_DIR)/vector2.o $(OBJ_DIR)/vector3.o $(OBJ_DIR)/utils.o $(OBJ_DIR)/tiles.o $(OBJ_DIR)/generateWorld.o $(OBJ_DIR)/world.o $(OBJ_DIR)/globals.o $(OBJ_DIR)/game.o $(OBJ_DIR)/main.o -s WASM=1 $(EFLAGS) --shell-file htmlTemplate/template.html --preload-file assets -o $(INDEX_DIR)/$@.html
 
 atlasGen: always
 	$(CC) $(JSON_DIR)/cJSON.c $(TOOLS_DIR)/atlasGen.c -o $(OBJ_DIR)/atlasGen.o $(CFLAGS)

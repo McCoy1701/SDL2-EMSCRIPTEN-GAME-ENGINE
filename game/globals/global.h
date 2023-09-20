@@ -12,6 +12,10 @@
 #include "../../engine/animations/animation.h"
 #include "../../engine/entities/entities.h"
 
+#include "../../engine/definitions.h"
+#include "../../engine/structs.h"
+#include "../../engine/ui/ui.h"
+
 #include "globalEnums.h"
 
 extern AtlasImage* blocksArray[NUM_OF_BLOCKS];
@@ -32,7 +36,10 @@ extern AtlasImage* wallArray[NUM_OF_BLOCKS];
 extern AtlasImage* woodArray[NUM_OF_BLOCKS];
 extern AtlasImage* woolArray[NUM_OF_BLOCKS];
 
+extern AtlasImage* uiArray[NUM_OF_UI_ITEMS];
+
 extern int tileCount;
+extern int uiCount;
 
 extern int blockCount;
 extern int concreteCount;
@@ -51,5 +58,6 @@ extern int terracottaCount;
 extern int wallCount;
 extern int woodCount;
 extern int woolCount;
+
 
 #endif

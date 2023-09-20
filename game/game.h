@@ -9,6 +9,8 @@
 #include "tiles/tiles.h"
 
 extern Entity* player;
+// extern Button* backButton;
+// extern Button* forwardButton;
 
 void gameLoop(void);
 
